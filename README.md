@@ -81,14 +81,29 @@ capitello.fr et le site local, et enregistre les captures côte à côte dans
 l'état obtenu. Tant que capitello.fr sert encore le site WordPress, ces deux scripts doivent
 afficher 0 écart.
 
-## Mise en production
+## Hébergement (Clever Cloud)
 
-Variables d'environnement : voir `.env.example`.
+Même dispositif que le site Doxamed, sur le même compte : application Node `capitello` (zone
+Paris, 1 instance S), add-on PostgreSQL `capitello-db`, add-on Cellar `capitello-media` (bucket
+S3 `capitello-media`). L'application est décrite dans `.clever.json`.
 
-- **Base** : Postgres (`DATABASE_URI=postgres://…`). Les migrations ne sont pas encore
-  générées : à la première connexion à la base de production, lancer
-  `npx payload migrate:create` puis `npx payload migrate`, et versionner `src/migrations`.
-- **Fichiers uploadés depuis le BO** : bucket compatible S3 (`S3_*`).
-- **Import initial** : `npm run seed` puis `npm run import-library` contre la base et le
-  stockage de production, depuis un poste qui dispose du dossier `import-files` (340 Mo, dont
-  200 Mo de vidéos déjà recompressées).
+```bash
+clever deploy            # pousse la branche courante et déclenche le déploiement
+clever logs              # journaux du build et de l'application
+clever env               # variables d'environnement (voir .env.example)
+```
+
+- **Déploiement** : `CC_PRE_BUILD_HOOK` applique les migrations (`npx payload migrate`), puis
+  `CC_POST_BUILD_HOOK` compile le site (`npm run build`).
+- **Schéma de la base** : toute modification des collections demande une migration —
+  `npx payload migrate:create <nom>` avec `DATABASE_URI` pointant sur une base PostgreSQL, puis
+  versionner `src/migrations` ; elle est appliquée au déploiement suivant. Sur le disque
+  externe, supprimer les fichiers `._*` de `src/migrations` avant de lancer `payload migrate`
+  en local (ils ne sont pas dans le dépôt).
+- **Contenus** : la base et le stockage de production ont été initialisés depuis ce poste avec
+  `scripts/seed.ts` puis `scripts/import-library.ts` (variables de production, dossier
+  `import-files`). Ces scripts sont idempotents.
+- **Préproduction** : tant que `SITE_NOINDEX=true`, le site interdit son indexation. À la mise
+  en ligne sur capitello.fr : retirer cette variable, mettre `NEXT_PUBLIC_SITE_URL` au domaine
+  définitif, renseigner `GA_MEASUREMENT_ID`, ajouter les domaines (`clever domain add`) et
+  redéployer.

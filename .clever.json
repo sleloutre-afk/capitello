@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_42d4fcaf-e096-46b9-8383-a02608ae6d3a",
+      "org_id": "user_3f85115a-e48d-499b-bcac-324f5839564d",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_42d4fcaf-e096-46b9-8383-a02608ae6d3a.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_42d4fcaf-e096-46b9-8383-a02608ae6d3a.git",
+      "name": "capitello",
+      "alias": "capitello"
+    }
+  ]
+}
