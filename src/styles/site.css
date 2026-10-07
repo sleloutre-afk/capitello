@@ -1,0 +1,28 @@
+/* Ajustements propres au nouveau site, chargés après les styles d'origine (src/styles/legacy). */
+
+/*
+ * Widget LinkedIn (page « Le mot du président »). Son conteneur Elementor
+ * est une ligne flex dont les enfants prennent la largeur de leur contenu :
+ * sans largeur imposée, le widget Elfsight ne peut pas mesurer la place
+ * disponible, se réduit à une seule carte géante et reste collé à gauche.
+ * On lui donne toute la largeur et on le centre ; sa largeur maximale
+ * (1280 px) se règle dans Elfsight.
+ */
+.elementor-widget-html:has(> .elementor-widget-container > .linkedin-feed) {
+  width: 100%;
+  /* sans quoi l'élément flex refuse de passer sous la largeur du widget sur les écrans étroits */
+  min-width: 0;
+}
+
+.linkedin-feed {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* Au-delà de 1024 px, le conteneur n'a plus de marges latérales : on en garde 40 px de chaque côté. */
+@media (min-width: 1025px) {
+  .linkedin-feed {
+    width: calc(100% - 80px);
+  }
+}

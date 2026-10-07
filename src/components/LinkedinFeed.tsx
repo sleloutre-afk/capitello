@@ -18,7 +18,10 @@ export function LinkedinFeed() {
   return (
     <>
       <Script src="https://elfsightcdn.com/platform.js" strategy="lazyOnload" />
-      <div className={`elfsight-app-${ELFSIGHT_WIDGET_ID}`} data-elfsight-app-lazy="" />
+      {/* `linkedin-feed` : largeur et centrage, voir src/styles/site.css */}
+      <div className="linkedin-feed">
+        <div className={`elfsight-app-${ELFSIGHT_WIDGET_ID}`} data-elfsight-app-lazy="" />
+      </div>
     </>
   )
 }

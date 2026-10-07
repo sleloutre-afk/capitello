@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation'
 import Script from 'next/script'
 import { isLocale, LOCALES } from '@/lib/locales'
 import '@/styles/legacy'
+import '@/styles/site.css'
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3084'
 const GA_ID = process.env.GA_MEASUREMENT_ID
