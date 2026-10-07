@@ -16,6 +16,12 @@ const nextConfig: NextConfig = {
         headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],
       },
       {
+        // Fichiers de la bibliothèque du BO (visuels, PDF, vidéos), servis par
+        // l'application depuis le stockage S3 : mis en cache par le navigateur.
+        source: '/api/media/file/:path*',
+        headers: [{ key: 'Cache-Control', value: 'public, max-age=3600, stale-while-revalidate=86400' }],
+      },
+      {
         source: '/fonts/:path*',
         headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],
       },

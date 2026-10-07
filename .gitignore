@@ -12,6 +12,7 @@ next-env.d.ts
 
 # payload — fichiers uploadés en local (dev) ; en production : stockage S3
 /media
+/.media-s3
 /src/app/(payload)/BO/importMap.js
 /src/payload-types.ts
 

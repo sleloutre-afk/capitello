@@ -35,8 +35,12 @@ export const Media: CollectionConfig = {
     delete: ({ req }) => Boolean(req.user),
   },
   upload: {
-    // En local : <projet>/media (ignoré par git). En production : stockage S3.
-    staticDir: path.resolve(dirname, '../../media'),
+    // En local : <projet>/media (ignoré par git). Avec le stockage S3
+    // (production), rien n'est écrit sur disque, mais Payload y cherche
+    // quand même les doublons de nom : on pointe alors vers un dossier
+    // inexistant, sinon un import lancé depuis ce poste renomme chaque
+    // fichier déjà présent dans ./media (« nom-1.pdf »).
+    staticDir: path.resolve(dirname, process.env.S3_BUCKET ? '../../.media-s3' : '../../media'),
     mimeTypes: ['image/*', 'application/pdf', 'video/mp4', 'audio/mpeg'],
   },
   fields: [
