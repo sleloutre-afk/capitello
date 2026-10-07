@@ -93,8 +93,8 @@ clever logs              # journaux du build et de l'application
 clever env               # variables d'environnement (voir .env.example)
 ```
 
-- **Déploiement** : `CC_PRE_BUILD_HOOK` applique les migrations (`npx payload migrate`), puis
-  `CC_POST_BUILD_HOOK` compile le site (`npm run build`).
+- **Déploiement** : une fois les dépendances installées, `CC_POST_BUILD_HOOK` applique les
+  migrations puis compile le site (`npx payload migrate && npm run build`).
 - **Schéma de la base** : toute modification des collections demande une migration —
   `npx payload migrate:create <nom>` avec `DATABASE_URI` pointant sur une base PostgreSQL, puis
   versionner `src/migrations` ; elle est appliquée au déploiement suivant. Sur le disque
