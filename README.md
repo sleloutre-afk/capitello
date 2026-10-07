@@ -23,14 +23,15 @@ Le site tourne sur **http://localhost:3084**, le back-office sur **http://localh
 
 | Dossier | Contenu |
 | --- | --- |
-| `src/app/(site)/[locale]` | Les 5 pages. Le français est servi sans préfixe, les autres langues sous `/en`, `/es`, `/zh` (`src/middleware.ts`). |
+| `src/app/(site)/[locale]` | Les 5 pages et les 3 pages légales. Le français est servi sans préfixe, les autres langues sous `/en`, `/es`, `/zh` (`src/middleware.ts`). |
 | `src/components/sections` | Le contenu de chaque page, l'en-tête (variante accueil / pages intérieures) et le pied de page. Balisage et classes d'origine conservés : les styles s'y rattachent. |
 | `src/i18n/dictionaries` | Tous les textes, par langue. La clé reprend l'identifiant du bloc (`e9445bbb` ↔ classe `elementor-element-9445bbb`). |
+| `src/content/legal.ts` | Texte des trois pages légales (mentions légales, données personnelles, cookies), en français ; l'adresse du siège et l'hébergeur y sont définis une seule fois. Gabarit : `src/components/LegalPage.tsx`. |
 | `src/i18n/ui.ts` | Titres d'onglet et libellés des listes de publications. |
 | `src/styles/legacy` | Les feuilles de style du site d'origine, dans leur ordre de chargement. |
 | `src/components/SiteBehaviors.tsx` | Le JavaScript du site : en-tête au défilement, menu burger, carrousels. |
 | `src/collections`, `src/payload.config.ts` | Le back-office. |
-| `public/wp-content` | Images, polices et PDF légaux utilisés par les pages, aux mêmes adresses que sur l'ancien site. |
+| `public/wp-content` | Images et polices utilisées par les pages, aux mêmes adresses que sur l'ancien site. |
 | `import-files` (hors git) | Visuels, PDF, vidéos et sons des publications d'origine : source de `npm run import-library`. Une fois importés, ils sont servis par la bibliothèque du BO ; leurs anciennes adresses `/wp-content/uploads/…` y sont redirigées (`src/app/wp-content/uploads/[...path]/route.ts`). |
 | `media` (hors git) | Stockage local de la bibliothèque du BO (S3 en production). |
 | `scripts/import` | Scripts qui ont servi à amorcer le projet depuis la copie de référence. À ne pas relancer : les fichiers générés sont désormais maintenus à la main. |

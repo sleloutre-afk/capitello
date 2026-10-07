@@ -28,13 +28,6 @@ const STORE = path.join(ROOT, 'import-files')
 const PUBLIC = path.join(ROOT, 'public')
 const NO_TRANSLATION = { skipAutoTranslate: true }
 
-// PDF légaux liés depuis le pied de page : ils restent servis en statique.
-const KEEP_STATIC = new Set([
-  '/wp-content/uploads/2025/03/V2-Mentions-legales-Capitello.pdf',
-  '/wp-content/uploads/2025/02/Politique-RGPD-Capitello-Group.pdf',
-  '/wp-content/uploads/2025/02/Politique-en-matieEre-de-cookies-Capitello-Group.pdf',
-])
-
 /** Documents (PDF, vidéos, sons) présents sous <base>/wp-content/uploads, en chemins « /wp-content/… ». */
 function documentsIn(base: string): string[] {
   const found: string[] = []
@@ -116,7 +109,6 @@ async function main() {
   // garder leurs anciennes adresses valides.
   const attached = files
   for (const legacyPath of new Set([...documentsIn(STORE), ...documentsIn(PUBLIC)])) {
-    if (KEEP_STATIC.has(legacyPath)) continue
     await mediaFor(legacyPath, path.basename(legacyPath))
   }
 

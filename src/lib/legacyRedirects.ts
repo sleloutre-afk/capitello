@@ -137,4 +137,12 @@ export const LEGACY_POST_REDIRECTS = [
   { source: '/tag/:slug', destination: '/communiques-de-presse', permanent: true },
   { source: '/author/:slug', destination: '/', permanent: true },
   { source: '/wp-sitemap.xml', destination: '/sitemap.xml', permanent: true },
+  // Anciens PDF légaux, remplacés par des pages.
+  { source: '/wp-content/uploads/2025/03/V2-Mentions-legales-Capitello.pdf', destination: '/mentions-legales', permanent: true },
+  { source: '/wp-content/uploads/2025/02/Politique-RGPD-Capitello-Group.pdf', destination: '/donnees-personnelles', permanent: true },
+  {
+    source: '/wp-content/uploads/2025/02/Politique-en-matieEre-de-cookies-Capitello-Group.pdf',
+    destination: '/gestion-des-cookies',
+    permanent: true,
+  },
 ]

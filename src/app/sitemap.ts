@@ -1,11 +1,14 @@
 import type { MetadataRoute } from 'next'
+import { LEGAL_DOCUMENTS } from '@/content/legal'
 import { LOCALES, localizePath } from '@/lib/locales'
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3084'
 const PATHS = ['/', '/le-mot-du-president', '/qui-sommes-nous', '/communiques-de-presse', '/dans-les-medias']
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  return PATHS.flatMap((path) =>
+  // Pages légales : en français uniquement.
+  const legal = LEGAL_DOCUMENTS.map((document) => ({ url: SITE_URL + document.path }))
+  const pages = PATHS.flatMap((path) =>
     LOCALES.map((locale) => ({
       url: SITE_URL + localizePath(locale, path).replace(/\/$/, ''),
       alternates: {
@@ -13,4 +16,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     })),
   )
+  return [...pages, ...legal]
 }

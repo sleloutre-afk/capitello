@@ -11,3 +11,11 @@ export function pageMetadata(locale: Locale, path: string, title: string): Metad
     },
   }
 }
+
+/**
+ * Pages légales : le texte est en français dans toutes les langues du site,
+ * l'adresse française est donc la seule référence pour les moteurs de recherche.
+ */
+export function legalMetadata(document: { path: string; title: string }): Metadata {
+  return { title: `${document.title} – Capitello`, alternates: { canonical: document.path } }
+}
