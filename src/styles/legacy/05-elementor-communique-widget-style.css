@@ -1,0 +1,226 @@
+/* Origine : /wp-content/plugins/elementor-communique-widget/assets/style.css */
+p, h2 {
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+}
+
+.communique-container { 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* ✅ Always two columns */
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.communique-item {
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.communique-item:hover {
+    transform: translateY(-5px);
+}
+
+.communique-thumbnail {
+    position: relative;
+    width: auto;
+}
+
+.communique-thumbnail img {
+    width: 566px;
+    height: 330px !important;
+    max-height: 330px;
+    object-fit: contain;
+    display: block;
+    border-radius: 0;
+}
+
+.communique-tags {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    display: flex;
+    gap: 15px;
+}
+
+.tag {
+    width: fit-content;
+    background: #FFF;
+    border-radius: 50px;
+    border: #000 solid 1px;
+    padding: 15px 30px;
+    color: #000;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+}
+
+.communique-meta {
+    padding: 15px 0 15px 0;
+}
+
+.communique-date {
+    color: #000;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 213.333% */
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+}
+
+.communique-title {
+    color: #000;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 32px;
+    margin-top: 10px;
+}
+
+.communique-content {
+    color: #000;
+    font-family: "Host Grotesk";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.communique-file-button {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #000;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.communique-file-button:hover {
+    text-decoration: underline;
+}
+
+.communique-filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+.communique-filter-form {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.communique-search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    color: #000;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    width: 300px;
+}
+
+.communique-search input {
+    border: none;
+    outline: none;
+    width: 100%;
+    color: #9A9999;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    background: transparent;
+}
+
+.communique-search button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.communique-year {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.communique-year select {
+    border: none;
+    outline: none;
+    width: 225px;
+    background: transparent;
+    color: #000;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-bottom: 2px solid #000;
+    padding: 5px;
+}
+
+.communique-result-count {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .communique-container {
+        grid-template-columns: repeat(1, 1fr);
+        /* ✅ One column on smaller screens */
+    }
+    .communique-filter-form {
+        flex-direction: column;
+    }
+    .communique-thumbnail img {
+        object-fit: cover;
+    }
+    .tag {
+        font-size: 10px;
+        padding: 10px 15px;
+    }
+    .communique-date {
+        font-size: 12px;
+    }
+    .communique-title {
+        font-size: 22px;
+    }
+    .communique-content {
+        font-size: 15px;
+    }
+    .communique-file-button {
+        font-size: 16px;
+    }
+}

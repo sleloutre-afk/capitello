@@ -1,0 +1,256 @@
+// Habillage du BO aux couleurs Capitello (noir, blanc et le sable du site,
+// #E0CEAD — bandeau du pied de page, menu mobile).
+//
+// Payload construit sa palette d'accent (liens, focus, zones de dépôt,
+// badges « publié »…) à partir de l'échelle --color-success-50 → 950,
+// reprise par --theme-success-* en clair et en sombre : la remplacer par
+// une déclinaison du sable Capitello rebrande l'interface sans toucher aux
+// composants. Les boutons principaux restent noirs (défaut de Payload),
+// comme les boutons du site.
+@layer payload-default {
+  :root {
+    --color-success-50: #fbf8f1;
+    --color-success-100: #f5eedf;
+    --color-success-150: #efe4cd;
+    --color-success-200: #e8d9bd;
+    --color-success-250: #e0cead;
+    --color-success-300: #d6c198;
+    --color-success-350: #cbb384;
+    --color-success-400: #c0a570;
+    --color-success-450: #b3965e;
+    --color-success-500: #a3864f;
+    --color-success-550: #917645;
+    --color-success-600: #7e663b;
+    --color-success-650: #6c5732;
+    --color-success-700: #5a4829;
+    --color-success-750: #493a21;
+    --color-success-800: #382d1a;
+    --color-success-850: #292113;
+    --color-success-900: #1b160d;
+    --color-success-950: #110e08;
+  }
+}
+
+// Logo de l'écran de connexion : noir en thème clair, blanc en thème sombre.
+@layer payload-default {
+  .capitello-logo {
+    display: inline-flex;
+
+    img {
+      display: block;
+      width: 220px;
+      height: auto;
+    }
+  }
+
+  .capitello-logo__dark,
+  html[data-theme='dark'] .capitello-logo__light {
+    display: none;
+  }
+
+  html[data-theme='dark'] .capitello-logo__dark {
+    display: block;
+  }
+}
+
+// Tableau de bord (src/components/admin/DashboardWidget.tsx) : les deux
+// rubriques empilées à gauche, la bibliothèque sur toute la hauteur à
+// droite.
+@layer payload-default {
+  .capitello-dashboard {
+    display: grid;
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    grid-template-areas:
+      'communiques media'
+      'news media';
+    gap: 1.25rem;
+  }
+
+  .capitello-widget--communiques {
+    grid-area: communiques;
+  }
+
+  .capitello-widget--news {
+    grid-area: news;
+  }
+
+  // Spécificité (0,0,2,0) volontairement au-dessus du .card de Payload.
+  .capitello-dashboard .capitello-widget {
+    box-sizing: border-box;
+    border-radius: var(--style-radius-l, 12px);
+    border: 1px solid var(--theme-success-250);
+    background: linear-gradient(135deg, var(--theme-success-50), var(--theme-elevation-0) 70%);
+  }
+
+  .capitello-widget--hero {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding: 1.75rem 2rem;
+  }
+
+  .capitello-widget__badge {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    padding: 14px;
+    border-radius: 50%;
+    background: var(--theme-success-150);
+    color: var(--theme-success-700);
+
+    svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  .capitello-widget__badge--sm {
+    width: 44px;
+    height: 44px;
+    padding: 11px;
+  }
+
+  .capitello-widget__body {
+    flex: 1 1 300px;
+    min-width: 200px;
+  }
+
+  .capitello-widget__title {
+    margin: 0 0 0.35rem;
+    font-size: 1.4rem;
+    line-height: 1.2;
+    color: var(--theme-elevation-900);
+  }
+
+  .capitello-widget__text {
+    margin: 0 0 1rem;
+    max-width: 46em;
+    color: var(--theme-elevation-600);
+  }
+
+  .capitello-widget__stats {
+    display: flex;
+    gap: 1.75rem;
+  }
+
+  .capitello-widget__stat {
+    display: flex;
+    flex-direction: column;
+
+    strong {
+      font-size: 1.5rem;
+      line-height: 1.2;
+      color: var(--theme-success-600);
+    }
+
+    span {
+      font-size: 0.8rem;
+      color: var(--theme-elevation-500);
+    }
+  }
+
+  .capitello-widget__actions {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+    flex-shrink: 0;
+    min-width: 13.5rem;
+
+    .btn {
+      margin: 0;
+      justify-content: center;
+    }
+  }
+
+  // Bibliothèque : repart du .card de Payload (bouton « + », zone
+  // cliquable plein cadre), reteinté comme les deux blocs principaux.
+  .capitello-dashboard .capitello-widget--card {
+    grid-area: media;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    gap: 0.6rem;
+    height: 100%;
+    padding: 1.5rem 1.5rem 1.75rem;
+
+    &:hover {
+      border-color: var(--theme-success-400);
+    }
+
+    .card__title {
+      margin: 0;
+      font-size: 1.15rem;
+      color: var(--theme-elevation-900);
+    }
+
+    .card__click {
+      position: absolute;
+      inset: 0;
+    }
+  }
+
+  .capitello-widget--card__head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.75rem;
+    width: 100%;
+  }
+
+  @media (max-width: 1024px) {
+    .capitello-dashboard {
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-areas:
+        'communiques'
+        'news'
+        'media';
+    }
+  }
+
+  // Structure du tableau de bord figée côté config : pas de réagencement
+  // ni de suppression de blocs depuis l'interface.
+  .dashboard-breadcrumb-select {
+    pointer-events: none;
+
+    .rs__indicators,
+    .rs__dropdown-indicator,
+    .rs__menu {
+      display: none !important;
+    }
+
+    .rs__control {
+      background: transparent;
+      border: 0;
+      box-shadow: none;
+      min-height: 0;
+      cursor: default;
+    }
+  }
+
+  .dashboard-breadcrumb-dropdown__editing,
+  .widget-wrapper__controls,
+  .widget-wrapper__size-btn,
+  .widget-wrapper__delete-btn {
+    display: none !important;
+  }
+}
+
+// Menu latéral teinté sable, repère de la page active aux couleurs du site.
+@layer payload-default {
+  .nav {
+    background: linear-gradient(180deg, var(--theme-success-100), var(--theme-elevation-0) 70%);
+    border-right-color: var(--theme-success-250);
+  }
+
+  .nav__link-indicator {
+    background: var(--theme-success-500);
+  }
+}

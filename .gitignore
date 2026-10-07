@@ -1,0 +1,20 @@
+/node_modules
+/.next/
+/out/
+.DS_Store
+._*
+*.pem
+npm-debug.log*
+.env
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+
+# payload — fichiers uploadés en local (dev) ; en production : stockage S3
+/media
+/src/app/(payload)/BO/importMap.js
+/src/payload-types.ts
+
+# fichiers des publications d'origine, source de `npm run import-library`
+# (ils vivent ensuite dans la bibliothèque du BO : ./media en local, S3 en production)
+/import-files

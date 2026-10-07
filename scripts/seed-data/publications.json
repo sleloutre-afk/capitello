@@ -1,0 +1,2876 @@
+{
+  "tags": {
+    "capitello group": {
+      "fr": "Capitello Group",
+      "en": "Capitello Group",
+      "es": "Grupo Capitello",
+      "zh": "卡皮泰洛集团"
+    },
+    "doxamed": {
+      "fr": "doxamed",
+      "en": "doxamed",
+      "es": "doxamed",
+      "zh": "哆啦A梦"
+    },
+    "capitello move": {
+      "fr": "capitello move",
+      "en": "capitello move",
+      "es": "movimiento capitello",
+      "zh": "卡皮特罗行动"
+    }
+  },
+  "publications": [
+    {
+      "wpId": 1545,
+      "slug": "arnaud-molinie-rejoint-le-board-france-delectrip-et-devient-senior-advisor-de-wren-house",
+      "type": "communique",
+      "date": "2026-06-10T11:03:55",
+      "title": {
+        "fr": "Arnaud Molinié rejoint le Board France d’Electrip et devient Senior Advisor de Wren House",
+        "en": "Arnaud Molinié joins Electrip's France Board and becomes a Senior Advisor at Wren House",
+        "es": "Arnaud Molinié se incorpora al Consejo de Administración de Electrip en Francia y pasa a ser asesor sénior de Wren House",
+        "zh": "阿诺·莫利尼埃加入Electrip法国董事会，并出任Wren House高级顾问"
+      },
+      "summary": {},
+      "tags": [
+        "capitello group"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2026/06/bloc-Capitello-Electrip.png",
+      "thumbnailWidth": 1212,
+      "thumbnailHeight": 630,
+      "href": "/wp-content/uploads/2026/06/CP-10-juin-26.pdf",
+      "showInFooter": true
+    },
+    {
+      "wpId": 1518,
+      "slug": "deloitte-enrichit-son-plan-sante-en-incluant-une-nouvelle-offre-de-bilan-de-prevention-en-partenariat-avec-doxamed-29-01-2026",
+      "type": "communique",
+      "date": "2026-01-29T15:30:05",
+      "title": {
+        "fr": "Deloitte enrichit son plan Santé en incluant une nouvelle offre de bilan de prévention en partenariat avec Doxamed (29/01/2026)",
+        "en": "Deloitte enhances its health plan by including a new preventive health check-up service in partnership with Doxamed (January 29, 2026)",
+        "es": "Deloitte amplía su plan de salud con una nueva oferta de chequeos preventivos en colaboración con Doxamed (29/01/2026)",
+        "zh": "德勤与Doxamed合作推出预防性体检服务，丰富其健康计划内容（2026年1月29日）"
+      },
+      "summary": {},
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2026/01/bloc-visuel-site-capitello.png",
+      "thumbnailWidth": 1246,
+      "thumbnailHeight": 652,
+      "href": "/wp-content/uploads/2026/01/VDef-29-janv-22h-CP-Deloitte-x-dxmd.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1462,
+      "slug": "capitello-group-renforce-son-leadership-en-medtech-avec-lacquisition-de-teledok",
+      "type": "communique",
+      "date": "2025-12-08T22:23:24",
+      "title": {
+        "fr": "Capitello Group renforce son leadership en MedTech avec l’acquisition de Teledok ",
+        "en": "Capitello Group strengthens its leadership in MedTech with the acquisition of Teledok ",
+        "es": "Capitello Group refuerza su liderazgo en MedTech con la adquisición de Teledok ",
+        "zh": "Capitello集团通过收购Teledok巩固其在医疗科技领域的领导地位 "
+      },
+      "summary": {},
+      "tags": [
+        "capitello group"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/12/cp-teledok.png",
+      "thumbnailWidth": 1098,
+      "thumbnailHeight": 464,
+      "href": "/wp-content/uploads/2025/12/CP-TELEDOK-x-CGROUP-VDef_8-12-25.pdf",
+      "showInFooter": true
+    },
+    {
+      "wpId": 1458,
+      "slug": "bpifrance-deploie-un-plan-de-sante-incluant-une-offre-de-bilans-de-sante-pour-tous-ses-collaborateurs",
+      "type": "communique",
+      "date": "2025-11-26T22:19:00",
+      "title": {
+        "fr": "Bpifrance déploie un Plan de Santé incluant une offre de bilans de santé pour tous ses collaborateurs",
+        "en": "Bpifrance rolls out a Health Plan that includes health check-ups for all its employees",
+        "es": "Bpifrance pone en marcha un Plan de Salud que incluye una oferta de chequeos médicos para todos sus empleados.",
+        "zh": "Bpifrance推出健康计划，为全体员工提供健康检查服务。"
+      },
+      "summary": {},
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/12/cp-bpifrance.png",
+      "thumbnailWidth": 1474,
+      "thumbnailHeight": 636,
+      "href": "/wp-content/uploads/2025/12/CP_BpifranceXDxmd_26-11-25.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1375,
+      "slug": "pluxee-elargit-son-offre-dans-le-domaine-de-la-sante-grace-a-un-partenariat-strategique-avec-doxamed",
+      "type": "communique",
+      "date": "2025-06-05T10:59:00",
+      "title": {
+        "fr": "Pluxee élargit son offre dans le domaine de la santé grâce à un partenariat stratégique avec Doxamed",
+        "en": "Pluxee expands its healthcare offering through a strategic partnership with Doxamed",
+        "es": "Pluxee amplía su oferta sanitaria mediante una asociación estratégica con Doxamed",
+        "zh": "通过与 Doxamed 建立战略合作伙伴关系，Pluxee 扩展了其医疗保健服务范围"
+      },
+      "summary": {},
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/06/bloc-visuel-cp-capitello.png",
+      "thumbnailWidth": 1148,
+      "thumbnailHeight": 698,
+      "href": "/wp-content/uploads/2025/06/V2-ssc_CP_Pluxee-Doxamed20250521-copie.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 6 月 5 日"
+    },
+    {
+      "wpId": 1306,
+      "slug": "trois-nominations-au-sein-de-doxamed",
+      "type": "communique",
+      "date": "2025-05-14T08:00:00",
+      "title": {
+        "fr": "Trois nominations au sein de Doxamed",
+        "en": "Three appointments at Doxamed",
+        "es": "Tres nombramientos en Doxamed",
+        "zh": "Doxamed 的三项任命"
+      },
+      "summary": {},
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Image_Doxamed.png",
+      "thumbnailWidth": 1698,
+      "thumbnailHeight": 993,
+      "href": "/wp-content/uploads/2025/05/CP_V2Def_14-mai.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 5 月 14 日"
+    },
+    {
+      "wpId": 1186,
+      "slug": "medigo-une-nouvelle-generation-de-cabinets-medicaux-mobiles-connectes-pour-lutter-contre-les-deserts-medicaux",
+      "type": "communique",
+      "date": "2025-03-10T15:38:35",
+      "title": {
+        "fr": "Medigo : une nouvelle génération de cabinets médicaux mobiles connectés pour lutter contre les déserts médicaux",
+        "en": "Medigo: a new generation of connected mobile surgeries to combat medical deserts",
+        "es": "Medigo: una nueva generación de consultorios móviles conectados para combatir los desiertos médicos",
+        "zh": "Medigo：新一代互联移动手术，消除医疗荒漠"
+      },
+      "summary": {},
+      "tags": [
+        "capitello move",
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Capture-deecran-2025-03-12-aE-10.43.04.png",
+      "thumbnailWidth": 640,
+      "thumbnailHeight": 188,
+      "href": "/wp-content/uploads/2025/03/Communique-MEDIGO-une-nouvel-le-generation-de-cabinets-medicaux-mobiles-connectes-pour-lutter-contre-les-deserts-medicaux.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 3 月 10 日"
+    },
+    {
+      "wpId": 532,
+      "slug": "initiative-inedite-pour-la-sante-au-travail-en-france",
+      "type": "communique",
+      "date": "2025-02-21T12:17:33",
+      "title": {
+        "fr": "Initiative inédite pour la santé au travail en France",
+        "en": "A new initiative for occupational health in France",
+        "es": "Una iniciativa pionera para la salud laboral en Francia",
+        "zh": "法国职业健康的开创性举措"
+      },
+      "summary": {
+        "fr": "En partenariat avec Doxamed, le Groupe ADP permettra à partir d'avril 2025 à tous ses collaborateurs, de bénéficier d'un un examen clinique complet, anonyme, basé sur le volontariat, totalement pris en charge par l'entreprise…",
+        "en": "In partnership with Doxamed, from April 2025 the ADP Group will enable all its employees to benefit from a complete, anonymous, voluntary clinical examination, fully paid for by the company...",
+        "es": "En colaboración con Doxamed, a partir de abril de 2025 el Grupo ADP permitirá a todos sus empleados beneficiarse de un examen clínico completo, anónimo y voluntario, totalmente pagado por la empresa....",
+        "zh": "通过与 Doxamed 合作，从 2025 年 4 月起，ADP 集团将为其所有员工提供由公司全额支付的完整、匿名、自愿的临床检查......"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/visuel-CP-21_02_2025.png",
+      "thumbnailWidth": 940,
+      "thumbnailHeight": 788,
+      "href": "/wp-content/uploads/2025/02/COMMUNIQUE-DE-PRESSE-Une-premie_re-en-F-rance-Le-Groupe-ADP-propose-avec-Doxamed-lacces-a-un-bilan-de-prevention-sante-complet-a-tous-ses-salaries-050225.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 2 月 21 日"
+    },
+    {
+      "wpId": 539,
+      "slug": "loxamed-devient-doxamed-une-nouvelle-etape-de-son-developpement",
+      "type": "communique",
+      "date": "2025-01-13T12:37:19",
+      "title": {
+        "fr": "Loxamed devient Doxamed : une nouvelle étape de son développement.",
+        "en": "Loxamed becomes Doxamed: a new stage in its development.",
+        "es": "Loxamed se convierte en Doxamed: una nueva etapa en su desarrollo.",
+        "zh": "Loxamed 成为 Doxamed：发展进入新阶段。"
+      },
+      "summary": {
+        "fr": "Arnaud Molinié, président de Capitello Med (filiale santé de Capitello Group) et Gérard Déprez, président du Groupe Loxam (n°1 en Europe de la location de matériel) annoncent avoir conclu un accord aux termes duquel leur filiale…",
+        "en": "Arnaud Molinié, President of Capitello Med (healthcare subsidiary of Capitello Group) and Gérard Déprez, President of Loxam Group (Europe's No. 1 equipment rental company) announce that they have reached an agreement under which their subsidiary...",
+        "es": "Arnaud Molinié, Presidente de Capitello Med (filial sanitaria del Grupo Capitello) y Gérard Déprez, Presidente del Grupo Loxam (nº 1 europeo en alquiler de equipos) han anunciado que han llegado a un acuerdo por el que su filial...",
+        "zh": "卡皮泰罗医疗集团（Capitello Med）董事长 Arnaud Molinié 和 Loxam 集团（欧洲第一大设备租赁公司）董事长 Gérard Déprez 宣布，双方已达成协议，根据该协议，双方的子公司......................."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/349fee4d83da1e617c1d01dceee419c0.png",
+      "thumbnailWidth": 2004,
+      "thumbnailHeight": 1296,
+      "href": "/wp-content/uploads/2025/02/Communiquee-Loxamed-devient-Doxamed-Janvier-2025.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 1 月 13 日"
+    },
+    {
+      "wpId": 550,
+      "slug": "un-vehicule-medical-innovant-pour-aller-au-plus-pres-des-patients-sur-le-territoire-francilien",
+      "type": "communique",
+      "date": "2024-05-28T13:07:46",
+      "title": {
+        "fr": "Un véhicule médical innovant pour aller au plus près des patients sur le territoire francilien.",
+        "en": "An innovative medical vehicle to get closer to patients in the Paris region.",
+        "es": "Un vehículo médico innovador para acercarse a los pacientes de la región parisina.",
+        "zh": "一辆创新型医疗车，尽可能接近巴黎大区的病人。"
+      },
+      "summary": {
+        "fr": "Pour la troisième année consécutive, Loxamed, entreprise de solutions de santé innovantes, participera au Salon de l’AMIF et présentera cette année, sur l’un de ses stands, le démonstrateur U1st Vision (You First Vision)…",
+        "en": "For the third year running, Loxamed, an innovative healthcare solutions company, will be taking part in the AMIF trade show, and this year will be presenting the U1st Vision (You First Vision) demonstrator on one of its stands...",
+        "es": "Por tercer año consecutivo, Loxamed, empresa innovadora en soluciones sanitarias, participará en la feria AMIF, y este año presentará en uno de sus stands el demostrador U1st Vision (You First Vision)...",
+        "zh": "创新医疗解决方案公司 Loxamed 将连续第三年参加 AMIF 展览会，今年它将在其中一个展台上展示 U1st Vision（您的第一视觉）演示器..."
+      },
+      "tags": [
+        "capitello move",
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/28_Mai_2024.png",
+      "thumbnailWidth": 1132,
+      "thumbnailHeight": 662,
+      "href": "/wp-content/uploads/2025/02/CP-Loxamed-UN-VE_HICULE-ME-́DICAL-INNOVANT-POUR-ALLER-AU-PLUS-PRES-DES-PATIENTS-SUR-LE-TERRITOIRE-FRANCILIEN.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2024 年 5 月 28 日"
+    },
+    {
+      "wpId": 563,
+      "slug": "un-vehicule-medical-innovant-pour-aller-au-plus-pres-des-patients",
+      "type": "communique",
+      "date": "2024-05-22T13:55:00",
+      "title": {
+        "fr": "Un véhicule médical innovant pour aller au plus près des patients.",
+        "en": "An innovative medical vehicle to get closer to patients.",
+        "es": "Un vehículo médico innovador para acercarse a los pacientes.",
+        "zh": "创新型医疗车，更贴近患者。"
+      },
+      "summary": {
+        "fr": "Pour sa première participation au Salon VivaTech, Loxamed, entreprise de solutions de santé innovantes, est fière d’avoir contribué et apporté son expertise médicale au projet U1stVision (You First Vision)…",
+        "en": "For its first participation at VivaTech, Loxamed, an innovative healthcare solutions company, is proud to have contributed its medical expertise to the U1stVision (You First Vision) project...",
+        "es": "En su primera participación en el salón VivaTech, Loxamed, empresa innovadora en soluciones sanitarias, se enorgullece de haber aportado sus conocimientos médicos al proyecto U1stVision (You First Vision)...",
+        "zh": "作为首次参加 VivaTech 展会的创新医疗解决方案公司，Loxamed 很荣幸能为 U1stVision（You First Vision）项目贡献其医疗专业知识。"
+      },
+      "tags": [
+        "capitello move",
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/22_Mai_2024.png",
+      "thumbnailWidth": 1132,
+      "thumbnailHeight": 662,
+      "href": "/wp-content/uploads/2025/02/Loxamed-Un-vehicule-medical-innovant-pour-aller-au-plus-pres-des-patients.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2024 年 5 月 22 日"
+    },
+    {
+      "wpId": 567,
+      "slug": "prevention-depistage-telemedecine-la-sante-rentre-en-gare",
+      "type": "communique",
+      "date": "2023-11-17T13:59:00",
+      "title": {
+        "fr": "Prévention, dépistage, télémédecine : la santé rentre en gare.",
+        "en": "Prevention, screening, telemedicine: health is coming home to roost.",
+        "es": "Prevención, cribado, telemedicina: la salud vuelve a casa.",
+        "zh": "预防、筛查、远程医疗：健康正在回家。"
+      },
+      "summary": {
+        "fr": "Conscient que la couverture du territoire en offre de soins de proximité est une priorité nationale, SNCF Gares &amp; Connexions a décidé de faciliter et d’accélérer la mise à disposition d’espaces de santé dans les gares…",
+        "en": "Aware that local healthcare coverage is a national priority, SNCF Gares &amp; Connexions has decided to facilitate and accelerate the provision of healthcare facilities in stations...",
+        "es": "Consciente de que la cobertura sanitaria local es una prioridad nacional, SNCF Gares &amp; Connexions ha decidido facilitar y acelerar la dotación de instalaciones sanitarias en las estaciones...",
+        "zh": "SNCF Gares &amp; Connexions 意识到当地医疗保健覆盖率是国家的优先事项，因此决定促进并加快在车站提供医疗保健设施。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/17_Novembre_2023.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/CP-SNCF-Loxamed-La-santei-entre-en-gare-171123-V11h52.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2023 年 11 月 17 日"
+    },
+    {
+      "wpId": 571,
+      "slug": "loxamed-propose-un-service-rapide-de-conversion-du-pass-vaccinal-aux-normes-europeennes-a-destination-des-francais-de-letranger",
+      "type": "communique",
+      "date": "2022-03-29T14:02:00",
+      "title": {
+        "fr": "Loxamed propose un service rapide de conversion du pass vaccinal aux normes européennes, à destination des français de l’étranger.",
+        "en": "Loxamed offers a fast service for converting vaccination passes to European standards for French nationals living abroad.",
+        "es": "Loxamed ofrece un servicio rápido de conversión de los carnés de vacunación a las normas europeas para los franceses residentes en el extranjero.",
+        "zh": "Loxamed 为居住在国外的法国公民提供快速服务，将疫苗接种证转换为欧洲标准。"
+      },
+      "summary": {
+        "fr": "Pour toute personne ayant validé un parcours vaccinal complet en dehors d'un pays délivrant des attestations vaccinales au format européen, Loxamed propose un service de conversion du pass vaccinal d'origine en pass…",
+        "en": "For anyone who has completed a full vaccination course outside a country that issues European-format vaccination certificates, Loxamed offers a service for converting the original vaccination pass into a European-format pass.",
+        "es": "Para cualquier persona que haya completado un ciclo completo de vacunación fuera de un país que expida certificados de vacunación en formato europeo, Loxamed ofrece un servicio de conversión del carné de vacunación original en un carné europeo.",
+        "zh": "对于在国外完成全部疫苗接种过程并获得欧洲格式疫苗接种证书的人员，Loxamed 可提供将原始疫苗接种通行证转换为欧洲通行证的服务。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/29_Mars_2022.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/CP-pass-vaccinal-version-francais-de-letranger.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 3 月 29 日"
+    },
+    {
+      "wpId": 578,
+      "slug": "un-dispositif-de-depistage-installe-dans-le-centre-de-shopping-westfiel-parly-2-au-chesnay-rocquencourt",
+      "type": "communique",
+      "date": "2022-01-22T14:04:00",
+      "title": {
+        "fr": "Un dispositif de dépistage installé dans le centre de shopping Westfield Parly 2, au Chesnay Rocquencourt.",
+        "en": "A screening device installed at the Westfield Parly 2 shopping center in Le Chesnay Rocquencourt.",
+        "es": "Un dispositivo de detección instalado en el centro comercial Westfield Parly 2 de Le Chesnay Rocquencourt.",
+        "zh": "安装在 Le Chesnay Rocquencourt 的 Westfield Parly 2 购物中心的安检设备。"
+      },
+      "summary": {
+        "fr": "Dans un contexte de forte reprise épidémique, et grâce au soutien de la Région Île-de-France et au professionnalisme des laboratoires Cerballiance, Loxamed a installé entre le 17 et le 28 janvier, 14 centres de dépistage…",
+        "en": "In a context of strong epidemic recovery, and thanks to the support of the Île-de-France region and the professionalism of Cerballiance laboratories, Loxamed set up 14 screening centers between January 17 and 28...",
+        "es": "Con la epidemia de nuevo en pleno apogeo, y gracias al apoyo de la región de Île-de-France y a la profesionalidad de los laboratorios Cerballiance, Loxamed instaló 14 centros de detección entre el 17 y el 28 de enero...",
+        "zh": "1月17日至28日期间，在法兰西岛大区的大力支持和Cerballiance实验室的专业协助下，Loxamed公司建立了14个筛查中心。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/22_Janvier_2022.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/CP_Chesnay_VF.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 1 月 22 日"
+    },
+    {
+      "wpId": 585,
+      "slug": "une-box-mobile-de-depistage-installee-a-versailles",
+      "type": "communique",
+      "date": "2022-01-17T14:07:00",
+      "title": {
+        "fr": "Une box mobile de dépistage installée à Versailles.",
+        "en": "A mobile screening unit installed in Versailles.",
+        "es": "Una unidad móvil de cribado instalada en Versalles.",
+        "zh": "在凡尔赛安装的移动筛分装置。"
+      },
+      "summary": {
+        "fr": "Dans un contexte de propagation intense du virus et afin de répondre à la forte demande en matière de dépistage, la ville de Versailles a fait appel à Doxamed (ex Loxamed) pour déployer un dispositif mobile…",
+        "en": "Against a backdrop of intense spread of the virus, and in order to meet the high demand for screening, the city of Versailles has called on Doxamed (formerly Loxamed) to deploy a mobile...",
+        "es": "En un contexto de intensa propagación del virus y con el fin de satisfacer la elevada demanda de detección, la ciudad de Versalles ha recurrido a Doxamed (antes Loxamed) para desplegar un...",
+        "zh": "在病毒迅速传播的背景下，为了满足大量的筛查需求，凡尔赛市要求Doxamed公司（前身为Loxamed公司）部署一台流动筛查设备。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/17_Janvier_2022.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/LOXAMED_CP-Versailles_21012022_VF5.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 1 月 17 日"
+    },
+    {
+      "wpId": 589,
+      "slug": "doxamed-ex-loxamed-vient-en-soutien-des-stations-de-ski-et-installe-un-dispositif-de-depistage-covid-a-chamrousse",
+      "type": "communique",
+      "date": "2021-12-22T14:08:00",
+      "title": {
+        "fr": "Doxamed (ex Loxamed) vient en soutien des stations de ski et installe un dispositif de dépistage Covid à Chamrousse.",
+        "en": "Doxamed (formerly Loxamed) supports ski resorts by installing a Covid screening system at Chamrousse.",
+        "es": "Doxamed (antes Loxamed) apoya a las estaciones de esquí instalando un sistema de detección Covid en Chamrousse.",
+        "zh": "Doxamed（前身为 Loxamed）在 Chamrousse 安装了一套 Covid 筛选系统，为滑雪场提供支持。"
+      },
+      "summary": {
+        "fr": "Doxamed (ex Loxamed) installe un dispositif de dépistage au cœur de la station de ski de Chamrousse et vient renforcer les moyens sanitaires de la commune dans cette période de grande attractivité…",
+        "en": "Doxamed (formerly Loxamed) has set up a screening facility in the heart of the Chamrousse ski resort, boosting the town's health resources at a time of great attraction...",
+        "es": "Doxamed (antes Loxamed) instala un centro de detección en el corazón de la estación de esquí de Chamrousse, reforzando así los recursos sanitarios de la ciudad en un momento en que...",
+        "zh": "Doxamed公司（前身为Loxamed公司）将在Chamrousse滑雪胜地的中心地带建立一家筛查机构，在滑雪胜地极具吸引力之际，加强该镇的卫生资源..."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/22_Decembre_2021.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/CP_Chamrousse_V5.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 12 月 22 日"
+    },
+    {
+      "wpId": 593,
+      "slug": "loxamed-installe-un-hub-sanitaire-a-louveciennes",
+      "type": "communique",
+      "date": "2021-11-30T14:09:00",
+      "title": {
+        "fr": "Loxamed installe un hub sanitaire à Louveciennes.",
+        "en": "Loxamed sets up a sanitary hub in Louveciennes.",
+        "es": "Loxamed crea un centro sanitario en Louveciennes.",
+        "zh": "Loxamed 在卢瓦锡建立医疗保健中心。"
+      },
+      "summary": {
+        "fr": "Loxamed, entreprise spécialisée dans la mobilité et la technologie médicale, a développé un Hub sanitaire avec la ville de Louveciennes. Au sein de ce Hub, des professionnels de santé interviennent pour proposer des tests RT-PCR…",
+        "en": "Loxamed, a company specializing in mobility and medical technology, has developed a Health Hub with the town of Louveciennes. Within this Hub, healthcare professionals offer RT-PCR tests...",
+        "es": "Loxamed, empresa especializada en movilidad y tecnología médica, ha desarrollado un Centro de Salud con la ciudad de Louveciennes. En este centro, profesionales sanitarios ofrecen pruebas de RT-PCR...",
+        "zh": "Loxamed 是一家专门从事移动和医疗技术的公司，该公司与卢夫西恩镇合作开发了一个健康中心。在该中心内，医疗保健专业人员可提供 RT-PCR 测试。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-57.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/CP_Louveciennes_PQR_VF4.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 11 月 30 日"
+    },
+    {
+      "wpId": 597,
+      "slug": "loxamed-porte-drapeau-de-linnovation-medicale-au-salon-des-maires",
+      "type": "communique",
+      "date": "2021-11-15T14:10:00",
+      "title": {
+        "fr": "Loxamed, porte drapeau de l’innovation médicale au Salon des maires.",
+        "en": "Loxamed, standard-bearer for medical innovation at the Salon des maires.",
+        "es": "Loxamed, abanderado de la innovación médica en el Salón de Maestros.",
+        "zh": "Loxamed，沙龙上医疗创新的标杆。"
+      },
+      "summary": {
+        "fr": "Loxamed, entreprise spécialisée dans la mobilité et la technologie médicale, participera au Salon des maires, du 16 au 18 novembre 2021. Un stand dédié à l'entreprise sera installé au pavillon 2.2. Les problématiques liées à…",
+        "en": "Loxamed, a company specializing in mobility and medical technology, will be taking part in the Salon des maires, from November 16 to 18, 2021. A stand dedicated to the company will be set up in pavilion 2.2. Issues related to...",
+        "es": "Loxamed, empresa especializada en movilidad y tecnología médica, participará en el Salón de Maestros del 16 al 18 de noviembre de 2021. Se instalará un stand dedicado a la empresa en el pabellón 2.2. Los problemas asociados a...",
+        "zh": "移动和医疗技术专业公司 Loxamed 将于 2021 年 11 月 16 日至 18 日参加制造商沙龙。该公司的展台将设在 2.2 号展馆。与..."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2021/11/visuel-cp-15_11_21.png",
+      "thumbnailWidth": 616,
+      "thumbnailHeight": 616,
+      "href": "/wp-content/uploads/2025/02/CP_Salon_des_Maires_VF2.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 11 月 15 日"
+    },
+    {
+      "wpId": 659,
+      "slug": "conference-de-presse-presentation-du-dispositif-innovant-mobiltest",
+      "type": "communique",
+      "date": "2021-11-12T14:28:00",
+      "title": {
+        "fr": "Conférence de presse. Présentation du dispositif innovant Mobiltest.",
+        "en": "Press conference. Presentation of the innovative Mobiltest system.",
+        "es": "Rueda de prensa. Presentación del innovador sistema Mobiltest.",
+        "zh": "新闻发布会。介绍创新的 Mobiltest 系统。"
+      },
+      "summary": {
+        "fr": "Afin de renforcer la mobilisation nationale de dépistage de la Covid-19, SNCF Gares &amp; Connexions a favorablement répondu à Loxamed, société de mobilité médicale, pour l’installation de 5 unités de dépistage sur les parvis de…",
+        "en": "In order to reinforce the national Covid-19 screening campaign, SNCF Gares &amp; Connexions has responded favorably to Loxamed, a medical mobility company, for the installation of 5 screening units on the forecourts of...",
+        "es": "Para reforzar la campaña nacional de detección de Covid-19, SNCF Gares &amp; Connexions ha respondido favorablemente a una solicitud de Loxamed, empresa de movilidad médica, para instalar 5 unidades de detección en las...",
+        "zh": "为了加强全国性的 Covid-19 筛查活动，法国国营铁路公司（SNCF Gares &amp; Connexions）积极响应了医疗移动公司 Loxamed 的请求，在....................."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2021/11/visuel-cp-12_11_2021-copie.png",
+      "thumbnailWidth": 940,
+      "thumbnailHeight": 788,
+      "href": "/wp-content/uploads/2025/02/CP-SNCF-Conseil-Regional-NA-Loxamed-MOBILTEST-BORDEAUX-SAINT-JEAN.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 11 月 12 日"
+    },
+    {
+      "wpId": 621,
+      "slug": "loxamed-en-forte-croissance-se-renforce-et-se-structure-pour-faire-face-aux-nouveaux-defis-sanitaires-qui-sannoncent",
+      "type": "communique",
+      "date": "2021-09-09T14:16:00",
+      "title": {
+        "fr": "Loxamed, en forte croissance, se renforce et se structure pour faire face aux nouveaux défis sanitaires qui s’annoncent.",
+        "en": "Loxamed, which is growing fast, is strengthening and structuring itself to meet the new health challenges ahead.",
+        "es": "Loxamed, que está creciendo con fuerza, se está reforzando y estructurando para hacer frente a los nuevos retos sanitarios que se avecinan.",
+        "zh": "发展势头强劲的 Loxamed 公司正在加强自身的实力和结构，以应对未来新的健康挑战。"
+      },
+      "summary": {
+        "fr": "Loxamed, entreprise spécialisée dans la mobilité médicale, répond présent depuis le début de la crise sanitaire en déployant des solutions de dépistage et de télémédecine ultra performantes partout sur le territoire, dans les…",
+        "en": "Loxamed, a company specializing in medical mobility, has been present since the beginning of the health crisis, deploying high-performance screening and telemedicine solutions throughout the country, in the...",
+        "es": "Loxamed, empresa especializada en movilidad médica, ha estado presente desde el inicio de la crisis sanitaria, desplegando soluciones de cribado y telemedicina de alto rendimiento en todo el...",
+        "zh": "Loxamed 是一家专门从事医疗移动服务的公司，自卫生危机爆发以来，该公司就一直在全国各地部署高性能筛查和远程医疗解决方案，在......"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Image_Doxamed.png",
+      "thumbnailWidth": 1698,
+      "thumbnailHeight": 993,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse_Loxamed_09092021.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 9 月 9 日"
+    },
+    {
+      "wpId": 624,
+      "slug": "loxamed-sinstalle-dans-11-nouvelles-gares-et-offre-aux-voyageurs-une-solution-de-depistage-rapide",
+      "type": "communique",
+      "date": "2021-08-12T14:16:00",
+      "title": {
+        "fr": "Loxamed s’installe dans 11 nouvelles gares et offre aux voyageurs une solution de dépistage rapide.",
+        "en": "Loxamed sets up in 11 new stations, offering travelers a rapid screening solution.",
+        "es": "Loxamed se está instalando en 11 nuevas estaciones, ofreciendo a los pasajeros una solución de control rápido.",
+        "zh": "11 个新车站正在安装 Loxamed，为乘客提供快速安检解决方案。"
+      },
+      "summary": {
+        "fr": "Depuis le lundi 9 août Loxamed est présente dans les locaux de 11 nouvelles gares dont Metz Ville, Nancy, Paris Montparnasse 1 et 2, Strasbourg, Le Mans, Toulouse et propose des dépistages Covid antigéniques pour sécuriser…",
+        "en": "Since Monday, August 9, Loxamed has been present at 11 new railway stations, including Metz Ville, Nancy, Paris Montparnasse 1 and 2, Strasbourg, Le Mans and Toulouse, offering Covid antigen screening to secure...",
+        "es": "Desde el lunes 9 de agosto, Loxamed se encuentra en las instalaciones de 11 nuevas estaciones, entre ellas Metz Ville, Nancy, París Montparnasse 1 y 2, Estrasburgo, Le Mans y Toulouse, ofreciendo el cribado del antígeno Covid...",
+        "zh": "自 8 月 9 日（星期一）起，Loxamed 在梅斯市、南锡、巴黎蒙帕纳斯 1 号和 2 号车站、斯特拉斯堡、勒芒和图卢兹等 11 个新车站提供 Covid 抗原筛查，以确保乘客的安全。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Image_Doxamed.png",
+      "thumbnailWidth": 1698,
+      "thumbnailHeight": 993,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse_Loxamed_V3_12082021.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 8 月 12 日"
+    },
+    {
+      "wpId": 627,
+      "slug": "le-parc-asterix-en-partenariat-avec-loxamed-met-a-disposition-de-ses-visiteurs-un-dispositif-de-depistage-rapide-a-lentree-du-parc",
+      "type": "communique",
+      "date": "2021-07-21T14:18:00",
+      "title": {
+        "fr": "Le parc Astérix, en partenariat avec Loxamed, met à disposition de ses visiteurs un dispositif de depistage rapide à l’entrée du parc.",
+        "en": "Parc Astérix, in partnership with Loxamed, offers its visitors a rapid screening device at the park entrance.",
+        "es": "Parc Astérix, en colaboración con Loxamed, pone a disposición de los visitantes un dispositivo de detección rápida a la entrada del parque.",
+        "zh": "阿斯特里克斯公园与 Loxamed 公司合作，在公园入口处为游客提供快速安检设备。"
+      },
+      "summary": {
+        "fr": "Suite aux déclarations du président de la République le 12 juillet dernier, annonçant la mise en application du pass sanitaire dans les lieux de loisirs et de culture, le parc Asterix (Oise), en partenariat avec Loxamed, a décidé…",
+        "en": "Following the French President's announcement on July 12 that a health pass would be introduced in leisure and cultural facilities, the Parc Asterix (Oise), in partnership with Loxamed, has decided...",
+        "es": "Tras el anuncio del Presidente francés, el 12 de julio, de la introducción de una tarjeta sanitaria en los lugares de ocio y cultura, el Parque Astérix (Oise), en colaboración con Loxamed, ha decidido...",
+        "zh": "继法国总统于 7 月 12 日宣布将在休闲和文化场所推出健康通行证之后，阿斯特里公园（瓦兹省）与 Loxamed 公司合作，决定为游客推出健康通行证。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2021/07/visuel-cp-21_07_2021_Parc_Asteerix.png",
+      "thumbnailWidth": 1281,
+      "thumbnailHeight": 671,
+      "href": "/wp-content/uploads/2025/02/Communique-Loxamed-Parc-Asterix_20072021.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 7 月 21 日"
+    },
+    {
+      "wpId": 630,
+      "slug": "reouverture-des-etablissements-de-nuit-loxamed-installe-a-la-baule-escoublac-la-premiere-box-de-depistage-contre-la-covid-en-loire-atlantique",
+      "type": "communique",
+      "date": "2021-06-30T14:19:00",
+      "title": {
+        "fr": "Réouverture des établissements de nuit : Loxamed installe à La Baule-Escoublac la première box de dépistage contre la Covid en Loire-Atlantique.",
+        "en": "Reopening of nightclubs: Loxamed installs Loire-Atlantique's first Covid screening booth in La Baule-Escoublac.",
+        "es": "Reapertura de locales nocturnos: En La Baule-Escoublac, Loxamed instala la primera unidad de detección Covid en Loire-Atlantique.",
+        "zh": "夜总会重新开业：在 La Baule-Escoublac，Loxamed 在卢瓦尔-大西洋地区安装了第一台 Covid 放映机。"
+      },
+      "summary": {
+        "fr": "En collaboration avec la ville de La Baule et dans le prolongement de son partenariat national avec SNCF Gares &amp; Connexions, Loxamed installe en prévision des vacances d'été, à destination des estivants et notamment des…",
+        "en": "In collaboration with the town of La Baule, and as an extension of its national partnership with SNCF Gares &amp; Connexions, Loxamed is setting up a new summer vacation destination for holidaymakers, particularly...",
+        "es": "En colaboración con la ciudad de La Baule y como extensión de su asociación nacional con SNCF Gares &amp; Connexions, Loxamed está instalando una serie de nuevas pantallas para los veraneantes, en particular...",
+        "zh": "作为与法国国家铁路公司（SNCF）Gares &amp; Connexions的全国性合作的延伸，Loxamed公司与拉博勒（La Baule）镇合作，为夏季度假者安装了许多新的显示屏，特别是......"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communique-Loxamed-La-Baule_30062021.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 6 月 30 日"
+    },
+    {
+      "wpId": 634,
+      "slug": "loxamed-se-structure-pour-repondre-aux-defis-sanitaires-de-lindustrie-touristique",
+      "type": "communique",
+      "date": "2021-05-20T14:20:00",
+      "title": {
+        "fr": "Loxamed se structure pour répondre aux défis sanitaires de l’industrie touristique.",
+        "en": "Loxamed structures itself to meet the health challenges of the tourism industry.",
+        "es": "Loxamed se estructura para responder a los retos sanitarios de la industria turística.",
+        "zh": "Loxamed 的结构设计旨在应对旅游业在健康方面的挑战。"
+      },
+      "summary": {
+        "fr": "Loxamed recrute un senior advisor reconnu dans les domaines de l'hôtellerie et de la restauration commerciale pour l'accompagner dans le développement et l'adaptation de ses solutions au service de l'industrie touristique…",
+        "en": "Loxamed is recruiting a senior advisor recognized in the fields of hotels and commercial catering to support the development and adaptation of its solutions for the tourism industry...",
+        "es": "Loxamed busca un asesor senior reconocido en los sectores de la hostelería y la restauración comercial para ayudar a desarrollar y adaptar sus soluciones para la industria turística...",
+        "zh": "Loxamed 正在招聘一名在酒店和商业餐饮领域享有盛誉的高级顾问，以帮助开发和调整其旅游业解决方案..."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Image_Doxamed.png",
+      "thumbnailWidth": 1698,
+      "thumbnailHeight": 993,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse-Loxamed_nomination_Pascal-Brun.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 5 月 20 日"
+    },
+    {
+      "wpId": 637,
+      "slug": "doxamed-avec-son-partenaire-unilabs-france-installe-un-dispositif-unique-de-depistage-immediat-pour-les-personnels-navigants-dair-france",
+      "type": "communique",
+      "date": "2021-05-03T14:21:00",
+      "title": {
+        "fr": "Doxamed avec son partenaire Unilabs France, installe un dispositif unique de dépistage immédiat pour les personnels navigants d’Air France.",
+        "en": "Doxamed, with its partner Unilabs France, installs a unique immediate screening device for Air France flight crews.",
+        "es": "Doxamed y su socio Unilabs France están instalando un sistema único de control inmediato para las tripulaciones de vuelo de Air France.",
+        "zh": "Doxamed 及其合作伙伴 Unilabs France 正在为法航机组人员安装一套独特的即时安检系统。"
+      },
+      "summary": {
+        "fr": "Certains pays exigent depuis plusieurs mois que les personnels navigants (pilotes, hôtesses et stewards) des compagnies aériennes soient testés avant leur arrivée sur le territoire. Cette procédure, bien qu'essentielle pour répondre…",
+        "en": "For several months now, some countries have been requiring airline cabin crew (pilots, flight attendants) to be tested before they arrive in their country. This procedure, although essential to meet the...",
+        "es": "Desde hace varios meses, algunos países exigen que el personal de cabina de las compañías aéreas (pilotos, auxiliares de vuelo) se someta a un examen antes de llegar a su país. Este procedimiento, aunque esencial para cumplir los...",
+        "zh": "几个月来，一些国家已经要求航空公司机舱乘务员（飞行员、空乘人员）在抵达本国之前接受测试。这一程序虽然对满足航空公司的要求至关重要，但也有其局限性。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-1.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communique-Loxamed-Air-France.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 5 月 3 日"
+    },
+    {
+      "wpId": 641,
+      "slug": "en-partenariat-avec-sncf-gares-connexions-doxamed-et-les-laboratoires-unilabs-france-installent-une-premiere-box-mobiltest-de-depistage-salivaire-sur-le-parvis-de-la-gare-saint-la",
+      "type": "communique",
+      "date": "2021-04-15T14:22:00",
+      "title": {
+        "fr": "En partenariat avec SNCF Gares & Connexions, Doxamed et les laboratoires Unilabs France installent une première box « Mobiltest » de dépistage salivaire sur le parvis de la Gare Saint-Lazare.",
+        "en": "In partnership with SNCF Gares & Connexions, Doxamed and Unilabs France laboratories are installing the first \"Mobiltest\" saliva screening box on the forecourt of the Gare Saint-Lazare.",
+        "es": "En colaboración con SNCF Gares & Connexions, los laboratorios Doxamed y Unilabs France instalan el primer box de detección de saliva \"Mobiltest\" en la explanada de la Gare Saint-Lazare.",
+        "zh": "Doxamed 和 Unilabs 法国实验室与 SNCF Gares & Connexions 合作，在圣拉扎尔火车站前院安装了首个 \"Mobiltest \"唾液筛查箱。"
+      },
+      "summary": {
+        "fr": "Après Paris Gare de Lyon, les gares de Paris-Est, Marseille Saint-Charles, Bordeaux Saint-Jean, Nice Ville, Rennes et Grenoble, Loxamed s'installe sur le parvis Havre de la Gare Saint-Lazare pour contribuer aux capacités de dépistage…",
+        "en": "After Paris Gare de Lyon, the Paris-Est, Marseille Saint-Charles, Bordeaux Saint-Jean, Nice Ville, Rennes and Grenoble stations, Loxamed has moved to the Havre forecourt of the Gare Saint-Lazare to contribute to the company's screening...",
+        "es": "Tras las estaciones parisinas de Gare de Lyon, Paris-Est, Marseille Saint-Charles, Bordeaux Saint-Jean, Nice Ville, Rennes y Grenoble, Loxamed se instala en la explanada Havre de Gare Saint-Lazare para contribuir a mejorar la capacidad de control...",
+        "zh": "继巴黎里昂火车站、巴黎东站、马赛圣夏尔站、波尔多圣让站、尼斯市站、雷恩站和格勒诺布尔站之后，Loxamed公司将进驻圣拉扎尔火车站的哈弗尔前院，帮助提高安检能力。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-1-1.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/CP_SNCF-GC_Loxamed_Unilabs_Mobiltest-Gare-Saint-Lazare_16042021.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 4 月 15 日"
+    },
+    {
+      "wpId": 645,
+      "slug": "en-partenariat-avec-sncf-garesconnexions-et-la-ville-de-nice-doxamed-installe-une-box-de-vaccination-contre-la-covid-19-sur-le-parvis-de-la-gare-de-nice-ville",
+      "type": "communique",
+      "date": "2021-04-09T14:23:00",
+      "title": {
+        "fr": "En partenariat avec SNCF Gares & Connexions et la ville de Nice, Doxamed installe une box de vaccination contre la Covid-19 sur le parvis de la gare de Nice-Ville.",
+        "en": "In partnership with SNCF Gares & Connexions and the city of Nice, Doxamed installs a Covid-19 vaccination box on the forecourt of Nice-Ville station.",
+        "es": "En colaboración con SNCF Gares & Connexions y la ciudad de Niza, Doxamed instala un puesto de vacunación Covid-19 en la explanada de la estación de Nice-Ville.",
+        "zh": "Doxamed 与 SNCF Gares & Connexions 和尼斯市合作，在尼斯维尔车站前院安装了一个 Covid-19 疫苗箱。"
+      },
+      "summary": {
+        "fr": "Après avoir installé le 1<sup>er</sup> mars dernier une box de dépistage sur le parvis de la gare de Nice Ville pour faciliter l'accès aux tests, Doxamed (ex Loxamed) déploie sur le même parvis une box « MobilVaccin » pour renforcer les…",
+        "en": "After installing a screening box on the Nice Ville station forecourt on March<sup>1</sup> to facilitate access to tests, Doxamed (formerly Loxamed) is now deploying a \"MobilVaccin\" box on the same forecourt to reinforce the...",
+        "es": "Tras instalar el pasado<sup>1 de</sup> marzo una cabina de control en la explanada de la estación de Niza Ville para facilitar el acceso a las pruebas, Doxamed (antes Loxamed) instala ahora una cabina \"MobilVaccin\" en la misma explanada para reforzar...",
+        "zh": "3月<sup>1日</sup>，Doxamed（前身为Loxamed）在尼斯市火车站的前院安装了一个检查亭，以方便人们接受检查，现在又在同一前院安装了一个 \"MobilVaccin \"检查亭，以加强..."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-2.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communique-Nice-MobilVaccin-V2.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 4 月 9 日"
+    },
+    {
+      "wpId": 649,
+      "slug": "la-covid-19-a-fait-naitre-une-solution-medicale-mobile-et-adaptee-aux-deserts-medicaux",
+      "type": "communique",
+      "date": "2021-03-31T14:24:00",
+      "title": {
+        "fr": "La Covid-19 a fait naître une solution médicale mobile et adaptée aux déserts médicaux.",
+        "en": "Covid-19 has created a mobile medical solution adapted to medical deserts.",
+        "es": "Covid-19 ha creado una solución médica móvil adaptada a los desiertos médicos.",
+        "zh": "Covid-19 为医疗沙漠量身打造了移动医疗解决方案。"
+      },
+      "summary": {
+        "fr": "Doxamed (ex Loxamed), entreprise spécialisée dans la mobilité médicale, s'engage pleinement depuis le début de la pandémie, dans la politique nationale de sécurisation sanitaire, avec notamment pour leitmotiv…",
+        "en": "Since the start of the pandemic, Doxamed (formerly Loxamed), a company specializing in medical mobility, has been fully committed to the national health security policy, with a particular focus on...",
+        "es": "Doxamed (antes Loxamed), empresa especializada en movilidad médica, está plenamente comprometida con la política nacional de seguridad sanitaria desde el inicio de la pandemia,...",
+        "zh": "Doxamed（前身为 Loxamed）是一家专门从事医疗移动的公司，自大流行病开始以来，该公司一直全力支持国家卫生安全政策，尤其关注..."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-3.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/LOXAMED-CP-deserts-medicaux_-6-avril-2021.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 3 月 31 日"
+    },
+    {
+      "wpId": 653,
+      "slug": "loxamed-sagrandit-et-se-structure-pour-repondre-aux-nouveaux-defis-sanitaires",
+      "type": "communique",
+      "date": "2020-11-30T14:25:00",
+      "title": {
+        "fr": "Loxamed s’agrandit et se structure pour répondre aux nouveaux défis sanitaires.",
+        "en": "Loxamed expands and structures to meet new health challenges.",
+        "es": "Loxamed se está expandiendo y estructurando para hacer frente a los nuevos retos sanitarios.",
+        "zh": "Loxamed 公司正在进行扩张和结构调整，以应对新的健康挑战。"
+      },
+      "summary": {
+        "fr": "Pour faire face à l'afflux de demandes de dépistage, répondre présent dans la phase de vaccination et anticiper les mutations de demain, Arnaud Molinié, président de Loxamed, en accord avec Gérard Deprez, président de Loxam…",
+        "en": "To cope with the influx of screening requests, be present during the vaccination phase and anticipate tomorrow's changes, Arnaud Molinié, President of Loxamed, in agreement with Gérard Deprez, President of Loxam...",
+        "es": "Para hacer frente a la afluencia de solicitudes de cribado, estar presente durante la fase de vacunación y anticiparse a los cambios del mañana, Arnaud Molinié, Presidente de Loxamed, de acuerdo con Gérard Deprez, Presidente de Loxam...",
+        "zh": "为了应对大量的筛查请求，在疫苗接种阶段做好准备并预测未来的变化，Loxamed 公司董事长 Arnaud Molinié 与 Loxam 公司董事长 Gérard Deprez 达成了一致意见。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Image_Doxamed.png",
+      "thumbnailWidth": 1698,
+      "thumbnailHeight": 993,
+      "href": "/wp-content/uploads/2025/02/Communiquee-de-presse-Loxamed-nomination-02022021.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 11 月 30 日"
+    },
+    {
+      "wpId": 656,
+      "slug": "la-mairie-de-letang-la-ville-en-partenariat-avec-la-region-ile-de-france-et-doxamed-installe-une-box-mobiltest-de-depistage-de-la-covid-19",
+      "type": "communique",
+      "date": "2020-11-23T14:27:00",
+      "title": {
+        "fr": "La mairie de l’Étang-la-Ville, en partenariat avec la Région Île-de-France et Doxamed installe une box MobilTest de dépistage de la Covid-19.",
+        "en": "L'Étang-la-Ville town council, in partnership with the Île-de-France region and Doxamed, installs a MobilTest box for Covid-19 screening.",
+        "es": "El ayuntamiento de L'Étang-la-Ville, en colaboración con la región de Île-de-France y Doxamed, instala un box MobilTest para la detección del Covid-19.",
+        "zh": "埃唐拉维尔市议会与法兰西岛大区和 Doxamed 合作，正在安装一个 MobilTest 箱，用于筛查 Covid-19。"
+      },
+      "summary": {
+        "fr": "La mairie de l'Étang-la-Ville, dans le cadre de la grande campagne de dépistage initiée par la Région Île-de-France, intensifie sa participation à l'effort national en ouvrant à tous les Stagnovillois et habitants des villes…",
+        "en": "As part of the major screening campaign launched by the Île-de-France region, the Town Hall of l'Etang-la-Ville is stepping up its participation in the national effort by opening its doors to all Stagnovillois and townspeople...",
+        "es": "En el marco de la gran campaña de detección lanzada por la región de Île-de-France, el ayuntamiento de l'Étang-la-Ville refuerza su participación en el esfuerzo nacional abriendo sus centros de detección a todos los habitantes de Stagnovillois y de otras ciudades...",
+        "zh": "作为法兰西岛大区发起的大型放映活动的一部分，爱唐拉-维尔市议会正在加紧参与全国性的活动，向所有斯塔尼维罗瓦人和其他城镇的居民开放其放映中心。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2020/11/visuel-cp-23_11_2020.png",
+      "thumbnailWidth": 940,
+      "thumbnailHeight": 788,
+      "href": "/wp-content/uploads/2025/02/Loxamed_-CP_Etang-la-ville_23112020.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 11 月 23 日"
+    },
+    {
+      "wpId": 662,
+      "slug": "loxamed-installe-des-boxs-mobiltest-de-depistage-du-covid-19-sur-cinq-parvis-de-gares",
+      "type": "communique",
+      "date": "2020-11-03T14:29:00",
+      "title": {
+        "fr": "Loxamed installe des boxs « MobilTest » de dépistage de la Covid-19 sur cinq parvis de gares.",
+        "en": "Loxamed installs \"MobilTest\" Covid-19 screening boxes on five station forecourts.",
+        "es": "Loxamed está instalando cajas de cribado \"MobilTest\" Covid-19 en cinco estaciones de servicio.",
+        "zh": "Loxamed 公司正在五个加油站前台安装 \"MobilTest \"Covid-19 筛选箱。"
+      },
+      "summary": {
+        "fr": "Pour renforcer la mobilisation nationale de dépistage de la Covid-19, SNCF Gares &amp; Connexions a répondu favorablement à Loxamed, société de mobilité médicale, pour l’installation de 5 boxs sur les parvis des gares….",
+        "en": "To reinforce the national mobilization for Covid-19 screening, SNCF Gares &amp; Connexions has responded favorably to Loxamed, a medical mobility company, for the installation of 5 cubicles on station forecourts....",
+        "es": "Para reforzar la campaña nacional de detección de Covid-19, SNCF Gares &amp; Connexions ha respondido favorablemente a Loxamed, empresa de movilidad médica, para la instalación de 5 cabinas en los vestíbulos de las estaciones....",
+        "zh": "为加强全国性的 Covid-19 筛查活动，法国国营铁路公司 Gares &amp; Connexions 积极响应医疗移动公司 Loxamed 的要求，在车站前厅安装了 5 个隔间....。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-4.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communiquee-de-presse-LOXAMED-SNCF-Gares-Connexions.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 11 月 3 日"
+    },
+    {
+      "wpId": 666,
+      "slug": "doxamed-installe-la-premiere-unite-de-diagnostic-et-de-depistage-embarquee-a-bord-du-train-we-love-2023",
+      "type": "communique",
+      "date": "2020-09-08T14:30:00",
+      "title": {
+        "fr": "Doxamed installe la première unité de diagnostic et de dépistage embarquée, à bord du train « We love 2023 ».",
+        "en": "Doxamed installs the first on-board diagnostic and screening unit, on board the \"We love 2023\" train.",
+        "es": "Doxamed instala la primera unidad de diagnóstico y cribado a bordo del tren \"We love 2023\".",
+        "zh": "Doxamed 正在 \"我们热爱 2023 \"列车上安装首个车载诊断和筛查装置。"
+      },
+      "summary": {
+        "fr": "À l’occasion de l’inauguration du train « We love 2023 », déployé par la SNCF dans le cadre de la Coupe du monde de rugby 2023, Loxamed a présenté son unité de test et de diagnostic Covid qui sera installée…",
+        "en": "On the occasion of the inauguration of the \"We love 2023\" train, deployed by the SNCF as part of the Rugby World Cup 2023, Loxamed presented its Covid testing and diagnostics unit, which will be installed...",
+        "es": "Con motivo de la inauguración del tren \"We love 2023\", desplegado por la SNCF en el marco de la Copa del Mundo de Rugby 2023, Loxamed presentó su unidad de pruebas y diagnóstico Covid, que se instalará...",
+        "zh": "在法国国家铁路公司（SNCF）为 2023 年橄榄球世界杯部署的 \"We love 2023 \"列车落成典礼上，Loxamed 展示了其 Covid 测试和诊断装置，该装置将安装在列车上。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-5.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse_Loxamed_We-LOVE-2023-TOUR_08092020-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 9 月 8 日"
+    },
+    {
+      "wpId": 670,
+      "slug": "doxamed-deploie-de-deux-camions-itinerants-de-depistage-mobiltests-qui-sillonneront-tout-le-territoire-francilien",
+      "type": "communique",
+      "date": "2020-09-04T14:31:00",
+      "title": {
+        "fr": "Doxamed déploie de deux camions itinérants de dépistage MobilTests, qui sillonneront tout le territoire francilien.",
+        "en": "Doxamed is deploying two MobilTests mobile screening trucks throughout the Paris region.",
+        "es": "Doxamed está desplegando dos camiones móviles de cribado MobilTests, que recorrerán toda la región de París.",
+        "zh": "Doxamed 正在部署两辆 MobilTests 流动筛分车，它们将在巴黎大区进行巡回检查。"
+      },
+      "summary": {
+        "fr": "Loxamed a été choisie par la Région Île-de-France pour renforcer sa politique de dépistage et la rendre accessible à tous les franciliens. La Région Île-de-France fait face à une dégradation de sa situation sanitaire dans ses huit…",
+        "en": "Loxamed has been chosen by the Île-de-France region to strengthen its screening policy and make it accessible to all residents of the region. The Île-de-France region is facing a deteriorating health situation in its eight regions...",
+        "es": "Loxamed ha sido elegida por la región de Île-de-France para reforzar su política de cribado y hacerla accesible a todos los residentes de la región. La región de Île-de-France se enfrenta a un deterioro de su situación sanitaria en sus ocho...",
+        "zh": "法兰西岛大区选择 Loxamed 来加强其筛查政策，并使该地区的所有居民都能享受到筛查服务。法兰西岛大区正面临着健康状况恶化的问题，该大区的所有八个城市都面临着这一问题。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-6.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse_Loxamed_IDF_03092020.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 9 月 4 日"
+    },
+    {
+      "wpId": 674,
+      "slug": "covid-19-lagence-regionale-de-sante-ile-de-france-valide-le-protocole-sanitaire-de-loxamed",
+      "type": "communique",
+      "date": "2020-07-22T14:32:00",
+      "title": {
+        "fr": "Covid-19 : l’agence régionale de santé Île-de-France valide le protocole sanitaire de Loxamed.",
+        "en": "Covid-19: the Île-de-France regional health agency validates Loxamed's health protocol.",
+        "es": "Covid-19: la agencia regional de salud de Île-de-France valida el protocolo sanitario de Loxamed.",
+        "zh": "Covid-19：法兰西岛地区卫生机构批准了 Loxamed 的卫生协议。"
+      },
+      "summary": {
+        "fr": "Alors que de nouveaux foyers de contamination laissent craindre une reprise de l’épidémie du Covid-19, l’Agence Régionale de Santé (ARS) Île-de-France vient d’émettre un avis favorable au dispositif d’Unité Mobile de Diagnostic…",
+        "en": "At a time when new outbreaks of contamination are raising fears of a resurgence in the Covid-19 epidemic, the Agence Régionale de Santé (ARS) Île-de-France has issued a favorable opinion on the Mobile Diagnostic Unit...",
+        "es": "Ante los nuevos brotes infecciosos que hacen temer un rebrote de la epidemia de Covid-19, la Agence Régionale de Santé (ARS) Île-de-France ha emitido un dictamen favorable sobre la Unidad Móvil de Diagnóstico...",
+        "zh": "随着新的感染疫情爆发，人们担心科维德-19疫情会卷土重来，法兰西岛大区卫生局（ARS）对移动诊断室（MDU）发表了积极的意见。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2020/07/visuel-CP-22-juillet-2020.png",
+      "thumbnailWidth": 898,
+      "thumbnailHeight": 368,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse_LOXAMED_ARS_vf.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 7 月 22 日"
+    },
+    {
+      "wpId": 677,
+      "slug": "lol-presente-son-retour-a-lactivite-et-le-dispositif-ol-protege",
+      "type": "communique",
+      "date": "2020-06-05T14:33:00",
+      "title": {
+        "fr": "L’OL présente son retour à l’activité et le dispositif « OL PROTÉGÉ ».",
+        "en": "OL presents its return to business and the \"OL PROTÉGÉ\" program.",
+        "es": "OL presenta su vuelta a la actividad y el plan \"OL PROTÉGÉ\".",
+        "zh": "OL 推出其业务回归和 \"OL PROTÉGÉ \"计划。"
+      },
+      "summary": {
+        "fr": "L’Olympique lyonnais informe de la reprise de son activité lundi 8 juin prochain, qui se fera dans un cadre sanitaire très strict et dans le respect de la protection de la santé des collaborateurs qui est une priorité absolue….",
+        "en": "Olympique Lyonnais has announced that it will be resuming business on Monday, June 8, under strict health conditions and with respect for the protection of employees' health, which is an absolute priority....",
+        "es": "El Olympique Lyonnais ha anunciado que reanudará su actividad el lunes 8 de junio, en un marco sanitario muy estricto y respetando la protección de la salud de los empleados, que es una prioridad absoluta....",
+        "zh": "里昂奥林匹克宣布将于 6 月 8 日星期一在非常严格的卫生框架内恢复营业，并将保护员工的健康作为绝对优先事项....。"
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-7.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse_OL_LOXAMED_vf.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 6 月 5 日"
+    },
+    {
+      "wpId": 681,
+      "slug": "covid-19-un-pilote-dunites-mobiles-de-diagnostic-et-de-depistage-voit-le-jour-a-paris-dans-le-19eme-pour-accompagner-la-phase-de-deconfinement",
+      "type": "communique",
+      "date": "2020-05-04T14:33:00",
+      "title": {
+        "fr": "Covid-19 : un pilote d’unités mobiles de diagnostic et de dépistage voit le jour à Paris (XIXᵉ) pour accompagner la phase de déconfinement.",
+        "en": "Covid-19: a pilot of mobile diagnostic and screening units is launched in Paris (XIXᵉ) to support the decontamination phase.",
+        "es": "Covid-19: se está creando un plan piloto de unidades móviles de diagnóstico y detección en París (XIXᵉ) para apoyar la fase de descontaminación.",
+        "zh": "Covid-19：正在巴黎（XIXᵉ）建立一个流动诊断和筛查单位试点计划，以支持净化阶段的工作。"
+      },
+      "summary": {
+        "fr": "Depuis plus de 15 jours, un pilote d’unité mobile de diagnostic et de dépistage (UMDD) a été installé devant un foyer de travailleurs migrants du 19<sup>e</sup> arrondissement. Ce dispositif innovant…",
+        "en": "For over 15 days, a pilot mobile diagnostic and screening unit (UMDD) has been installed in front of a migrant workers' hostel in the <sup>19th</sup> arrondissement. This innovative device...",
+        "es": "Durante más de 15 días se ha instalado una unidad móvil piloto de diagnóstico y detección (UMDD) en el exterior de un albergue de trabajadores inmigrantes del distrito <sup>19</sup>. Esta innovadora...",
+        "zh": "在<sup>第 19</sup>区的一家外来务工人员宿舍外安装了一个试点流动诊断和筛查装置 (UMDD)，至今已超过 15 天。这种创新的..."
+      },
+      "tags": [
+        "doxamed"
+      ],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Rectangle-51-8.png",
+      "thumbnailWidth": 566,
+      "thumbnailHeight": 331,
+      "href": "/wp-content/uploads/2025/02/Communique-de-presse_LOXAMED_03052020_vf.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 5 月 4 日"
+    },
+    {
+      "wpId": 1551,
+      "slug": "nomination-darnaud-molinie-au-board-france-delectrip",
+      "type": "media",
+      "date": "2026-06-10T11:07:34",
+      "title": {
+        "fr": "Nomination d’Arnaud Molinié au board France d’Electrip",
+        "en": "Arnaud Molinié Appointed to Electrip's France Board",
+        "es": "Nombramiento de Arnaud Molinié como miembro del consejo de administración de Electrip en Francia",
+        "zh": "阿诺·莫利尼埃被任命为Electrip法国董事会成员"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Les_echos_logo.svg-1.png",
+      "thumbnailWidth": 359,
+      "thumbnailHeight": 84,
+      "href": "/wp-content/uploads/2026/06/Les-Echos-10-juin-2026.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1541,
+      "slug": "pourquoi-la-creation-de-300-centres-de-telemedecine-dans-les-gares-sncf-a-deraille",
+      "type": "media",
+      "date": "2026-04-15T10:32:00",
+      "title": {
+        "fr": "Pourquoi la création de 300 centres de télémédecine dans les gares SNCF a déraillé",
+        "en": "Why the plan to set up 300 telemedicine centers in SNCF train stations fell through",
+        "es": "¿Por qué se ha descarrilado el proyecto de crear 300 centros de telemedicina en las estaciones de la SNCF?",
+        "zh": "为何在法国国家铁路公司（SNCF）车站设立300个远程医疗中心的计划会脱轨"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/ouestfrance-e1599137740364.png",
+      "thumbnailWidth": 800,
+      "thumbnailHeight": 200,
+      "href": "/wp-content/uploads/2026/04/OUEST-FRANCE_15-avril-26.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1553,
+      "slug": "leclairage-artistique-de-larc-de-triomphe-sort-enfin-de-lombre",
+      "type": "media",
+      "date": "2026-04-13T11:08:00",
+      "title": {
+        "fr": "L’éclairage artistique de l’Arc de triomphe sort enfin de l’ombre",
+        "en": "The artistic lighting of the Arc de Triomphe is finally stepping out of the shadows",
+        "es": "La iluminación artística del Arco del Triunfo sale por fin de las sombras",
+        "zh": "凯旋门的艺术灯光秀终于走出了阴影"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2026/06/01-Logo-LaLettre-DarkBlue-scaled.png",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 396,
+      "href": "/wp-content/uploads/2026/06/La-Lettre-13-avril-2026.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1535,
+      "slug": "plan-de-sante-bpifrance-interview-darnaud-molinie-et-de-christelle-roge",
+      "type": "media",
+      "date": "2026-03-10T14:20:00",
+      "title": {
+        "fr": "Plan de santé Bpifrance : interview d’Arnaud Molinié et de Christelle Rogé",
+        "en": "Bpifrance Health Plan: Interview with Arnaud Molinié and Christelle Rogé",
+        "es": "Plan de salud de Bpifrance: entrevista a Arnaud Molinié y Christelle Rogé",
+        "zh": "Bpifrance健康计划：专访阿诺·莫利尼埃和克里斯泰尔·罗热"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2026/04/logo-LOptimiste.png",
+      "thumbnailWidth": 1722,
+      "thumbnailHeight": 420,
+      "href": "/wp-content/uploads/2026/04/LOptimiste.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1499,
+      "slug": "plan-de-sante-bpifrance-interview-de-christelle-roge",
+      "type": "media",
+      "date": "2026-01-09T13:14:00",
+      "title": {
+        "fr": "Plan de santé Bpifrance : interview de Christelle Rogé",
+        "en": "Bpifrance health plan: interview with Christelle Rogé",
+        "es": "Plan de salud Bpifrance: entrevista con Christelle Rogé",
+        "zh": "Bpifrance健康计划：对克里斯蒂娜·罗热的专访"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2026/01/AEF-Info-logo-RGB-2.jpg",
+      "thumbnailWidth": 300,
+      "thumbnailHeight": 300,
+      "href": "/wp-content/uploads/2026/01/Interview-AEF-Christelle-Roge.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1496,
+      "slug": "prevention-sante-le-groupe-adp-met-en-place-un-dispositif-inedit-sur-ses-plateformes",
+      "type": "media",
+      "date": "2025-12-28T13:13:00",
+      "title": {
+        "fr": "Prévention santé : le Groupe ADP met en place un dispositif inédit sur ses plateformes",
+        "en": "Health prevention: Groupe ADP implements a unique program at its airports",
+        "es": "Prevención sanitaria: el Grupo ADP pone en marcha un dispositivo sin precedentes en sus plataformas",
+        "zh": "健康预防：ADP集团在其平台上推出一项创新举措"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2026/01/Capture-decran-2026-01-13-a-10.28.20.png",
+      "thumbnailWidth": 1518,
+      "thumbnailHeight": 528,
+      "href": "/wp-content/uploads/2026/01/Groupe-ADP-BPS-Magazine-12-01-2026.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1561,
+      "slug": "acquisition-de-teledok",
+      "type": "media",
+      "date": "2025-12-11T22:20:00",
+      "title": {
+        "fr": "Acquisition de Teledok",
+        "en": "Acquisition of Teledok",
+        "es": "Adquisición de Teledok",
+        "zh": "收购Teledok"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2026/09/Logo_Challenges.png",
+      "thumbnailWidth": 1000,
+      "thumbnailHeight": 253,
+      "href": "/wp-content/uploads/2026/09/challenges.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1395,
+      "slug": "la-sante-arrive-dans-les-gares-dile-de-france-2",
+      "type": "media",
+      "date": "2025-07-01T10:20:00",
+      "title": {
+        "fr": "La santé arrive dans les gares d’Île-de-France",
+        "en": "Healthcare arrives in Île-de-France stations",
+        "es": "Sanidad llega a las estaciones de la región de Île-de-France",
+        "zh": "健康走进法兰西岛大区各站点"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/07/Capture-decran-2025-07-01-a-19.05.27.png",
+      "thumbnailWidth": 526,
+      "thumbnailHeight": 170,
+      "href": "https://www.focusrh.com/sante-social/sante-un-nouveau-partenariat-entre-pluxee-et-doxamed-35977.html",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 7 月 1 日"
+    },
+    {
+      "wpId": 1404,
+      "slug": "le-groupe-adp-propose-un-bilan-de-sante-complet-a-tous-ses-salaries",
+      "type": "media",
+      "date": "2025-06-27T10:22:00",
+      "title": {
+        "fr": "Le groupe ADP propose un bilan de santé complet à tous ses salariés",
+        "en": "The ADP Group offers a complete health check-up to all its employees",
+        "es": "El Grupo ADP ofrece un chequeo médico completo a todos sus empleados",
+        "zh": "ADP 集团为所有员工提供全面的健康检查"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/06/Liaisons_sociales-1.jpg",
+      "thumbnailWidth": 200,
+      "thumbnailHeight": 200,
+      "href": "/wp-content/uploads/2025/07/Liaison-sociale.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 6 月 27 日"
+    },
+    {
+      "wpId": 1398,
+      "slug": "ces-soignants-qui-vont-au-devant-des-patients",
+      "type": "media",
+      "date": "2025-06-26T10:21:00",
+      "title": {
+        "fr": "Ces soignants qui vont au-devant des patients",
+        "en": "Caregivers who reach out to patients",
+        "es": "Cuidadores que se acercan a los pacientes",
+        "zh": "接触病人的护理人员"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/06/Femme_Actuelle_Logo.png",
+      "thumbnailWidth": 1668,
+      "thumbnailHeight": 1058,
+      "href": "/wp-content/uploads/2025/07/Femme-Actuelle-juin-25.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 6 月 26 日"
+    },
+    {
+      "wpId": 1381,
+      "slug": "la-sante-arrive-dans-les-gares-dile-de-france",
+      "type": "media",
+      "date": "2025-06-11T09:47:00",
+      "title": {
+        "fr": "La santé arrive dans les gares d’Île-de-France",
+        "en": "Healthcare arrives in Île-de-France stations",
+        "es": "Sanidad llega a las estaciones de la región de Île-de-France",
+        "zh": "健康走进法兰西岛大区各站点"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/06/Logo_ICI_par_France_Bleu_et_France_3.svg_.png",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 1072,
+      "href": "/wp-content/uploads/2025/06/IcI-11-06-25.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 6 月 11 日"
+    },
+    {
+      "wpId": 1371,
+      "slug": "sncf-la-telemedecine-sinvite-dans-la-gare-journal-de-8h",
+      "type": "media",
+      "date": "2025-06-03T19:58:00",
+      "title": {
+        "fr": "SNCF : la télémédecine s’invite dans la gare ! – Journal de 8h",
+        "en": "SNCF: telemedicine in the station! - 8 a.m. news",
+        "es": "SNCF: ¡telemedicina en la estación! - Noticias de las 8",
+        "zh": "法国国家铁路公司：车站远程医疗！- 8 时新闻"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2019/05/Capture-decran-2025-03-04-a-10.38.12.png",
+      "thumbnailWidth": 330,
+      "thumbnailHeight": 324,
+      "href": "/wp-content/uploads/2025/06/8h-ok.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 6 月 3 日"
+    },
+    {
+      "wpId": 1363,
+      "slug": "sncf-la-telemedecine-sinvite-dans-la-gare",
+      "type": "media",
+      "date": "2025-06-03T12:28:00",
+      "title": {
+        "fr": "SNCF : la télémédecine s’invite dans la gare ! – Journal de 7h",
+        "en": "SNCF: telemedicine in the station! - 7 o'clock news",
+        "es": "SNCF: ¡telemedicina en la estación! - Noticias de las 7",
+        "zh": "法国国家铁路公司：车站远程医疗！- 7 时新闻"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2019/05/Capture-decran-2025-03-04-a-10.38.12.png",
+      "thumbnailWidth": 330,
+      "thumbnailHeight": 324,
+      "href": "/wp-content/uploads/2025/06/7h-a-changer-ok.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 6 月 3 日"
+    },
+    {
+      "wpId": 1361,
+      "slug": "deserts-medicaux-la-sncf-transforme-ses-gares-en-cabinets-de-teleconsultation",
+      "type": "media",
+      "date": "2025-06-02T12:28:00",
+      "title": {
+        "fr": "Déserts médicaux : la SNCF transforme ses gares en cabinets de téléconsultation",
+        "en": "Medical deserts: SNCF turns stations into teleconsultation offices",
+        "es": "Desiertos médicos: la SNCF convierte las estaciones en consultorios de teleconsulta",
+        "zh": "医疗荒漠：法国国家铁路公司将车站改造成远程会诊手术室"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/05/Le_Parisien_logo.svg_-scaled.png",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 800,
+      "href": "https://www.leparisien.fr/essonne-91/deserts-medicaux-la-sncf-transforme-ses-gares-en-cabinets-de-teleconsultation-02-06-2025-7GDDJX3O2VCDLD3Q6WW7NAYUEU.php",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 6 月 2 日"
+    },
+    {
+      "wpId": 1357,
+      "slug": "en-france-la-telemedecine-tente-de-pallier-le-manque-de-medecins-generalistes",
+      "type": "media",
+      "date": "2025-05-31T12:26:00",
+      "title": {
+        "fr": "En France, la télémédecine tente de pallier le manque de médecins généralistes",
+        "en": "In France, telemedicine tries to make up for the shortage of GPs",
+        "es": "En Francia, la telemedicina intenta paliar la escasez de médicos de cabecera",
+        "zh": "在法国，远程医疗正试图弥补全科医生的不足"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/06/Radio_Television_Suisse.svg_.jpg",
+      "thumbnailWidth": 200,
+      "thumbnailHeight": 134,
+      "href": "/wp-content/uploads/2025/06/RTS_En-France-la-telemedecine-tente-de-pallier-le-manque-de-medecins-generalistes.mp3",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 5 月 31 日"
+    },
+    {
+      "wpId": 1341,
+      "slug": "teleconsultations-dans-les-gares",
+      "type": "media",
+      "date": "2025-05-27T16:29:00",
+      "title": {
+        "fr": "Téléconsultations dans les gares",
+        "en": "Teleconsultations in train stations",
+        "es": "Teleconsultas en estaciones de tren",
+        "zh": "火车站的远程会诊"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/05/France_2_2018.svg-1.png",
+      "thumbnailWidth": 120,
+      "thumbnailHeight": 104,
+      "href": "/wp-content/uploads/2025/05/JT_F2_13h_27-mai-25-V3-1.mp4",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1338,
+      "slug": "le-journal-de-7h-teleconsulter-dans-une-gare-cest-possible",
+      "type": "media",
+      "date": "2025-05-20T14:19:00",
+      "title": {
+        "fr": "Le journal de 7h – « Téléconsulter dans une gare, c’est possible »",
+        "en": "7 a.m. news - \"Teleconsulting in a railway station, it's possible\".",
+        "es": "Las noticias de las 7: \"Teleconsultar en una estación de tren, es posible\".",
+        "zh": "七点新闻--\"在火车站进行远程咨询，这是可能的\"。"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/05/France_Inter_logo_2021.svg-5.jpg",
+      "thumbnailWidth": 200,
+      "thumbnailHeight": 200,
+      "href": "/wp-content/uploads/2025/05/France-Inter-20-mai-25.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 5 月 20 日"
+    },
+    {
+      "wpId": 1336,
+      "slug": "sauve-par-une-infirmiere-grace-a-une-teleconsultation-en-gare",
+      "type": "media",
+      "date": "2025-05-17T14:18:00",
+      "title": {
+        "fr": "Sauvé par une infirmière grâce à une téléconsultation en gare",
+        "en": "Saved by a nurse thanks to a station teleconsultation",
+        "es": "Salvado por una enfermera gracias a la teleconsulta de una emisora",
+        "zh": "车站远程会诊救了一名护士"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/05/Le_Parisien_logo.svg_-scaled.png",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 800,
+      "href": "/wp-content/uploads/2025/05/Le-Parisien-17-mai-25.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 5 月 17 日"
+    },
+    {
+      "wpId": 1329,
+      "slug": "epinay-sur-orge-yann-sauve-par-une-infirmiere",
+      "type": "media",
+      "date": "2025-05-16T14:16:00",
+      "title": {
+        "fr": "Épinay-sur-Orge : Yann sauvé par une infirmière",
+        "en": "Épinay-sur-Orge: Yann saved by a nurse",
+        "es": "Épinay-sur-Orge: Yann salvado por una enfermera",
+        "zh": "奥日河畔埃皮奈：护士救了雅恩"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/05/France_3_Paris_Ile-de-France_-_Logo_2018.png",
+      "thumbnailWidth": 2019,
+      "thumbnailHeight": 595,
+      "href": "/wp-content/uploads/2025/05/F3-16-mai-25.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 5 月 16 日"
+    },
+    {
+      "wpId": 1316,
+      "slug": "le-journal-de-13h-un-patient-sauve-dans-lespace-de-sante-en-gare-depinay-sur-orge",
+      "type": "media",
+      "date": "2025-05-15T16:18:18",
+      "title": {
+        "fr": "Le journal de 13h – « Un patient sauvé dans l’Espace de santé en gare d’Épinay-sur-Orge »",
+        "en": "Le journal de 13h - \"A patient saved in the Espace de santé at Épinay-sur-Orge station\".",
+        "es": "Las noticias de la 1 - \"Un paciente salvado en el centro de salud de la estación de Épinay-sur-Orge\".",
+        "zh": "1 点钟新闻--\"奥日河畔埃皮奈车站医疗中心救出一名病人\"。"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/05/France_Inter_logo_2021.svg-5.jpg",
+      "thumbnailWidth": 200,
+      "thumbnailHeight": 200,
+      "href": "/wp-content/uploads/2025/05/France-Inter_15-mai-25.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 5 月 15 日"
+    },
+    {
+      "wpId": 1309,
+      "slug": "teleconsulter-un-medecin-dans-une-gare-sncf-cest-desormais-possible",
+      "type": "media",
+      "date": "2025-05-12T16:14:34",
+      "title": {
+        "fr": "Téléconsulter un médecin dans une gare SNCF, c’est désormais possible",
+        "en": "Teleconsulting a doctor in an SNCF station is now possible",
+        "es": "Ya es posible teleconsultar a un médico en una estación de la SNCF",
+        "zh": "在法国国家铁路公司（SNCF）车站远程咨询医生成为可能"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/05/Capture-decran-2025-05-13-a-14.12.27.p-ng.png",
+      "thumbnailWidth": 436,
+      "thumbnailHeight": 174,
+      "href": "/wp-content/uploads/2025/05/Egora.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 5 月 12 日"
+    },
+    {
+      "wpId": 1303,
+      "slug": "le-premier-centre-de-telemedecine-est-entre-en-gare-sncf",
+      "type": "media",
+      "date": "2025-04-25T11:32:00",
+      "title": {
+        "fr": "Le premier « centre de télémédecine » est entré en gare SNCF",
+        "en": "The first \"telemedicine center\" has arrived at the SNCF train station",
+        "es": "El primer \"centro de telemedicina\" llega a la estación SNCF",
+        "zh": "首个 \"远程医疗中心 \"落户法国国家铁路公司（SNCF）车站"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/logo-quotidien-mei╠Cdecin.png",
+      "thumbnailWidth": 682,
+      "thumbnailHeight": 178,
+      "href": "/wp-content/uploads/2025/05/quotidien-medecin.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 4 月 25 日"
+    },
+    {
+      "wpId": 1178,
+      "slug": "salon-medintech-la-medecine-mobile-innove",
+      "type": "media",
+      "date": "2025-03-12T00:18:50",
+      "title": {
+        "fr": "Salon MedInTechs : la médecine mobile innove",
+        "en": "MedInTechs: mobile medicine breaks new ground",
+        "es": "MedInTechs: la medicina móvil abre nuevos caminos",
+        "zh": "MedInTechs：移动医疗开辟新天地"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_BFM_Business.svg-1.png",
+      "thumbnailWidth": 159,
+      "thumbnailHeight": 159,
+      "href": "/wp-content/uploads/2025/03/Medecine-generale-dermatologie-ophtalmologie-La-medecine-mobile_1.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 3 月 12 日"
+    },
+    {
+      "wpId": 1130,
+      "slug": "la-prevention-sante-une-priorite-pour-la-nation-et-un-nouveau-rolepour-lentreprise",
+      "type": "media",
+      "date": "2025-02-04T11:48:00",
+      "title": {
+        "fr": "La prévention santé, une priorité pour la nation et un nouveau rôlepour l’entreprise",
+        "en": "Preventive healthcare, a priority for the nation and a new role for the company",
+        "es": "La prevención sanitaria, una prioridad nacional y un nuevo papel para las empresas",
+        "zh": "预防保健，国家的优先事项和企业的新角色"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Les_echos_logo.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 675,
+      "href": "/wp-content/uploads/2025/03/Les-Echos-Tribune-Augustin-de-Romanet.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 2 月 4 日"
+    },
+    {
+      "wpId": 721,
+      "slug": "le-business-utile-de-la-telemedecine",
+      "type": "media",
+      "date": "2025-01-12T00:18:00",
+      "title": {
+        "fr": "Le business utile de la télémédecine.",
+        "en": "The useful business of telemedicine.",
+        "es": "El útil negocio de la telemedicina.",
+        "zh": "有用的远程医疗业务。"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo-Tribune-dimanche-1.png",
+      "thumbnailWidth": 433,
+      "thumbnailHeight": 127,
+      "href": "/wp-content/uploads/2025/02/Tribune-dimanche.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2025 年 1 月 12 日"
+    },
+    {
+      "wpId": 1180,
+      "slug": "retour-au-bureau-lere-du-tout-teletravail-touche-t-elle-a-sa-fin",
+      "type": "media",
+      "date": "2024-10-16T15:37:00",
+      "title": {
+        "fr": "Retour au bureau : l’ère du tout télétravail touche-t-elle à sa fin ?",
+        "en": "Back in the office: is the era of telecommuting coming to an end?",
+        "es": "De vuelta a la oficina: ¿se acaba la era del teletrabajo?",
+        "zh": "回到办公室：远程办公时代是否即将结束？"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/RTL_logo.svg_.png",
+      "thumbnailWidth": 1920,
+      "thumbnailHeight": 1344,
+      "href": "https://www.rtl.fr/actu/economie-consommation/l-ere-du-tout-teletravail-touche-t-elle-a-sa-fin-7900429516",
+      "showInFooter": false,
+      "zhDateLabel": "2024 年 10 月 16 日"
+    },
+    {
+      "wpId": 1081,
+      "slug": "arnaud-molinie-elu-a-la-presidence-du-fonds-de-dotation-de-paris",
+      "type": "media",
+      "date": "2024-09-30T23:41:00",
+      "title": {
+        "fr": "Arnaud Molinié, élu à la présidence du fonds de dotation de Paris.",
+        "en": "Arnaud Molinié elected Chairman of the Paris Endowment Fund.",
+        "es": "Arnaud Molinié, elegido Presidente del Fondo de Dotación de París.",
+        "zh": "Arnaud Molinié，当选巴黎捐赠基金主席。"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/logo-lettre-expansion.png",
+      "thumbnailWidth": 482,
+      "thumbnailHeight": 286,
+      "href": "/wp-content/uploads/2025/03/lettre-expansion-30-sept-2024.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2024 年 9 月 30 日"
+    },
+    {
+      "wpId": 727,
+      "slug": "un-cabinet-mobile-pour-faire-face-aux-deserts-medicaux",
+      "type": "media",
+      "date": "2024-05-30T00:23:00",
+      "title": {
+        "fr": "Un cabinet mobile pour faire face aux déserts médicaux.",
+        "en": "A mobile practice to cope with medical deserts.",
+        "es": "Una consulta móvil para abordar el problema de los desiertos médicos.",
+        "zh": "解决医疗荒漠问题的流动诊所。"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2024/05/Capture-decran-2024-05-30-a-16.39.45-2-1.png",
+      "thumbnailWidth": 171,
+      "thumbnailHeight": 114,
+      "href": "https://www.bfmtv.com/paris/replay-emissions/bonjour-paris/salon-de-l-association-des-maires-d-ile-de-france-un-cabinet-mobile-pour-faire-face-aux-deserts-medicaux-presente_VN-202405300171.html",
+      "showInFooter": false,
+      "zhDateLabel": "2024 年 5 月 30 日"
+    },
+    {
+      "wpId": 732,
+      "slug": "la-matinale-salon-viva-tech-2024-un-camion-novateur-contre-les-deserts-medicaux",
+      "type": "media",
+      "date": "2024-05-24T00:46:00",
+      "title": {
+        "fr": "La Matinale – Salon VivaTech 2024, un camion novateur contre les déserts médicaux.",
+        "en": "La Matinale - VivaTech 2024, an innovative truck to combat medical deserts.",
+        "es": "La Matinale - VivaTech 2024: un camión innovador para combatir los desiertos médicos.",
+        "zh": "La Matinale - VivaTech 2024：消除医疗荒漠的创新型卡车。"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/02/Canal_News_logo.svg-1.png",
+      "thumbnailWidth": 350,
+      "thumbnailHeight": 89,
+      "href": "https://www.dailymotion.com/video/x8yzpv6",
+      "showInFooter": false,
+      "zhDateLabel": "2024 年 5 月 24 日"
+    },
+    {
+      "wpId": 734,
+      "slug": "teleconsultation-dans-les-gares-la-reponse-aux-deserts-medicaux-qui-fait-tousser-les-medecins-de-ville",
+      "type": "media",
+      "date": "2024-04-17T00:47:00",
+      "title": {
+        "fr": "Téléconsultation dans les gares : la réponse aux déserts médicaux qui fait tousser les médecins de ville.",
+        "en": "Teleconsultation in railway stations: the answer to medical deserts that has city doctors coughing.",
+        "es": "Teleconsulta en estaciones de ferrocarril: la respuesta a los desiertos médicos que tiene a los médicos municipales tosiendo.",
+        "zh": "火车站远程会诊：解决让城镇医生咳嗽不已的医疗荒漠问题。"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Le_Point.svg-1.png",
+      "thumbnailWidth": 375,
+      "thumbnailHeight": 89,
+      "href": "https://www.lepoint.fr/sante/teleconsultation-dans-les-gares-la-reponse-aux-deserts-medicaux-qui-fait-tousser-les-medecins-de-ville-04-02-2024-2551499_40.php#xtmc=teleconsultation-dans-les-gares-la-reponse-aux-deserts-medicaux-qui-fait-tousser-les-medecins-de-ville&xtnp=1&xtcr=1",
+      "showInFooter": false,
+      "zhDateLabel": "2024 年 4 月 17 日"
+    },
+    {
+      "wpId": 1085,
+      "slug": "la-sncf-va-deployer-des-cabines-de-teleconsultation-dans-pres-de-300-gares",
+      "type": "media",
+      "date": "2023-11-24T23:44:00",
+      "title": {
+        "fr": "La SNCF va déployer des cabines de téléconsultation dans près de 300 gares",
+        "en": "SNCF to deploy teleconsultation booths in nearly 300 stations",
+        "es": "La SNCF instalará cabinas de teleconsulta en casi 300 estaciones",
+        "zh": "法国国家铁路公司将在近 300 个车站部署电话咨询台"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/logo-quotidien-mei╠Cdecin.png",
+      "thumbnailWidth": 682,
+      "thumbnailHeight": 178,
+      "href": "/wp-content/uploads/2025/03/Quotidien-du-medecin-hebdo-24-nov-2023.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2023 年 11 月 24 日"
+    },
+    {
+      "wpId": 736,
+      "slug": "teleconsultation-dans-les-gares-la-nouvelle-sante-de-proximite",
+      "type": "media",
+      "date": "2023-11-20T00:48:00",
+      "title": {
+        "fr": "Téléconsultation dans les gares : la nouvelle santé de proximité ?  ",
+        "en": "Teleconsultation in railway stations: the new local healthcare?  ",
+        "es": "Teleconsulta en estaciones de ferrocarril: ¿la nueva sanidad de proximidad?  ",
+        "zh": "火车站远程会诊：新的地方医疗保健？  "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_BFM_Business.svg-1.png",
+      "thumbnailWidth": 159,
+      "thumbnailHeight": 159,
+      "href": "https://www.doxamed.com/wp-content/uploads/2023/11/Arnaud-MoliniA%C2%A9-Loxamed-_-TA%C2%A9lA%C2%A9consultation-dans-les-gares-la-nouvelle-santA%C2%A9-de-proximitA%C2%A9-1.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2023 年 11 月 20 日"
+    },
+    {
+      "wpId": 738,
+      "slug": "deserts-medicaux-la-sncf-va-installer-des-espaces-de-telemedecine",
+      "type": "media",
+      "date": "2023-11-17T00:50:00",
+      "title": {
+        "fr": "Déserts médicaux : la SNCF va installer des espaces de télémedecine. ",
+        "en": "Medical deserts: SNCF to set up telemedicine areas. ",
+        "es": "Desiertos médicos: la SNCF va a crear zonas de telemedicina. ",
+        "zh": "医疗沙漠：法国国家铁路公司将设立远程医疗区。 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_C_a_vous.svg-1.png",
+      "thumbnailWidth": 156,
+      "thumbnailHeight": 156,
+      "href": "https://www.doxamed.com/wp-content/uploads/2023/11/video-Cavous.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2023 年 11 月 17 日"
+    },
+    {
+      "wpId": 814,
+      "slug": "arnaud-molinie-generation-bollore",
+      "type": "media",
+      "date": "2022-09-24T19:34:00",
+      "title": {
+        "fr": "Arnaud Molinié : Génération Bolloré ",
+        "en": "Arnaud Molinié: Generation Bolloré ",
+        "es": "Arnaud Molinié: Generación Bolloré ",
+        "zh": "阿尔诺-莫利尼耶：博洛雷世代 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/LOGO-ENTREPRENDRE-FR-1.png",
+      "thumbnailWidth": 375,
+      "thumbnailHeight": 90,
+      "href": "/wp-content/uploads/2025/02/Capitello-Group-Entreprendre-sept-22-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 9 月 24 日"
+    },
+    {
+      "wpId": 846,
+      "slug": "arnaud-molinie-lhomme-de-faire",
+      "type": "media",
+      "date": "2022-09-22T19:46:00",
+      "title": {
+        "fr": "Arnaud Molinié : L’homme de faire ",
+        "en": "Arnaud Molinié: A man of action ",
+        "es": "Arnaud Molinié: un hombre de acción ",
+        "zh": "阿尔诺-莫利尼耶：行动者 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Les_echos_logo.svg-1.png",
+      "thumbnailWidth": 359,
+      "thumbnailHeight": 84,
+      "href": "/wp-content/uploads/2025/02/Capitello-Group-Les-Echos-22-sept-22-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 9 月 22 日"
+    },
+    {
+      "wpId": 740,
+      "slug": "avranches-experimente-la-teleconsultation-accompagnee-jusquau-31-aout",
+      "type": "media",
+      "date": "2022-08-29T00:52:00",
+      "title": {
+        "fr": "Avranches expérimente la téléconsultation accompagnée jusqu’au 31 août.  ",
+        "en": "Avranches is testing accompanied teleconsultation until August 31.  ",
+        "es": "Avranches pone a prueba la teleconsulta acompañada hasta el 31 de agosto.  ",
+        "zh": "阿夫朗什（Avranches）将在 8 月 31 日前试行伴随式远程咨询。  "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/logo-lagazettedelamanche-1.png",
+      "thumbnailWidth": 368,
+      "thumbnailHeight": 156,
+      "href": "https://actu.fr/normandie/avranches_50025/avranches-experimente-la-teleconsultation-accompagnee-jusquau-31-aout_52905871.html",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 8 月 29 日"
+    },
+    {
+      "wpId": 742,
+      "slug": "sante-avranches-teste-la-consultation-a-distance",
+      "type": "media",
+      "date": "2022-08-08T00:58:00",
+      "title": {
+        "fr": "Santé. Avranches teste la consultation à distance. ",
+        "en": "Health. Avranches tests remote consultation. ",
+        "es": "Sanidad. Avranches prueba consulta a distancia. ",
+        "zh": "健康。阿夫朗什（Avranches）测试远程会诊。 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/logo-1.png",
+      "thumbnailWidth": 371,
+      "thumbnailHeight": 122,
+      "href": "https://www.lamanchelibre.fr/actualite-1009726-sante-avranches-teste-la-consultation-a-distance",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 8 月 8 日"
+    },
+    {
+      "wpId": 1077,
+      "slug": "lagardere-ne-meurt-jamais",
+      "type": "media",
+      "date": "2022-04-14T23:38:00",
+      "title": {
+        "fr": "Lagardère ne meurt jamais",
+        "en": "Lagardère never dies",
+        "es": "Lagardère nunca muere",
+        "zh": "拉加代尔永垂不朽"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/LOGO-ENTREPRENDRE-FR-1.png",
+      "thumbnailWidth": 375,
+      "thumbnailHeight": 90,
+      "href": "https://www.entreprendre.fr/lagardere-ne-meurt-jamais/",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 4 月 14 日"
+    },
+    {
+      "wpId": 1089,
+      "slug": "loxam-la-reussite-dune-saga-a-la-francaise",
+      "type": "media",
+      "date": "2022-04-03T23:45:00",
+      "title": {
+        "fr": "Loxam la réussite d’une saga à la française",
+        "en": "Loxam: a successful French saga",
+        "es": "Loxam: una exitosa saga francesa",
+        "zh": "洛赛姆：一个成功的法国传奇"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2021/04/Vector.png",
+      "thumbnailWidth": 374,
+      "thumbnailHeight": 51,
+      "href": "/wp-content/uploads/2025/03/Midi-olympique-AVRIL-2022.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2022 年 4 月 3 日"
+    },
+    {
+      "wpId": 826,
+      "slug": "les-decideurs-arnaud-molinie-et-doxamed-loxamed",
+      "type": "media",
+      "date": "2021-09-15T19:35:00",
+      "title": {
+        "fr": "Les décideurs. Arnaud Molinié et Doxamed (Loxamed)",
+        "en": "The decision-makers.Arnaud Molinié and Doxamed (Loxamed)",
+        "es": "Los responsables.Arnaud Molinié y Doxamed (Loxamed)",
+        "zh": "决策者Arnaud Molinié 和 Doxamed (Loxamed)"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_Le_Figaro.svg-1.png",
+      "thumbnailWidth": 410,
+      "thumbnailHeight": 55,
+      "href": "/wp-content/uploads/2025/02/Le-Figaro-15-sept-21-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 9 月 15 日"
+    },
+    {
+      "wpId": 843,
+      "slug": "disneyland-felicite-pour-sa-gestionde-la-crise-sanitaire",
+      "type": "media",
+      "date": "2021-08-25T19:45:00",
+      "title": {
+        "fr": "Disneyland félicité pour sa gestionde la crise sanitaire. ",
+        "en": "Disneyland praised for its handling of the health crisis. ",
+        "es": "Disneyland elogiada por su gestión de la crisis sanitaria. ",
+        "zh": "迪士尼乐园因其对健康危机的管理而备受赞誉。 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Le_Parisien_-_logo_2016-1.png",
+      "thumbnailWidth": 373,
+      "thumbnailHeight": 116,
+      "href": "/wp-content/uploads/2025/02/Le-Parisien-25-aout-21-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 8 月 25 日"
+    },
+    {
+      "wpId": 993,
+      "slug": "depistez-vous-avant-dentrer-en-piste",
+      "type": "media",
+      "date": "2021-07-06T22:02:00",
+      "title": {
+        "fr": "Dépistez-vous avant d’entrer en piste",
+        "en": "Get tested before you hit the track",
+        "es": "Hágase las pruebas antes de salir a la pista",
+        "zh": "上赛道前接受测试"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/ouestfrance-e1599137740364.png",
+      "thumbnailWidth": 800,
+      "thumbnailHeight": 200,
+      "href": "/wp-content/uploads/2025/02/Ouest-France-6-juillet-21.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 7 月 6 日"
+    },
+    {
+      "wpId": 955,
+      "slug": "a-roissy-un-test-pcr-juste-avant-le-decollage",
+      "type": "media",
+      "date": "2021-05-01T21:46:00",
+      "title": {
+        "fr": "À Roissy, un test PCR juste avant le décollage ",
+        "en": "At Roissy, a PCR test just before take-off ",
+        "es": "En Roissy, una prueba PCR justo antes del despegue ",
+        "zh": "在 Roissy，起飞前进行 PCR 测试 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/aux-lecteurs-du-jdd-dans-l-ouest-de-la-france.jpg",
+      "thumbnailWidth": 2000,
+      "thumbnailHeight": 1000,
+      "href": "/wp-content/uploads/2025/02/LeJDD-1er-mai-21.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 5 月 1 日"
+    },
+    {
+      "wpId": 948,
+      "slug": "arnaud-molinie-entrepreneur-ultra-mobile",
+      "type": "media",
+      "date": "2021-04-30T21:41:00",
+      "title": {
+        "fr": "Arnaud Molinié : entrepreneur ultra mobile ",
+        "en": "Arnaud Molinié: ultra-mobile entrepreneur ",
+        "es": "Arnaud Molinié: un empresario ultramóvil ",
+        "zh": "阿尔诺-莫利尼耶：超级移动企业家 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/LOGO-ENTREPRENDRE-FR-1.png",
+      "thumbnailWidth": 375,
+      "thumbnailHeight": 90,
+      "href": "/wp-content/uploads/2025/02/Capitello-Group-Entreprendre-avril-21-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 4 月 30 日"
+    },
+    {
+      "wpId": 829,
+      "slug": "doxamed-loxamed-arnaud-molinie-ou-le-gout-du-defi",
+      "type": "media",
+      "date": "2021-04-19T19:37:00",
+      "title": {
+        "fr": "Doxamed (Loxamed) : Arnaud Molinié ou le gôut du défi",
+        "en": "Doxamed (Loxamed):Arnaud Molinié or the taste for a challenge",
+        "es": "Doxamed (Loxamed):Arnaud Molinié o el gusto por el desafío",
+        "zh": "Doxamed (Loxamed)：阿尔诺-莫利尼耶或挑战的味道"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2021/04/Vector.png",
+      "thumbnailWidth": 374,
+      "thumbnailHeight": 51,
+      "href": "/wp-content/uploads/2025/02/Midi-Olympique-Magazine-19-avril-21-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 4 月 19 日"
+    },
+    {
+      "wpId": 833,
+      "slug": "doxamed-loxamed-la-securite-covid-du-tournoi-en-france",
+      "type": "media",
+      "date": "2021-02-15T19:39:00",
+      "title": {
+        "fr": "Doxamed (Loxamed), la sécurité Covid du Tournoi en France ! ",
+        "en": "Doxamed (Loxamed), the Covid safety solution for the Tournament in France! ",
+        "es": "Doxamed (Loxamed), ¡la seguridad de Covid para el Torneo de Francia! ",
+        "zh": "Doxamed (Loxamed)，法国 Covid 锦标赛安保！ "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2021/04/Vector.png",
+      "thumbnailWidth": 374,
+      "thumbnailHeight": 51,
+      "href": "/wp-content/uploads/2021/02/Midol.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 2 月 15 日"
+    },
+    {
+      "wpId": 989,
+      "slug": "loxamed-recycle-les-modules-de-chantier-en-unites-covid",
+      "type": "media",
+      "date": "2021-02-01T22:00:00",
+      "title": {
+        "fr": "Loxamed recycle les modules de chantier en unités Covid",
+        "en": "Loxamed recycles site modules into Covid units",
+        "es": "Loxamed recicla módulos de obra en unidades Covid",
+        "zh": "Loxamed 公司将工地模块回收利用到 Covid 设备中"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/journal-des-entreprises.gif",
+      "thumbnailWidth": 266,
+      "thumbnailHeight": 248,
+      "href": "/wp-content/uploads/2025/02/Le-Journal-des-entreprises-1-fevrier-21.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2021 年 2 月 1 日"
+    },
+    {
+      "wpId": 1024,
+      "slug": "tests-les-raisons-dun-retard-sans-fin",
+      "type": "media",
+      "date": "2020-07-19T22:09:00",
+      "title": {
+        "fr": "Tests : les raisons d’un retard sans fin",
+        "en": "Testing: the reasons for endless delays",
+        "es": "Pruebas: las razones de los interminables retrasos",
+        "zh": "测试：无休止拖延的原因"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_Journal_du_dimanche.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 667,
+      "href": "/wp-content/uploads/2025/02/LeJDD-19-juillet-2020.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 7 月 19 日"
+    },
+    {
+      "wpId": 1183,
+      "slug": "deconfinement-des-entreprises-innovent-pour-identifier-et-depister-les-malades",
+      "type": "media",
+      "date": "2020-05-13T15:38:00",
+      "title": {
+        "fr": "Déconfinement : des entreprises innovent pour identifier et dépister les malades",
+        "en": "Decontamination: companies innovate to identify and screen patients",
+        "es": "Descontaminación: las empresas innovan para identificar y examinar a los pacientes",
+        "zh": "净化：企业创新识别和筛查患者"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Europe1_FLAT.png",
+      "thumbnailWidth": 1000,
+      "thumbnailHeight": 368,
+      "href": "https://www.europe1.fr/emissions/la-france-bouge-avec-raphaelle-duchemin/deconfinement-des-entreprises-innovent-pour-identifier-et-depister-les-malades-3968177",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 5 月 13 日"
+    },
+    {
+      "wpId": 1207,
+      "slug": "la-sante-mobile-qui-vient-au-coeur-de-lentreprise-va-etre-cruciale-pour-reussir-le-deconfinement-arnaud-molinie",
+      "type": "media",
+      "date": "2020-05-04T16:10:00",
+      "title": {
+        "fr": "« La santé mobile qui vient au cœur de l’entreprise va être cruciale pour réussir le déconfinement » Arnaud Molinié",
+        "en": "\"Mobile health at the heart of the enterprise will be crucial to the success of deconfinement\" Arnaud Molinié",
+        "es": "\"La salud móvil en el corazón de la empresa será crucial para el éxito de la desconfinanciación\" Arnaud Molinié",
+        "zh": "\"企业核心的移动医疗将是去封闭化成功的关键 Arnaud Molinié"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/1997/12/logo-la-tribune-scaled.jpg",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 1158,
+      "href": "/wp-content/uploads/2025/03/La-Tribune-4-Mai-2020.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2020 年 5 月 4 日"
+    },
+    {
+      "wpId": 1100,
+      "slug": "groupe-renault-creates-renault-mai-for-new-mobility-solutions",
+      "type": "media",
+      "date": "2019-10-14T23:49:00",
+      "title": {
+        "fr": "Groupe Renault creates Renault MAI for new mobility solutions",
+        "en": "Groupe Renault creates Renault MAI for new mobility solutions",
+        "es": "Groupe Renault crea Renault MAI para nuevas soluciones de movilidad",
+        "zh": "雷诺集团创建雷诺 MAI，打造全新移动解决方案"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/The_Economic_Times_logo.png",
+      "thumbnailWidth": 640,
+      "thumbnailHeight": 320,
+      "href": "/wp-content/uploads/2025/03/The-Economic-India-Times-14-oct-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 10 月 14 日"
+    },
+    {
+      "wpId": 1092,
+      "slug": "mobilite-partagee-renault-passe-de-lexperimentation-a-lindustrialisation",
+      "type": "media",
+      "date": "2019-10-11T23:47:00",
+      "title": {
+        "fr": "Mobilité partagée : Renault passe de l’expérimentation à l’industrialisation",
+        "en": "Shared mobility: Renault moves from experimentation to industrialization",
+        "es": "Movilidad compartida: Renault pasa de la experimentación a la industrialización",
+        "zh": "共享交通：雷诺从实验走向产业化"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/autoactu.com_.png",
+      "thumbnailWidth": 1064,
+      "thumbnailHeight": 182,
+      "href": "/wp-content/uploads/2025/03/Autoactu-11-oct-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 10 月 11 日"
+    },
+    {
+      "wpId": 1121,
+      "slug": "renault-crea-m-a-i-per-accelerare-le-nuove-mobilita",
+      "type": "media",
+      "date": "2019-10-10T23:59:00",
+      "title": {
+        "fr": "Renault crea M.A.I. per accelerare le nuove mobilità",
+        "en": "Renault crea M.A.I. per accelerare le nuove mobilità",
+        "es": "Renault crea la M.A.I. para acelerar la nueva movilidad",
+        "zh": "雷诺打造 M.A.I.，加速新移动技术的发展"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Il_Sole_24_Ore.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 633,
+      "href": "/wp-content/uploads/2025/03/Ilsole24ore-10-oct-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 10 月 10 日"
+    },
+    {
+      "wpId": 1115,
+      "slug": "renault-agrupa-sus-servicios-de-movilidad-en-renault-mobility-as-a-industry",
+      "type": "media",
+      "date": "2019-10-09T23:58:00",
+      "title": {
+        "fr": "Renault agrupa sus servicios de movilidad en Renault Mobility as a Industry",
+        "en": "Renault agrupa sus servicios de movilidad en Renault Mobility as an Industry",
+        "es": "Renault agrupa sus servicios de movilidad en Renault Mobility as an Industry",
+        "zh": "雷诺将移动服务整合到雷诺移动产业中"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/El_Mundo_logo.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 384,
+      "href": "/wp-content/uploads/2025/03/El-Mundo-9-octobre-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 10 月 9 日"
+    },
+    {
+      "wpId": 1104,
+      "slug": "renault-cree-une-filiale-dediee-aux-nouvelles-formes-de-mobilites",
+      "type": "media",
+      "date": "2019-10-09T23:55:00",
+      "title": {
+        "fr": "Renault crée une filiale dédiée aux nouvelles formes de mobilités",
+        "en": "Renault creates a subsidiary dedicated to new forms of mobility",
+        "es": "Renault crea una filial dedicada a las nuevas formas de movilidad",
+        "zh": "雷诺成立子公司，致力于开发新的交通形式"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/LUsine_nouvelle_Logo.png",
+      "thumbnailWidth": 530,
+      "thumbnailHeight": 56,
+      "href": "/wp-content/uploads/2025/03/Lusine-nouvelle-9-oct-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 10 月 9 日"
+    },
+    {
+      "wpId": 1096,
+      "slug": "renault-cree-une-filiale-dactivite-dediee-aux-nouvelles-mobilites",
+      "type": "media",
+      "date": "2019-10-09T23:49:00",
+      "title": {
+        "fr": "Renault crée une filiale d’activité dédiée aux nouvelles mobilités",
+        "en": "Renault creates a subsidiary dedicated to new forms of mobility",
+        "es": "Renault crea una filial dedicada a las nuevas formas de movilidad",
+        "zh": "雷诺成立子公司，致力于开发新的交通形式"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Capital_depuis_2015.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 848,
+      "href": "/wp-content/uploads/2025/03/Capital-9-oct-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 10 月 9 日"
+    },
+    {
+      "wpId": 951,
+      "slug": "arnaud-molinie-la-mobilite-sera-au-coeur-de-toute-leconomie",
+      "type": "media",
+      "date": "2019-06-26T21:42:00",
+      "title": {
+        "fr": "Arnaud Molinié : « La mobilité sera au cœur de toute l’économie »  ",
+        "en": "Arnaud Molinié: \"Mobility will be at the heart of the entire economy\".  ",
+        "es": "Arnaud Molinié: \"La movilidad estará en el centro de toda la economía\".  ",
+        "zh": "Arnaud Molinié：\"移动性将成为整个经济的核心\"。  "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/logo-officel-WE-DEMAIN-HD-1.png",
+      "thumbnailWidth": 416,
+      "thumbnailHeight": 100,
+      "href": "/wp-content/uploads/2025/02/Capitello-Move-We-Demain-2019-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 6 月 26 日"
+    },
+    {
+      "wpId": 1112,
+      "slug": "sncf-sallie-a-renault-pour-lancer-un-nouveau-service-de-chauffeurs",
+      "type": "media",
+      "date": "2019-05-16T23:57:00",
+      "title": {
+        "fr": "SNCF s’allie à Renault pour lancer un nouveau service de chauffeurs",
+        "en": "SNCF teams up with Renault to launch new chauffeur service",
+        "es": "La SNCF se asocia con Renault para lanzar un nuevo servicio de chóferes",
+        "zh": "法国国家铁路公司与雷诺合作推出新的司机服务"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2019/05/Capture-decran-2025-03-04-a-10.38.12.png",
+      "thumbnailWidth": 330,
+      "thumbnailHeight": 324,
+      "href": "/wp-content/uploads/2025/03/BFM-TV-16-mai-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 5 月 16 日"
+    },
+    {
+      "wpId": 1108,
+      "slug": "inauguration-du-paris-saclay-autonomous-lab",
+      "type": "media",
+      "date": "2019-05-03T23:56:00",
+      "title": {
+        "fr": "Inauguration du Paris-Saclay Autonomous Lab",
+        "en": "Inauguration of the Paris-Saclay Autonomous Lab",
+        "es": "Inauguración del Laboratorio Autónomo de París-Saclay",
+        "zh": "巴黎-萨克雷自主实验室落成典礼"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Vedecom.png",
+      "thumbnailWidth": 250,
+      "thumbnailHeight": 140,
+      "href": "/wp-content/uploads/2025/03/Vedecom-mai-2019.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2019 年 5 月 3 日"
+    },
+    {
+      "wpId": 1558,
+      "slug": "nomination-darnaud-molinie-chez-renault",
+      "type": "media",
+      "date": "2019-01-01T11:10:00",
+      "title": {
+        "fr": "Nomination d’Arnaud Molinié chez Renault",
+        "en": "Arnaud Molinié Appointed at Renault",
+        "es": "Nombramiento de Arnaud Molinié en Renault",
+        "zh": "阿诺·莫利尼埃获任雷诺公司新职"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Logo_Le_Figaro.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 400,
+      "href": "/wp-content/uploads/2026/06/Le-Figaro-Janv-2019.pdf",
+      "showInFooter": false
+    },
+    {
+      "wpId": 1190,
+      "slug": "nomination-arnaud-molinie",
+      "type": "media",
+      "date": "2018-04-16T16:07:00",
+      "title": {
+        "fr": "Nomination : Arnaud Molinié",
+        "en": "Appointment: Arnaud Molinié",
+        "es": "Nombramiento: Arnaud Molinié",
+        "zh": "任命：阿尔诺-莫利尼耶"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Logo_Le_Figaro.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 400,
+      "href": "/wp-content/uploads/2025/03/Figaro-16-avril-18.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2018 年 4 月 16 日"
+    },
+    {
+      "wpId": 1203,
+      "slug": "arnaud-molinie-devient-directeur-de-la-communication-et-de-la-marque-de-deloitte-france-et-afrique-francophone",
+      "type": "media",
+      "date": "2017-06-07T16:09:00",
+      "title": {
+        "fr": "Arnaud Molinié devient directeur de la Communication et de la Marque de Deloitte France et Afrique francophone",
+        "en": "Arnaud Molinié appointed Communications and Brand Director for Deloitte France and French-speaking Africa",
+        "es": "Arnaud Molinié nombrado Director de Comunicación y Marca de Deloitte Francia y África francófona",
+        "zh": "Arnaud Molinié 被任命为德勤法国和非洲法语区传播与品牌总监"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/media-leader.png",
+      "thumbnailWidth": 434,
+      "thumbnailHeight": 98,
+      "href": "/wp-content/uploads/2025/03/media-leader-7-juin-17.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2017 年 6 月 7 日"
+    },
+    {
+      "wpId": 986,
+      "slug": "nomination-deloitte",
+      "type": "media",
+      "date": "2014-06-26T21:59:00",
+      "title": {
+        "fr": "Nomination Deloitte ",
+        "en": "Appointment Deloitte ",
+        "es": "Nombramiento Deloitte ",
+        "zh": "任命德勤 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_Le_Figaro.svg-1.png",
+      "thumbnailWidth": 410,
+      "thumbnailHeight": 55,
+      "href": "/wp-content/uploads/2025/02/capigroup-Figaro-2014.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2014 年 6 月 26 日"
+    },
+    {
+      "wpId": 1440,
+      "slug": "emma-peut-etre-8",
+      "type": "media",
+      "date": "2013-03-21T15:12:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/09/Paris_Match_1981_logo.svg_.png",
+      "thumbnailWidth": 426,
+      "thumbnailHeight": 256,
+      "href": "/wp-content/uploads/2025/09/21-mars-2013-Paris-Match.png",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 3 月 21 日"
+    },
+    {
+      "wpId": 1210,
+      "slug": "emma-peut-etre",
+      "type": "media",
+      "date": "2013-03-12T16:11:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Le_Nouvel_Obs_logo.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 486,
+      "href": "/wp-content/uploads/2025/03/Nouvel-Obs-2013.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 3 月 12 日"
+    },
+    {
+      "wpId": 1195,
+      "slug": "parution-emma-peut-etre",
+      "type": "media",
+      "date": "2013-03-12T16:08:00",
+      "title": {
+        "fr": "Parution « Emma peut-être »",
+        "en": "Emma peut-être\" publication",
+        "es": "Publicación \"Emma peut-être",
+        "zh": "Emma peut-être》出版物"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/Liberation.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 1059,
+      "href": "/wp-content/uploads/2025/03/Liberation-2013.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 3 月 12 日"
+    },
+    {
+      "wpId": 1436,
+      "slug": "emma-peut-etre-7",
+      "type": "media",
+      "date": "2013-02-08T15:10:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/09/ELLE_Magazine_Logo.svg_.png",
+      "thumbnailWidth": 1598,
+      "thumbnailHeight": 654,
+      "href": "/wp-content/uploads/2025/09/ELLE-8-fev-2013.png",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 2 月 8 日"
+    },
+    {
+      "wpId": 1444,
+      "slug": "emma-peut-etre-9",
+      "type": "media",
+      "date": "2013-02-01T15:13:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/09/Madame_Figaro_logo.svg_-scaled.png",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 660,
+      "href": "/wp-content/uploads/2025/09/Fevrier-2013-Madame-Figaro.png",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 2 月 1 日"
+    },
+    {
+      "wpId": 1411,
+      "slug": "emma-peut-etre-2",
+      "type": "media",
+      "date": "2013-01-26T01:25:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/09/LogoParisDerniere.jpg",
+      "thumbnailWidth": 382,
+      "thumbnailHeight": 215,
+      "href": "/wp-content/uploads/2025/09/Paris-derniere-26-janvier-2013-1.mp4",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 1 月 26 日"
+    },
+    {
+      "wpId": 1424,
+      "slug": "emma-peut-etre-4",
+      "type": "media",
+      "date": "2013-01-24T15:05:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/09/Logo_direct_matin.png",
+      "thumbnailWidth": 955,
+      "thumbnailHeight": 244,
+      "href": "/wp-content/uploads/2025/09/24-janv-2013-Direct-Matin.png",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 1 月 24 日"
+    },
+    {
+      "wpId": 1428,
+      "slug": "emma-peut-etre-5",
+      "type": "media",
+      "date": "2013-01-11T15:07:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/09/Logo_LHumanite_Red.svg_-scaled.png",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 396,
+      "href": "/wp-content/uploads/2025/09/LHumanite-11-13-janv-2013.png",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 1 月 11 日"
+    },
+    {
+      "wpId": 1416,
+      "slug": "emma-peut-etre-3",
+      "type": "media",
+      "date": "2013-01-03T14:58:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2013/01/le-pays-malouin_w1024-2.png",
+      "thumbnailWidth": 533,
+      "thumbnailHeight": 330,
+      "href": "/wp-content/uploads/2025/09/3-janvier-2013-Le-Pays-Malouin.png",
+      "showInFooter": false,
+      "zhDateLabel": "2013 年 1 月 3 日"
+    },
+    {
+      "wpId": 1432,
+      "slug": "emma-peut-etre-6",
+      "type": "media",
+      "date": "2012-12-27T15:08:00",
+      "title": {
+        "fr": "« Emma peut-être »",
+        "en": "\"Emma maybe\"",
+        "es": "\"Emma quizás",
+        "zh": "\"也许艾玛"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/09/VSD_French_magazine_Logo.png",
+      "thumbnailWidth": 300,
+      "thumbnailHeight": 174,
+      "href": "/wp-content/uploads/2025/09/27-dec-2012-VSD.png",
+      "showInFooter": false,
+      "zhDateLabel": "2012 年 12 月 27 日"
+    },
+    {
+      "wpId": 836,
+      "slug": "le-buzz-arnaud-molinie",
+      "type": "media",
+      "date": "2011-02-05T19:39:00",
+      "title": {
+        "fr": "Le Buzz : Arnaud Molinié ",
+        "en": "The Buzz: Arnaud Molinié ",
+        "es": "El rumor: Arnaud Molinié ",
+        "zh": "热议：阿尔诺-莫利尼耶 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/02/Le_Figaro_TV_IDF_2023-1.png",
+      "thumbnailWidth": 400,
+      "thumbnailHeight": 88,
+      "href": "https://video.lefigaro.fr/figaro/video/le-buzz-arnaud-molinie/778697221001",
+      "showInFooter": false,
+      "zhDateLabel": "2011 年 2 月 5 日"
+    },
+    {
+      "wpId": 1448,
+      "slug": "quas-tu-fait-de-cet-amour",
+      "type": "media",
+      "date": "2010-11-16T15:15:00",
+      "title": {
+        "fr": "« Qu’as-tu fait de cet amour ? »",
+        "en": "\"What have you done with this love?\"",
+        "es": "\"¿Qué has hecho con este amor?\"",
+        "zh": "\"你对这份爱做了什么？\""
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": true,
+      "thumbnail": "/wp-content/uploads/2025/09/Terrafemina_Logo_2022.png",
+      "thumbnailWidth": 1200,
+      "thumbnailHeight": 400,
+      "href": "https://www.youtube.com/watch?v=3xawC4H2GxQ",
+      "showInFooter": false,
+      "zhDateLabel": "2010 年 11 月 16 日"
+    },
+    {
+      "wpId": 1451,
+      "slug": "quas-tu-fait-de-cet-amour-2",
+      "type": "media",
+      "date": "2010-02-02T15:16:00",
+      "title": {
+        "fr": "« Qu’as-tu fait de cet amour ? »",
+        "en": "\"What have you done with this love?\"",
+        "es": "\"¿Qué has hecho con este amor?\"",
+        "zh": "\"你对这份爱做了什么？\""
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/09/Corse-Matin_logo.svg_-scaled.png",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 512,
+      "href": "/wp-content/uploads/2025/09/Corse-Matin-2-fev-2010.png",
+      "showInFooter": false,
+      "zhDateLabel": "2010 年 2 月 2 日"
+    },
+    {
+      "wpId": 966,
+      "slug": "lagardere-veut-doper-le-paf",
+      "type": "media",
+      "date": "2009-11-08T21:51:00",
+      "title": {
+        "fr": "Lagardère veut doper le PAF ",
+        "en": "Lagardère wants to boost French TV ",
+        "es": "Lagardère quiere impulsar la televisión francesa ",
+        "zh": "拉加代尔希望推动法国电视业发展 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2009/11/4673027-concentration-des-medias-bernard-arnau-1200x630-4.webp",
+      "thumbnailWidth": 1200,
+      "thumbnailHeight": 630,
+      "href": "/wp-content/uploads/2025/02/Capitello-Group-TV-Magazine-8-nov-2009.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2009 年 11 月 8 日"
+    },
+    {
+      "wpId": 982,
+      "slug": "culture-match-radio",
+      "type": "media",
+      "date": "2009-09-26T21:58:00",
+      "title": {
+        "fr": "Culture Match Radio ",
+        "en": "Culture Match Radio ",
+        "es": "Culture Match Radio ",
+        "zh": "文化配对广播 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Paris_Match_1981_logo.svg_.png",
+      "thumbnailWidth": 1200,
+      "thumbnailHeight": 722,
+      "href": "/wp-content/uploads/2025/02/Capitello-Group-Paris-Match-24-sept-2009.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2009 年 9 月 26 日"
+    },
+    {
+      "wpId": 1456,
+      "slug": "arnaud-molinie-lagardere-boy-il-entre-dans-la-cour-des-grands",
+      "type": "media",
+      "date": "2007-10-08T22:17:00",
+      "title": {
+        "fr": "Arnaud Molinié : « Lagardère boy », il entre dans la cour des grands",
+        "en": "Arnaud Molinié: \"Lagardère boy,\" he joins the big leagues",
+        "es": "Arnaud Molinié: «Lagardère boy», entra en la liga de los grandes",
+        "zh": "阿诺·莫利尼埃：\"拉加代尔男孩\"，他跻身顶级行列"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Les_echos_logo.svg-1.png",
+      "thumbnailWidth": 359,
+      "thumbnailHeight": 84,
+      "href": "https://www.lesechos.fr/2007/10/arnaud-molinie-1076217",
+      "showInFooter": false
+    },
+    {
+      "wpId": 975,
+      "slug": "un-lagardere-boy-nouvelle-generation",
+      "type": "media",
+      "date": "2007-02-26T21:56:00",
+      "title": {
+        "fr": "Un Lagardère boy nouvelle génération ",
+        "en": "A new-generation Lagardère boy ",
+        "es": "Una nueva generación Lagardère ",
+        "zh": "新一代拉加代尔男孩 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_Challenges.png",
+      "thumbnailWidth": 1000,
+      "thumbnailHeight": 253,
+      "href": "/wp-content/uploads/2025/02/capigroup-Challenges-2007.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2007 年 2 月 26 日"
+    },
+    {
+      "wpId": 945,
+      "slug": "les-trentenaires-generation-et-moi-et-moi",
+      "type": "media",
+      "date": "2005-10-29T21:40:00",
+      "title": {
+        "fr": "Les trentenaires : génération et moi, et moi ! ",
+        "en": "Thirtysomethings: generation and me, and me! ",
+        "es": "Treintañeros: generación y yo, ¡y yo! ",
+        "zh": "三十多岁：一代人，我，还有我！ "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2005/10/Le_Figaro_Magazine_2014_logo.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 1002,
+      "href": "/wp-content/uploads/2025/02/Capitello-Group-Figaro-Magazine-29-oct-2005.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2005 年 10 月 29 日"
+    },
+    {
+      "wpId": 962,
+      "slug": "jo-paris-2012-un-challenge-olympique-pour-les-entreprises",
+      "type": "media",
+      "date": "2004-10-01T21:49:00",
+      "title": {
+        "fr": "JO Paris 2012 : un challenge olympique pour les entreprises ",
+        "en": "Paris 2012 Olympic Games: an Olympic challenge for companies ",
+        "es": "Juegos Olímpicos de París 2012: un reto olímpico para las empresas ",
+        "zh": "2012 年巴黎奥运会：企业面临的奥运挑战 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/1631305867687.png",
+      "thumbnailWidth": 200,
+      "thumbnailHeight": 200,
+      "href": "/wp-content/uploads/2025/02/capigroup-Levenementiel-oct-2004.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2004 年 10 月 1 日"
+    },
+    {
+      "wpId": 979,
+      "slug": "nomination-arnaud-molinie-directeur-delegue-de-lagardere",
+      "type": "media",
+      "date": "2003-10-03T21:57:00",
+      "title": {
+        "fr": "Nomination : Arnaud Molinié directeur délégué de Lagardère ",
+        "en": "Appointment: Arnaud Molinié CEO of Lagardère ",
+        "es": "Nombramiento: Arnaud Molinié Director General de Lagardère ",
+        "zh": "任命：Arnaud Molinié 为拉加代尔首席执行官 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_Le_Figaro.svg-1.png",
+      "thumbnailWidth": 410,
+      "thumbnailHeight": 55,
+      "href": "/wp-content/uploads/2025/02/capigroup-Figaro-3-oct-2003.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2003 年 10 月 3 日"
+    },
+    {
+      "wpId": 1199,
+      "slug": "5e-edition-des-voix-du-telethon",
+      "type": "media",
+      "date": "2002-10-23T16:09:00",
+      "title": {
+        "fr": "5e édition des Voix du Téléthon",
+        "en": "5th edition of Les Voix du Téléthon",
+        "es": "5ª edición de Les Voix du Téléthon",
+        "zh": "第 5 届 \"电视之声 \"活动"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/03/correspondance-de-la-presse.png",
+      "thumbnailWidth": 916,
+      "thumbnailHeight": 476,
+      "href": "/wp-content/uploads/2025/03/Correspondance-de-la-Presse-23-oct-2002.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2002 年 10 月 23 日"
+    },
+    {
+      "wpId": 839,
+      "slug": "bilan-du-15e-telethon-resultats-en-hausse",
+      "type": "media",
+      "date": "2002-05-03T19:41:00",
+      "title": {
+        "fr": "Bilan du 15e Téléthon : Résultats en hausse ",
+        "en": "15th Telethon: Results on the rise ",
+        "es": "15º Telemaratón: resultados al alza ",
+        "zh": "第 15 届电视电话会议：成果不断增加 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/logo-rouergat-1.png",
+      "thumbnailWidth": 402,
+      "thumbnailHeight": 85,
+      "href": "/wp-content/uploads/2025/02/Le-rouergat-3-mai-2002-1.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2002 年 5 月 3 日"
+    },
+    {
+      "wpId": 1012,
+      "slug": "telethon-lafm-remercie",
+      "type": "media",
+      "date": "2002-04-25T22:05:00",
+      "title": {
+        "fr": "Téléthon : l’AFM remercie",
+        "en": "Telethon: AFM thanks",
+        "es": "Telemaratón: agradecimiento de la AFM",
+        "zh": "电话募捐：感谢 AFM"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Logo_La_Depeche.svg_.png",
+      "thumbnailWidth": 2880,
+      "thumbnailHeight": 879,
+      "href": "/wp-content/uploads/2025/02/capigroup-La-Depeche-du-midi-25avril-2002.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2002 年 4 月 25 日"
+    },
+    {
+      "wpId": 1020,
+      "slug": "lionel-jospin-au-milia",
+      "type": "media",
+      "date": "2001-02-13T22:09:00",
+      "title": {
+        "fr": "Lionel Jospin au Milia",
+        "en": "Lionel Jospin at Milia",
+        "es": "Lionel Jospin en el Milia",
+        "zh": "莱昂内尔-若斯潘在米利亚"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/nice-matin.png",
+      "thumbnailWidth": 844,
+      "thumbnailHeight": 284,
+      "href": "/wp-content/uploads/2025/02/capigroup-Nice-Matin-13-feevrier-2001.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2001 年 2 月 13 日"
+    },
+    {
+      "wpId": 971,
+      "slug": "telethon-merci-et-continuez",
+      "type": "media",
+      "date": "2000-02-10T21:54:00",
+      "title": {
+        "fr": "Téléthon : merci et continuez ! ",
+        "en": "Telethon: thank you and keep it up! ",
+        "es": "Teletón: ¡gracias y seguid así! ",
+        "zh": "Telethon：谢谢你，继续努力！ "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/2025/02/Midi-Libre.jpg",
+      "thumbnailWidth": 2268,
+      "thumbnailHeight": 850,
+      "href": "/wp-content/uploads/2025/02/capigroup-Midi-Libre-fev-2000.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "2000 年 2 月 10 日"
+    },
+    {
+      "wpId": 1016,
+      "slug": "trois-questions-a-arnaud-molinie",
+      "type": "media",
+      "date": "1998-12-04T22:07:00",
+      "title": {
+        "fr": "Trois questions à Arnaud Molinié",
+        "en": "Three questions for Arnaud Molinié",
+        "es": "Tres preguntas para Arnaud Molinié",
+        "zh": "向阿尔诺-莫利尼耶提出的三个问题"
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/1998/12/capital-sante-1.png",
+      "thumbnailWidth": 2767,
+      "thumbnailHeight": 980,
+      "href": "/wp-content/uploads/2025/02/Capitello-Group-Capital-Sante-1998.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "1998 年 12 月 4 日"
+    },
+    {
+      "wpId": 959,
+      "slug": "le-telethon-exception-heureuse-dans-le-paysage-de-la-recherche",
+      "type": "media",
+      "date": "1997-12-01T21:48:00",
+      "title": {
+        "fr": "Le Téléthon, exception heureuse dans le paysage de la recherche ",
+        "en": "The Telethon, a happy exception in the research landscape ",
+        "es": "El Teletón, una excepción bienvenida en el panorama de la investigación ",
+        "zh": "Telethon 是研究领域中一个值得欢迎的例外 "
+      },
+      "summary": {},
+      "tags": [],
+      "isVideo": false,
+      "thumbnail": "/wp-content/uploads/1997/12/logo-la-tribune-scaled.jpg",
+      "thumbnailWidth": 2560,
+      "thumbnailHeight": 1158,
+      "href": "/wp-content/uploads/2025/02/CapiGroup-La-Tribune-1er-dec-97.pdf",
+      "showInFooter": false,
+      "zhDateLabel": "1997 年 12 月 1 日"
+    }
+  ]
+}

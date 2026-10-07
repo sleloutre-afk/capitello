@@ -1,0 +1,2 @@
+/* Origine : <style id="wp-img-auto-sizes-contain-inline-css"> (en ligne) */
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}

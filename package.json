@@ -1,0 +1,42 @@
+{
+  "name": "capitello-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "payload generate:importmap",
+    "dev": "next dev -p 3084",
+    "prebuild": "payload generate:importmap",
+    "build": "next build",
+    "start": "next start -p ${PORT:-3084}",
+    "payload": "payload",
+    "generate:types": "payload generate:types",
+    "seed": "node --env-file-if-exists=.env node_modules/.bin/tsx scripts/seed.ts",
+    "import-library": "node --env-file-if-exists=.env node_modules/.bin/tsx scripts/import-library.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "@payloadcms/db-postgres": "^3.88.0",
+    "@payloadcms/db-sqlite": "^3.88.0",
+    "@payloadcms/next": "^3.88.0",
+    "@payloadcms/richtext-lexical": "^3.88.0",
+    "@payloadcms/storage-s3": "^3.88.0",
+    "graphql": "^16.14.2",
+    "next": "15.3.9",
+    "payload": "^3.88.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sharp": "^0.35.4",
+    "swiper": "8.4.5",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cheerio": "^1.0.0",
+    "playwright": "^1.50.0",
+    "tsx": "^4.22.4",
+    "typescript": "^5"
+  }
+}

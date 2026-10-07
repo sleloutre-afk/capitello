@@ -1,0 +1,236 @@
+/* Origine : /wp-content/plugins/dans-les-medias-widget/assets/style.css */
+p, h2 {
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+}
+
+.medias-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* ✅ Always two columns */
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.media-item {
+    filter: grayscale(100%);
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.media-item:hover {
+    transform: translateY(-5px);
+    filter: grayscale(0%);
+}
+
+.media-thumbnail {
+    box-shadow: 1px 1px 24px 0px rgba(0, 0, 0, 0.11);
+    position: relative;
+    max-width: 533px;
+    height: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.media-thumbnail img {
+    width: auto;
+    height: auto;
+    display: block;
+    border-radius: 0;
+
+}
+
+.media-tags {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    display: flex;
+    gap: 15px;
+}
+
+.tag {
+    width: fit-content;
+    background: #FFF;
+    border-radius: 50px;
+    border: #000 solid 1px;
+    padding: 15px 30px;
+    color: #000;
+    font-family: "Funnel Display";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+}
+
+
+.media-meta {
+    padding: 15px 0 15px 0;
+}
+
+.media-date {
+    color: #000;
+    font-family: "Funnel Display";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 213.333% */
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+}
+
+.media-title {
+    color: #000;
+    font-family: "Funnel Display";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 32px;
+    margin-top: 10px;
+}
+
+/* .media-title:hover {
+    text-decoration: underline;
+} */
+
+.media-content {
+    color: #000;
+    font-family: "Host Grotesk";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.media-file-button {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #000;
+    font-family: "Funnel Display";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.media-file-button:hover {
+    text-decoration: underline;
+}
+
+.medias-filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+.medias-filter-form {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.medias-search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    color: #000;
+    font-family: "Funnel Display";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    width: 300px;
+}
+
+.medias-search input {
+    border: none;
+    outline: none;
+    width: 100%;
+    color: #9A9999;
+    font-family: "Funnel Display";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    background: transparent;
+}
+
+.medias-search button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.medias-year {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.medias-year select {
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #000;
+    width: 225px;
+    font-family: "Funnel Display";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-bottom: 2px solid #000;
+    padding: 5px;
+}
+
+.medias-year option {
+    font-family: "Funnel Display" !important; 
+}
+
+.media-result-count {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .medias-container {
+        grid-template-columns: repeat(1, 1fr);
+        /* ✅ One column on smaller screens */
+    }
+    .medias-filter-form {
+        flex-direction: column;
+    }
+    .medias-thumbnail img {
+        object-fit: cover;
+    }
+    .media-date {
+        font-size: 12px;
+    }
+    .media-title {
+        font-size: 22px;
+    }
+    .media-content {
+        font-size: 15px;
+    }
+    .media-file-button {
+        font-size: 16px;
+    }
+}
