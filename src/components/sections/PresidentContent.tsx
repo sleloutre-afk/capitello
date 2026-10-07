@@ -1,4 +1,5 @@
 import type { SectionProps } from '@/i18n'
+import { LinkedinFeed } from '@/components/LinkedinFeed'
 
 export function PresidentContent({ t }: SectionProps) {
   return (
@@ -468,7 +469,7 @@ export function PresidentContent({ t }: SectionProps) {
         <div className="elementor-element elementor-element-49d50d1 e-con-full e-flex e-con e-child">
           <div className="elementor-element elementor-element-b6afea8 elementor-widget elementor-widget-html">
             <div className="elementor-widget-container">
-              <iframe src="https://4f0d8e8c0b20484da66753b1b5f6d027.elf.site" frameBorder="0" scrolling="no" className="iframe-linkedin"></iframe>
+              <LinkedinFeed />
             </div>
           </div>
         </div>
