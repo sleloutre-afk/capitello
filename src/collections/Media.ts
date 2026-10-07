@@ -19,8 +19,17 @@ export const Media: CollectionConfig = {
       "Images, PDF, vidéos et sons utilisés par les publications. Un fichier y est ajouté automatiquement quand vous l'envoyez depuis une publication.",
   },
   access: {
+    // Un fichier se lit par son adresse (/api/media/file/<nom>) ou sa fiche
+    // par son identifiant — nécessaire au site public. En revanche, lister
+    // toute la bibliothèque par l'API reste réservé aux comptes du BO.
+    // `routeParams.filename` : le stockage S3 de Payload refait, pour servir
+    // un fichier, une recherche par nom soumise à ce contrôle d'accès.
     read: ({ req, id, isReadingStaticFile }) =>
-      req.payloadAPI === 'local' || Boolean(isReadingStaticFile) || Boolean(id) || Boolean(req.user),
+      req.payloadAPI === 'local' ||
+      Boolean(isReadingStaticFile) ||
+      typeof req.routeParams?.filename === 'string' ||
+      Boolean(id) ||
+      Boolean(req.user),
     create: ({ req }) => Boolean(req.user),
     update: ({ req }) => Boolean(req.user),
     delete: ({ req }) => Boolean(req.user),
