@@ -1,7 +1,6 @@
 import type { CollectionConfig } from 'payload'
 import {
   dateField,
-  fileField,
   isURL,
   legacyFields,
   publicationAccess,
@@ -37,10 +36,14 @@ export const News: CollectionConfig = {
         description: 'Affiche l’étiquette « Vidéo » et le bouton « Voir la vidéo » au lieu de « En savoir plus ».',
       },
     },
-    fileField(
-      'Fichier à ouvrir (PDF, vidéo, image…)',
-      'Fichier ouvert par le bouton de la publication. Prioritaire sur le lien externe. Poids maximum : 200 Mo.',
-    ),
+    {
+      name: 'file',
+      type: 'upload',
+      relationTo: 'media',
+      label: 'Fichier à ouvrir (PDF, vidéo, image…)',
+      // Description avec lien vers le mode d'emploi de compression des vidéos.
+      admin: { components: { Description: '/src/components/admin/VideoFileHelp#VideoFileHelp' } },
+    },
     {
       name: 'externalUrl',
       type: 'text',
