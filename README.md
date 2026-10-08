@@ -115,7 +115,9 @@ clever env               # variables d'environnement (voir .env.example)
   `scripts/seed.ts` puis `scripts/import-library.ts` (variables de production, dossier
   `import-files`). Ces scripts sont idempotents.
 - **Adresses** : l'adresse officielle est celle de `NEXT_PUBLIC_SITE_URL` (`https://capitello.fr`).
-  `www.capitello.fr` y est redirigé. Sous toute autre adresse — l'adresse technique
+  `www.capitello.fr` et les domaines secondaires du groupe (capitello.com, .net, .info,
+  capitellogroup.com, .fr, .net — à déclarer sur l'application avec `clever domain add`) y
+  sont redirigés. Sous toute autre adresse — l'adresse technique
   `*.cleverapps.io` — le site reste consultable mais interdit son indexation (`robots.txt` et
   en-tête `X-Robots-Tag`), ce qui en fait une préproduction permanente.
 - **DNS** (chez Nameshield) : 9 enregistrements A vers les adresses de Clever Cloud pour

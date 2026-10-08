@@ -28,6 +28,17 @@ async function checkBoGate(request: NextRequest): Promise<Response | null> {
 const CANONICAL = new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3084')
 
 /**
+ * Vrai pour un nom de domaine secondaire à rediriger vers l'adresse
+ * officielle. Ne sont pas redirigés : l'adresse officielle elle-même,
+ * l'adresse technique *.cleverapps.io (préproduction) et, tant que le site
+ * n'a pas de domaine officiel (développement local), aucune adresse.
+ */
+function isAliasHost(host: string | null): boolean {
+  if (!host || CANONICAL.hostname === 'localhost') return false
+  return host !== CANONICAL.host && !host.endsWith('.cleverapps.io')
+}
+
+/**
  * Toute autre adresse servant le site (l'adresse technique *.cleverapps.io
  * de Clever Cloud, par exemple) ne doit pas être indexée : elle ferait
  * doublon avec le site officiel dans les moteurs de recherche.
@@ -95,9 +106,10 @@ async function checkPasswordStrength(request: NextRequest): Promise<Response | n
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl
 
-  // www.capitello.fr → capitello.fr, comme sur le site d'origine : une seule
-  // adresse officielle par page.
-  if (request.headers.get('host') === `www.${CANONICAL.host}`) {
+  // Une seule adresse officielle par page : www.capitello.fr et les autres
+  // noms de domaine du groupe (capitello.com, capitellogroup.fr…, déclarés
+  // sur l'application Clever Cloud) sont redirigés vers elle, chemin conservé.
+  if (isAliasHost(request.headers.get('host'))) {
     return NextResponse.redirect(new URL(pathname + request.nextUrl.search, CANONICAL.origin), 301)
   }
 
