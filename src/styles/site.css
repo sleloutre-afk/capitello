@@ -112,3 +112,15 @@
     line-height: 26px;
   }
 }
+
+/*
+ * « Dans les médias » : la vignette est une carte de 330 px de haut prévue
+ * pour des logos larges. Les styles d'origine ne bornent pas la hauteur de
+ * l'image : une photo ou un logo trop haut débordait de la carte et
+ * recouvrait la date. L'image tient désormais entièrement dans la carte.
+ */
+.media-thumbnail img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
