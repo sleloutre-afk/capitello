@@ -1,3 +1,4 @@
+import os from 'os'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { buildConfig } from 'payload'
@@ -17,6 +18,9 @@ import { resendEmailAdapter } from './lib/payloadEmailAdapter'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
+
+/** Taille maximale d'un fichier envoyé depuis le BO. */
+const MAX_UPLOAD_BYTES = 200 * 1024 * 1024
 
 const databaseURI = process.env.DATABASE_URI || ''
 // Production : Postgres. Local : SQLite (fichier hors du disque externe,
@@ -83,6 +87,15 @@ export default buildConfig({
   // Ordre = ordre des entrées dans la nav latérale.
   collections: [Communiques, News, Tags, Media, Users],
   editor: lexicalEditor(),
+  // Envoi de fichiers depuis le BO : jusqu'à 200 Mo (vidéos des passages
+  // médias), au lieu des 20 Mo par défaut de Payload. Les fichiers passent
+  // par un dossier temporaire plutôt que par la mémoire du serveur.
+  upload: {
+    limits: { fileSize: MAX_UPLOAD_BYTES },
+    requestSizeLimit: MAX_UPLOAD_BYTES + 5 * 1024 * 1024,
+    useTempFiles: true,
+    tempFileDir: path.join(os.tmpdir(), 'capitello-uploads'),
+  },
   // E-mails du BO (invitation, mot de passe oublié) envoyés via Resend.
   email: resendEmailAdapter,
   secret: process.env.PAYLOAD_SECRET || '',

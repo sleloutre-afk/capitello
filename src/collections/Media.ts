@@ -16,7 +16,7 @@ export const Media: CollectionConfig = {
     group: 'Fichiers',
     defaultColumns: ['filename', 'mimeType', 'filesize', 'createdAt'],
     description:
-      "Images, PDF, vidéos et sons utilisés par les publications. Un fichier y est ajouté automatiquement quand vous l'envoyez depuis une publication.",
+      "Images, PDF, vidéos et sons utilisés par les publications. Un fichier y est ajouté automatiquement quand vous l'envoyez depuis une publication. Taille maximale : 200 Mo par fichier.",
   },
   access: {
     // Un fichier se lit par son adresse (/api/media/file/<nom>) ou sa fiche

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { getDictionary } from '@/i18n'
 import { UI } from '@/i18n/ui'
-import { localizePath, type Locale } from '@/lib/locales'
+import { localizePath, requireLocale } from '@/lib/locales'
 import { pageMetadata } from '@/lib/seo'
 import { PageShell } from '@/components/PageShell'
 import { AboutContent } from '@/components/sections/AboutContent'
@@ -12,12 +12,12 @@ export const revalidate = 60
 type Props = { params: Promise<{ locale: string }> }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const locale = (await params).locale as Locale
+  const locale = requireLocale((await params).locale)
   return pageMetadata(locale, '/qui-sommes-nous', UI[locale].titles.about)
 }
 
 export default async function Page({ params }: Props) {
-  const locale = (await params).locale as Locale
+  const locale = requireLocale((await params).locale)
   const dict = getDictionary(locale)
   const l = (path: string) => localizePath(locale, path)
 

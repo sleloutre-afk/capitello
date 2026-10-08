@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { MENTIONS_LEGALES } from '@/content/legal'
-import { localizePath, type Locale } from '@/lib/locales'
+import { localizePath, requireLocale } from '@/lib/locales'
 import { legalMetadata } from '@/lib/seo'
 import { PageShell } from '@/components/PageShell'
 import { LegalPage } from '@/components/LegalPage'
@@ -15,7 +15,7 @@ export function generateMetadata(): Metadata {
 }
 
 export default async function Page({ params }: Props) {
-  const locale = (await params).locale as Locale
+  const locale = requireLocale((await params).locale)
 
   return (
     <PageShell locale={locale} path={MENTIONS_LEGALES.path} header="inner">

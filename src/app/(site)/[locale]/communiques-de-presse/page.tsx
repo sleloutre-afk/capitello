@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { UI } from '@/i18n/ui'
-import type { Locale } from '@/lib/locales'
+import { requireLocale } from '@/lib/locales'
 import { pageMetadata } from '@/lib/seo'
 import { PageShell } from '@/components/PageShell'
 import { PublicationList } from '@/components/PublicationList'
@@ -12,12 +12,12 @@ type Props = {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const locale = (await params).locale as Locale
+  const locale = requireLocale((await params).locale)
   return pageMetadata(locale, '/communiques-de-presse', UI[locale].titles.communiques)
 }
 
 export default async function Page({ params, searchParams }: Props) {
-  const locale = (await params).locale as Locale
+  const locale = requireLocale((await params).locale)
   const query = await searchParams
 
   return (
