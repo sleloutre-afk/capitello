@@ -114,7 +114,10 @@ clever env               # variables d'environnement (voir .env.example)
 - **Contenus** : la base et le stockage de production ont été initialisés depuis ce poste avec
   `scripts/seed.ts` puis `scripts/import-library.ts` (variables de production, dossier
   `import-files`). Ces scripts sont idempotents.
-- **Préproduction** : tant que `SITE_NOINDEX=true`, le site interdit son indexation. À la mise
-  en ligne sur capitello.fr : retirer cette variable, mettre `NEXT_PUBLIC_SITE_URL` au domaine
-  définitif, renseigner `GA_MEASUREMENT_ID`, ajouter les domaines (`clever domain add`) et
-  redéployer.
+- **Adresses** : l'adresse officielle est celle de `NEXT_PUBLIC_SITE_URL` (`https://capitello.fr`).
+  `www.capitello.fr` y est redirigé. Sous toute autre adresse — l'adresse technique
+  `*.cleverapps.io` — le site reste consultable mais interdit son indexation (`robots.txt` et
+  en-tête `X-Robots-Tag`), ce qui en fait une préproduction permanente.
+- **DNS** (chez Nameshield) : 9 enregistrements A vers les adresses de Clever Cloud pour
+  `capitello.fr`, CNAME `domain.par.clever-cloud.com.` pour `www`. Le certificat HTTPS est
+  généré par Clever Cloud une fois le DNS en place.

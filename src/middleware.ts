@@ -24,6 +24,19 @@ async function checkBoGate(request: NextRequest): Promise<Response | null> {
   return NextResponse.redirect(url)
 }
 
+/** Hôte officiel du site (capitello.fr en production), tiré de NEXT_PUBLIC_SITE_URL. */
+const CANONICAL = new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3084')
+
+/**
+ * Toute autre adresse servant le site (l'adresse technique *.cleverapps.io
+ * de Clever Cloud, par exemple) ne doit pas être indexée : elle ferait
+ * doublon avec le site officiel dans les moteurs de recherche.
+ */
+function withHostPolicy(request: NextRequest, response: NextResponse): NextResponse {
+  if (request.headers.get('host') !== CANONICAL.host) response.headers.set('X-Robots-Tag', 'noindex, nofollow')
+  return response
+}
+
 /** Requêtes par lesquelles un mot de passe de compte BO est défini ou changé. */
 function setsPassword(request: NextRequest): boolean {
   const { pathname } = request.nextUrl
@@ -72,6 +85,8 @@ async function checkPasswordStrength(request: NextRequest): Promise<Response | n
 }
 
 /**
+ * - Adresse officielle : www redirigé vers le domaine nu, et aucune
+ *   indexation sous une autre adresse que celle de NEXT_PUBLIC_SITE_URL.
  * - Back-office : captcha devant /BO et règle de mot de passe.
  * - Langues : le français est servi sans préfixe (/qui-sommes-nous), les
  *   autres sous /en, /es, /zh — comme sur le site d'origine. En interne,
@@ -79,6 +94,12 @@ async function checkPasswordStrength(request: NextRequest): Promise<Response | n
  */
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl
+
+  // www.capitello.fr → capitello.fr, comme sur le site d'origine : une seule
+  // adresse officielle par page.
+  if (request.headers.get('host') === `www.${CANONICAL.host}`) {
+    return NextResponse.redirect(new URL(pathname + request.nextUrl.search, CANONICAL.origin), 301)
+  }
 
   if (pathname.startsWith('/api/')) {
     if (setsPassword(request)) return (await checkPasswordStrength(request)) ?? NextResponse.next()
@@ -105,11 +126,11 @@ export async function middleware(request: NextRequest) {
     url.pathname = pathname.slice(`/${DEFAULT_LOCALE}`.length) || '/'
     return NextResponse.redirect(url, 308)
   }
-  if ((LOCALES as readonly string[]).includes(first)) return NextResponse.next()
+  if ((LOCALES as readonly string[]).includes(first)) return withHostPolicy(request, NextResponse.next())
 
   const url = request.nextUrl.clone()
   url.pathname = `/${DEFAULT_LOCALE}${pathname === '/' ? '' : pathname}`
-  return NextResponse.rewrite(url)
+  return withHostPolicy(request, NextResponse.rewrite(url))
 }
 
 export const config = {

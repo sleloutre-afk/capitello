@@ -11,9 +11,7 @@ const GA_ID = process.env.GA_MEASUREMENT_ID
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  // SITE_NOINDEX=true (préproduction) : pages exclues des moteurs de recherche.
-  robots:
-    process.env.SITE_NOINDEX === 'true' ? { index: false, follow: false } : { 'max-image-preview': 'large' },
+  robots: { 'max-image-preview': 'large' },
   icons: {
     icon: [
       { url: '/wp-content/uploads/2025/02/cropped-logo-capitello-black-big-32x32.png', sizes: '32x32' },
