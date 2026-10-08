@@ -39,7 +39,7 @@ export const News: CollectionConfig = {
     },
     fileField(
       'Fichier à ouvrir (PDF, vidéo, image…)',
-      'Fichier ouvert par le bouton de la publication. Prioritaire sur le lien externe.',
+      'Fichier ouvert par le bouton de la publication. Prioritaire sur le lien externe. Poids maximum : 200 Mo.',
     ),
     {
       name: 'externalUrl',

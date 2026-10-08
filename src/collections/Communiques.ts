@@ -42,7 +42,7 @@ export const Communiques: CollectionConfig = {
       label: 'Étiquettes',
       admin: { description: 'Affichées en haut à droite du visuel (Capitello Group, Doxamed…).' },
     },
-    fileField('Communiqué (PDF)', 'Fichier ouvert par le bouton « Lire le communiqué de presse ».'),
+    fileField('Communiqué (PDF)', 'Fichier ouvert par le bouton « Lire le communiqué de presse ». Poids maximum : 200 Mo.'),
     {
       name: 'showInFooter',
       type: 'checkbox',
