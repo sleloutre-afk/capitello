@@ -13,6 +13,7 @@ import { Media } from './collections/Media'
 import { Tags } from './collections/Tags'
 import { Communiques } from './collections/Communiques'
 import { News } from './collections/News'
+import { resendEmailAdapter } from './lib/payloadEmailAdapter'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -61,6 +62,11 @@ export default buildConfig({
   i18n: {
     supportedLanguages: { fr },
     fallbackLanguage: 'fr',
+    // La même page sert à la première connexion d'un compte invité et au
+    // mot de passe oublié : le titre par défaut ne convenait qu'au second cas.
+    translations: {
+      fr: { authentication: { resetPassword: 'Créez ou réinitialisez votre mot de passe' } },
+    },
   },
   // Langues du site public. Les champs « localized » (titre, chapô) se
   // saisissent par langue ; sans traduction, le français est affiché.
@@ -77,6 +83,8 @@ export default buildConfig({
   // Ordre = ordre des entrées dans la nav latérale.
   collections: [Communiques, News, Tags, Media, Users],
   editor: lexicalEditor(),
+  // E-mails du BO (invitation, mot de passe oublié) envoyés via Resend.
+  email: resendEmailAdapter,
   secret: process.env.PAYLOAD_SECRET || '',
   typescript: {
     outputFile: path.resolve(dirname, 'payload-types.ts'),

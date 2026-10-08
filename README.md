@@ -48,8 +48,18 @@ traduction dans `en.json`, `es.json` et `zh.json` (même clé).
 
 ## Back-office
 
-- **Accès** : `/BO`. Le premier compte créé devient super administrateur ; il crée ensuite les
-  autres comptes (rôle « Éditeur » : publication uniquement).
+- **Accès** : `/BO`. Un contrôle anti-robots (captcha Cloudflare Turnstile, page `/bo-verify`)
+  précède la page de connexion ; une fois passé, il reste valable 30 jours sur le navigateur.
+  Il n'est actif que si les deux clés Turnstile sont renseignées.
+- **Comptes** : un super administrateur crée le compte (nom, e-mail, rôle « Super
+  administrateur » ou « Éditeur ») ; la personne reçoit un e-mail avec un lien à usage unique,
+  valable 1 heure, pour définir son mot de passe. Le mot de passe saisi à la création est
+  provisoire et remplacé. Passé le délai, « Mot de passe oublié » renvoie un lien.
+- **Mot de passe** : au moins 10 caractères, dont une majuscule, un chiffre et un caractère
+  spécial (`src/lib/validation.ts`, appliqué dans `src/middleware.ts`). Dix échecs de connexion
+  verrouillent le compte 10 minutes.
+- **E-mails** : envoyés via Resend (`RESEND_API_KEY`, expéditeur `EMAIL_FROM`). Sans clé, aucun
+  e-mail ne part ; en local, le message et son lien s'affichent dans la console du serveur.
 - **Tableau de bord** : deux blocs « Communiqués de presse » et « Dans les médias » (publier /
   voir tout) et la bibliothèque de fichiers (`src/components/admin/DashboardWidget.tsx`,
   habillage dans `src/app/(payload)/custom.scss`).
