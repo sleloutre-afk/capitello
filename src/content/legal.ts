@@ -10,7 +10,7 @@
 /** Siège social, repris dans les trois pages. */
 const COMPANY = {
   street: '351 Bureaux de la Colline',
-  city: '92213 Saint-Cloud Cedex',
+  city: '92210 Saint-Cloud Cedex',
 }
 
 /** Hébergeur du site (mêmes mentions que sur le site Doxamed). */
