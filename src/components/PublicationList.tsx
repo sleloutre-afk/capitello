@@ -1,5 +1,5 @@
 import { UI } from '@/i18n/ui'
-import { formatLongDate } from '@/lib/dates'
+import { formatLongDate, publicationYear } from '@/lib/dates'
 import { localizePath, type Locale } from '@/lib/locales'
 import { getPublications, type PublicationType, type PublicationView } from '@/lib/publications'
 
@@ -58,9 +58,9 @@ export async function PublicationList({
   const french = locale === 'fr' ? all : await getPublications(type, 'fr')
   const frenchById = new Map(french.map((p) => [p.id, p]))
 
-  const years = [...new Set(all.map((p) => p.date.slice(0, 4)))].sort().reverse()
+  const years = [...new Set(all.map((p) => publicationYear(p.date)))].sort().reverse()
   const results = all.filter((p) => {
-    if (year && p.date.slice(0, 4) !== year) return false
+    if (year && publicationYear(p.date) !== year) return false
     if (!search.trim()) return true
     const fr = frenchById.get(p.id)
     // L'adresse du fichier compte aussi : WordPress cherchait dans le contenu de

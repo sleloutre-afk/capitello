@@ -40,13 +40,14 @@ export const publicationAccess: CollectionConfig['access'] = {
 export const dateField: Field = {
   name: 'date',
   type: 'date',
-  label: 'Date',
+  label: 'Date de publication',
   required: true,
   defaultValue: () => new Date().toISOString(),
   admin: {
     position: 'sidebar',
-    date: { pickerAppearance: 'dayOnly', displayFormat: 'dd/MM/yyyy' },
-    description: 'Date affichée sur le site ; sert aussi au tri et au filtre par année.',
+    date: { pickerAppearance: 'dayAndTime', displayFormat: 'dd/MM/yyyy HH:mm', timeFormat: 'HH:mm' },
+    description:
+      'Laissez la date/heure du jour pour une publication immédiate, ou choisissez une date future pour programmer la publication. Seule la date est affichée sur le site ; elle sert aussi au tri et au filtre par année.',
   },
 }
 

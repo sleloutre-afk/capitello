@@ -1,4 +1,4 @@
-import { getPayload } from 'payload'
+import { getPayload, type Where } from 'payload'
 import config from '@payload-config'
 import type { Locale } from './locales'
 
@@ -11,7 +11,7 @@ const COLLECTION = { communique: 'communiques', media: 'news' } as const
 export type PublicationView = {
   id: string | number
   type: PublicationType
-  /** Date ISO (jour de publication). */
+  /** Date ISO de publication (instant UTC ; le jour affiché est celui de Paris). */
   date: string
   /** Libellé de date repris tel quel du site d'origine, s'il diffère du format standard. */
   dateLabel: string | null
@@ -54,12 +54,21 @@ function toView(doc: any, type: PublicationType, locale: Locale): PublicationVie
   }
 }
 
+/**
+ * Publiée et dont la date de publication est passée : une date future
+ * programme la publication (elle apparaît sur le site à l'heure dite, au
+ * plus tard une minute après grâce à la régénération des pages).
+ */
+const isLive = (): Where => ({
+  and: [{ _status: { equals: 'published' } }, { date: { less_than_equal: new Date().toISOString() } }],
+})
+
 /** Toutes les publications publiées d'une rubrique, de la plus récente à la plus ancienne. */
 export async function getPublications(type: PublicationType, locale: Locale): Promise<PublicationView[]> {
   const payload = await getPayload({ config })
   const { docs } = await payload.find({
     collection: COLLECTION[type],
-    where: { _status: { equals: 'published' } },
+    where: isLive(),
     sort: ['-date', '-createdAt'],
     locale,
     fallbackLocale: 'fr',
@@ -74,7 +83,7 @@ export async function getFooterPublications(locale: Locale): Promise<Publication
   const payload = await getPayload({ config })
   const { docs } = await payload.find({
     collection: 'communiques',
-    where: { and: [{ showInFooter: { equals: true } }, { _status: { equals: 'published' } }] },
+    where: { and: [{ showInFooter: { equals: true } }, isLive()] },
     sort: ['-date', '-createdAt'],
     locale,
     fallbackLocale: 'fr',

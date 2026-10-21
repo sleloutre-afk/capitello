@@ -14,6 +14,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { getPayload } from 'payload'
 import config from '../src/payload.config'
+import { parisWallClockToUtc } from '../src/lib/dates'
 
 const LOCALES = ['en', 'es', 'zh'] as const
 // Les traductions existantes sont reprises telles quelles : aucune traduction
@@ -72,16 +73,16 @@ async function main() {
 
     const isExternal = /^https?:\/\//.test(item.href)
     const common = {
-      // Heure locale WordPress enregistrée telle quelle en UTC : le jour affiché
-      // ne dépend pas du fuseau du serveur, et l'heure conserve l'ordre d'origine.
-      date: `${item.date}.000Z`,
+      // Date et heure WordPress (heure de Paris) converties en instant UTC :
+      // le BO affiche l'heure d'origine, le site le jour de Paris.
+      date: parisWallClockToUtc(item.date),
       title: item.title.fr,
       legacyFile: isExternal ? undefined : item.href,
       legacyThumbnail: item.thumbnail,
       legacyThumbnailWidth: item.thumbnailWidth,
       legacyThumbnailHeight: item.thumbnailHeight,
       wpId: item.wpId,
-      legacyDate: `${item.date}.000Z`,
+      legacyDate: parisWallClockToUtc(item.date),
       legacyZhDateLabel: item.zhDateLabel,
       _status: 'published' as const,
     }
