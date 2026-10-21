@@ -396,7 +396,7 @@ export function AboutContent({ t }: SectionProps) {
         <div className="elementor-element elementor-element-b243b43 e-con-full e-flex e-con e-child">
           <div className="elementor-element elementor-element-1ee6fb1 elementor-widget elementor-widget-image">
             <div className="elementor-widget-container">
-              <img loading="lazy" decoding="async" width={150} height={150} src="/wp-content/uploads/2026/01/logo_teledok-150x150.jpg" className="attachment-thumbnail size-thumbnail wp-image-1475" alt="" srcSet="/wp-content/uploads/2026/01/logo_teledok-150x150.jpg 150w, /wp-content/uploads/2026/01/logo_teledok-300x300.jpg 300w, /wp-content/uploads/2026/01/logo_teledok-768x768.jpg 768w, /wp-content/uploads/2026/01/logo_teledok.jpg 900w" sizes="(max-width: 150px) 100vw, 150px" />
+              <img loading="lazy" decoding="async" width={171} height={47} src="/images/logo-teledok.png" className="attachment-full size-full" alt="Teledok" srcSet="/images/logo-teledok.png 2x, /images/logo-teledok@3x.png 3x" />
             </div>
           </div>
         </div>
@@ -727,11 +727,11 @@ export function AboutContent({ t }: SectionProps) {
             </div>
           </div>
         </div>
-        <div className="elementor-element elementor-element-3b5c0e9 elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-n-carousel" data-settings={"{\"carousel_items\":[{\"slide_title\":\"Diapositive N\\u00b01\",\"_id\":\"013330f\"},{\"slide_title\":\"Diapositive N\\u00b02\",\"_id\":\"ad95e8f\"},{\"slide_title\":\"Diapositive N\\u00b03\",\"_id\":\"fe0e1aa\"},{\"_id\":\"67a1a06\",\"slide_title\":\"Diapositive N\\u00b04\"},{\"_id\":\"54f0fa8\",\"slide_title\":\"Diapositive N\\u00b05\"},{\"_id\":\"bba2a88\",\"slide_title\":\"Diapositive N\\u00b06\"},{\"_id\":\"6ebeb46\",\"slide_title\":\"Diapositive N\\u00b07\"},{\"_id\":\"f33f3ea\",\"slide_title\":\"Diapositive N\\u00b08\"},{\"_id\":\"442673b\",\"slide_title\":\"Diapositive N\\u00b09\"},{\"_id\":\"37a5b01\",\"slide_title\":\"Diapositive N\\u00b010\"},{\"_id\":\"ec66c0c\",\"slide_title\":\"Diapositive N\\u00b011\"},{\"_id\":\"7b1ffc5\",\"slide_title\":\"Diapositive N\\u00b012\"},{\"_id\":\"5da0142\",\"slide_title\":\"Diapositive N\\u00b013\"},{\"_id\":\"81627f3\",\"slide_title\":\"Diapositive N\\u00b014\"},{\"_id\":\"17fa5f1\",\"slide_title\":\"Diapositive N\\u00b015\"},{\"_id\":\"6c75583\",\"slide_title\":\"Diapositive N\\u00b016\"},{\"_id\":\"7f735e5\",\"slide_title\":\"Diapositive N\\u00b017\"},{\"_id\":\"17fef85\",\"slide_title\":\"Diapositive N\\u00b018\"},{\"_id\":\"716ef26\",\"slide_title\":\"Diapositive N\\u00b019\"},{\"_id\":\"16e3dce\",\"slide_title\":\"Diapositive N\\u00b020\"},{\"slide_title\":\"Diapositive N\\u00b020\",\"_id\":\"66a8a79\"}],\"slides_to_show_tablet\":\"2\",\"slides_to_show_mobile\":\"1\",\"autoplay\":\"yes\",\"autoplay_speed\":5000,\"pause_on_hover\":\"yes\",\"pause_on_interaction\":\"yes\",\"infinite\":\"yes\",\"speed\":500,\"offset_sides\":\"none\",\"arrows\":\"yes\",\"pagination\":\"bullets\",\"image_spacing_custom\":{\"unit\":\"px\",\"size\":10,\"sizes\":[]},\"image_spacing_custom_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"image_spacing_custom_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"}>
+        <div className="elementor-element elementor-element-3b5c0e9 elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-n-carousel" data-settings={"{\"carousel_items\":[{\"slide_title\":\"Diapositive N\\u00b01\",\"_id\":\"013330f\"},{\"slide_title\":\"Diapositive N\\u00b02\",\"_id\":\"ad95e8f\"},{\"slide_title\":\"Diapositive N\\u00b03\",\"_id\":\"fe0e1aa\"},{\"_id\":\"67a1a06\",\"slide_title\":\"Diapositive N\\u00b04\"},{\"_id\":\"54f0fa8\",\"slide_title\":\"Diapositive N\\u00b05\"},{\"_id\":\"bba2a88\",\"slide_title\":\"Diapositive N\\u00b06\"},{\"_id\":\"6ebeb46\",\"slide_title\":\"Diapositive N\\u00b07\"},{\"_id\":\"f33f3ea\",\"slide_title\":\"Diapositive N\\u00b08\"},{\"_id\":\"442673b\",\"slide_title\":\"Diapositive N\\u00b09\"},{\"_id\":\"37a5b01\",\"slide_title\":\"Diapositive N\\u00b010\"},{\"_id\":\"ec66c0c\",\"slide_title\":\"Diapositive N\\u00b011\"},{\"_id\":\"7b1ffc5\",\"slide_title\":\"Diapositive N\\u00b012\"},{\"_id\":\"5da0142\",\"slide_title\":\"Diapositive N\\u00b013\"},{\"_id\":\"81627f3\",\"slide_title\":\"Diapositive N\\u00b014\"},{\"_id\":\"17fa5f1\",\"slide_title\":\"Diapositive N\\u00b015\"},{\"_id\":\"6c75583\",\"slide_title\":\"Diapositive N\\u00b016\"},{\"_id\":\"7f735e5\",\"slide_title\":\"Diapositive N\\u00b017\"},{\"_id\":\"17fef85\",\"slide_title\":\"Diapositive N\\u00b018\"},{\"_id\":\"716ef26\",\"slide_title\":\"Diapositive N\\u00b019\"},{\"_id\":\"16e3dce\",\"slide_title\":\"Diapositive N\\u00b020\"},{\"slide_title\":\"Diapositive N\\u00b020\",\"_id\":\"66a8a79\"},{\"slide_title\":\"Diapositive N\\u00b022\",\"_id\":\"c0115ee\"}],\"slides_to_show_tablet\":\"2\",\"slides_to_show_mobile\":\"1\",\"autoplay\":\"yes\",\"autoplay_speed\":5000,\"pause_on_hover\":\"yes\",\"pause_on_interaction\":\"yes\",\"infinite\":\"yes\",\"speed\":500,\"offset_sides\":\"none\",\"arrows\":\"yes\",\"pagination\":\"bullets\",\"image_spacing_custom\":{\"unit\":\"px\",\"size\":10,\"sizes\":[]},\"image_spacing_custom_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"image_spacing_custom_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"}>
           <div className="elementor-widget-container">
             <div className="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
               <div className="swiper-wrapper" aria-live="off">
-                <div className="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 sur 21">
+                <div className="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 sur 22">
                   <div className="elementor-element elementor-element-04a9050 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-e6ba25b elementor-widget elementor-widget-image">
@@ -742,7 +742,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 sur 21">
+                <div className="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 sur 22">
                   <div className="elementor-element elementor-element-5867577 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-5dbadfc elementor-widget elementor-widget-image">
@@ -753,7 +753,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 sur 21">
+                <div className="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 sur 22">
                   <div className="elementor-element elementor-element-ee5237d e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-105a4f4 elementor-widget elementor-widget-image">
@@ -764,7 +764,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 sur 21">
+                <div className="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 sur 22">
                   <div className="elementor-element elementor-element-4d47296 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-237152f elementor-widget elementor-widget-image">
@@ -775,7 +775,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="5" role="group" aria-roledescription="slide" aria-label="5 sur 21">
+                <div className="swiper-slide" data-slide="5" role="group" aria-roledescription="slide" aria-label="5 sur 22">
                   <div className="elementor-element elementor-element-69b9300 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-5eaea42 elementor-widget elementor-widget-image">
@@ -786,7 +786,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="6" role="group" aria-roledescription="slide" aria-label="6 sur 21">
+                <div className="swiper-slide" data-slide="6" role="group" aria-roledescription="slide" aria-label="6 sur 22">
                   <div className="elementor-element elementor-element-4e5faaf e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-b86f995 elementor-widget elementor-widget-image">
@@ -797,7 +797,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="7" role="group" aria-roledescription="slide" aria-label="7 sur 21">
+                <div className="swiper-slide" data-slide="7" role="group" aria-roledescription="slide" aria-label="7 sur 22">
                   <div className="elementor-element elementor-element-cf1c647 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-cf0cd37 elementor-widget elementor-widget-image">
@@ -808,7 +808,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="8" role="group" aria-roledescription="slide" aria-label="8 sur 21">
+                <div className="swiper-slide" data-slide="8" role="group" aria-roledescription="slide" aria-label="8 sur 22">
                   <div className="elementor-element elementor-element-6fd6722 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-f3aec34 elementor-widget elementor-widget-image">
@@ -819,7 +819,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="9" role="group" aria-roledescription="slide" aria-label="9 sur 21">
+                <div className="swiper-slide" data-slide="9" role="group" aria-roledescription="slide" aria-label="9 sur 22">
                   <div className="elementor-element elementor-element-7e8574a e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-1e74919 elementor-widget elementor-widget-image">
@@ -830,7 +830,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="10" role="group" aria-roledescription="slide" aria-label="10 sur 21">
+                <div className="swiper-slide" data-slide="10" role="group" aria-roledescription="slide" aria-label="10 sur 22">
                   <div className="elementor-element elementor-element-b9b457e e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-f2ce693 elementor-widget elementor-widget-image">
@@ -841,7 +841,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="11" role="group" aria-roledescription="slide" aria-label="11 sur 21">
+                <div className="swiper-slide" data-slide="11" role="group" aria-roledescription="slide" aria-label="11 sur 22">
                   <div className="elementor-element elementor-element-b8d08fd e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-a79932f elementor-widget elementor-widget-image">
@@ -852,7 +852,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="12" role="group" aria-roledescription="slide" aria-label="12 sur 21">
+                <div className="swiper-slide" data-slide="12" role="group" aria-roledescription="slide" aria-label="12 sur 22">
                   <div className="elementor-element elementor-element-3799d9e e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-8bb090c elementor-widget elementor-widget-image">
@@ -863,7 +863,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="13" role="group" aria-roledescription="slide" aria-label="13 sur 21">
+                <div className="swiper-slide" data-slide="13" role="group" aria-roledescription="slide" aria-label="13 sur 22">
                   <div className="elementor-element elementor-element-41ecd65 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-65a3600 elementor-widget elementor-widget-image">
@@ -874,7 +874,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="14" role="group" aria-roledescription="slide" aria-label="14 sur 21">
+                <div className="swiper-slide" data-slide="14" role="group" aria-roledescription="slide" aria-label="14 sur 22">
                   <div className="elementor-element elementor-element-189659b e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-9191182 elementor-widget elementor-widget-image">
@@ -885,7 +885,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="15" role="group" aria-roledescription="slide" aria-label="15 sur 21">
+                <div className="swiper-slide" data-slide="15" role="group" aria-roledescription="slide" aria-label="15 sur 22">
                   <div className="elementor-element elementor-element-636368d e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-bf9c8bf elementor-widget elementor-widget-image">
@@ -896,7 +896,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="16" role="group" aria-roledescription="slide" aria-label="16 sur 21">
+                <div className="swiper-slide" data-slide="16" role="group" aria-roledescription="slide" aria-label="16 sur 22">
                   <div className="elementor-element elementor-element-3bdd7e6 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-ec12475 elementor-widget elementor-widget-image">
@@ -907,7 +907,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="17" role="group" aria-roledescription="slide" aria-label="17 sur 21">
+                <div className="swiper-slide" data-slide="17" role="group" aria-roledescription="slide" aria-label="17 sur 22">
                   <div className="elementor-element elementor-element-e7df6f4 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-799f42a elementor-widget elementor-widget-image">
@@ -918,7 +918,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="18" role="group" aria-roledescription="slide" aria-label="18 sur 21">
+                <div className="swiper-slide" data-slide="18" role="group" aria-roledescription="slide" aria-label="18 sur 22">
                   <div className="elementor-element elementor-element-5033f74 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-6c74b94 elementor-widget elementor-widget-image">
@@ -929,7 +929,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="19" role="group" aria-roledescription="slide" aria-label="19 sur 21">
+                <div className="swiper-slide" data-slide="19" role="group" aria-roledescription="slide" aria-label="19 sur 22">
                   <div className="elementor-element elementor-element-12f5246 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-eaa5107 elementor-widget elementor-widget-image">
@@ -940,7 +940,7 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="20" role="group" aria-roledescription="slide" aria-label="20 sur 21">
+                <div className="swiper-slide" data-slide="20" role="group" aria-roledescription="slide" aria-label="20 sur 22">
                   <div className="elementor-element elementor-element-8fa7eb1 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-c8d0918 elementor-widget elementor-widget-image">
@@ -951,12 +951,23 @@ export function AboutContent({ t }: SectionProps) {
                     </div>
                   </div>
                 </div>
-                <div className="swiper-slide" data-slide="21" role="group" aria-roledescription="slide" aria-label="21 sur 21">
+                <div className="swiper-slide" data-slide="21" role="group" aria-roledescription="slide" aria-label="21 sur 22">
                   <div className="elementor-element elementor-element-b115195 e-flex e-con-boxed e-con e-child">
                     <div className="e-con-inner">
                       <div className="elementor-element elementor-element-541f173 elementor-widget elementor-widget-image">
                         <div className="elementor-widget-container">
                           <img loading="lazy" decoding="async" width={300} height={141} src="/wp-content/uploads/2026/01/logo-bpifrance-300x141.webp" className="attachment-medium size-medium wp-image-1479" alt="" srcSet="/wp-content/uploads/2026/01/logo-bpifrance-300x141.webp 300w, /wp-content/uploads/2026/01/logo-bpifrance-1024x480.webp 1024w, /wp-content/uploads/2026/01/logo-bpifrance-768x360.webp 768w, /wp-content/uploads/2026/01/logo-bpifrance-1536x720.webp 1536w, /wp-content/uploads/2026/01/logo-bpifrance.webp 2000w" sizes="(max-width: 300px) 100vw, 300px" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide" data-slide="22" role="group" aria-roledescription="slide" aria-label="22 sur 22">
+                  <div className="elementor-element elementor-element-b115195 e-flex e-con-boxed e-con e-child">
+                    <div className="e-con-inner">
+                      <div className="elementor-element elementor-element-541f173 elementor-widget elementor-widget-image">
+                        <div className="elementor-widget-container">
+                          <img loading="lazy" decoding="async" width={300} height={77} src="/images/logo-colisee.png" className="attachment-medium size-medium" alt="Colisée" />
                         </div>
                       </div>
                     </div>

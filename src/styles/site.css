@@ -134,3 +134,11 @@
     --width: 100%;
   }
 }
+
+/*
+ * Qui sommes-nous, « Nos métiers » : logo Teledok (PNG détouré) à la même
+ * largeur que celui de Doxamed (171 px).
+ */
+.elementor-265 .elementor-element.elementor-element-1ee6fb1 img {
+  width: 171px;
+}
