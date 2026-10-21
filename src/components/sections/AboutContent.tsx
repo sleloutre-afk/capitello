@@ -985,6 +985,76 @@ export function AboutContent({ t }: SectionProps) {
           </div>
         </div>
       </div>
+      <div className="elementor-element elementor-element-7869e91 refs-teledok e-con-full e-flex e-con e-parent">
+        <div className="elementor-element elementor-element-a8702bd e-con-full e-flex e-con e-child">
+          <div className="elementor-element elementor-element-cbfe754 e-con-full e-flex e-con e-child">
+            <div className="elementor-element elementor-element-bb7c1af elementor-widget elementor-widget-image">
+              <div className="elementor-widget-container">
+                <img loading="lazy" decoding="async" width={125} height={34} src="/images/logo-teledok.png" className="attachment-medium size-medium" alt="Teledok" srcSet="/images/logo-teledok.png 2x, /images/logo-teledok@3x.png 3x" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="elementor-element elementor-element-3b5c0e9 elementor-pagination-type-bullets elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-n-carousel" data-settings={"{\"carousel_items\":[{\"slide_title\":\"Diapositive N\\u00b01\",\"_id\":\"7d0c001\"},{\"slide_title\":\"Diapositive N\\u00b02\",\"_id\":\"7d0c002\"},{\"slide_title\":\"Diapositive N\\u00b03\",\"_id\":\"7d0c003\"},{\"slide_title\":\"Diapositive N\\u00b04\",\"_id\":\"7d0c004\"}],\"slides_to_show_tablet\":\"2\",\"slides_to_show_mobile\":\"1\",\"autoplay\":\"yes\",\"autoplay_speed\":5000,\"pause_on_hover\":\"yes\",\"pause_on_interaction\":\"yes\",\"infinite\":\"yes\",\"speed\":500,\"offset_sides\":\"none\",\"arrows\":\"yes\",\"pagination\":\"bullets\",\"image_spacing_custom\":{\"unit\":\"px\",\"size\":10,\"sizes\":[]},\"image_spacing_custom_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"image_spacing_custom_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"}>
+          <div className="elementor-widget-container">
+            <div className="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
+              <div className="swiper-wrapper" aria-live="off">
+                <div className="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 sur 4">
+                  <div className="elementor-element elementor-element-b115195 e-flex e-con-boxed e-con e-child">
+                    <div className="e-con-inner">
+                      <div className="elementor-element elementor-element-541f173 elementor-widget elementor-widget-image">
+                        <div className="elementor-widget-container">
+                          <img loading="lazy" decoding="async" width={300} height={79} src="/images/ref-toktokdoc.png" className="attachment-medium size-medium" alt="Toktokdoc" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 sur 4">
+                  <div className="elementor-element elementor-element-b115195 e-flex e-con-boxed e-con e-child">
+                    <div className="e-con-inner">
+                      <div className="elementor-element elementor-element-541f173 elementor-widget elementor-widget-image">
+                        <div className="elementor-widget-container">
+                          <img loading="lazy" decoding="async" width={300} height={76} src="/images/ref-reseau-ama.png" className="attachment-medium size-medium" alt="Réseau AMA" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 sur 4">
+                  <div className="elementor-element elementor-element-b115195 e-flex e-con-boxed e-con e-child">
+                    <div className="e-con-inner">
+                      <div className="elementor-element elementor-element-541f173 elementor-widget elementor-widget-image">
+                        <div className="elementor-widget-container">
+                          <img loading="lazy" decoding="async" width={300} height={84} src="/images/ref-sauvlife.png" className="attachment-medium size-medium" alt="SauvLife" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 sur 4">
+                  <div className="elementor-element elementor-element-b115195 e-flex e-con-boxed e-con e-child">
+                    <div className="e-con-inner">
+                      <div className="elementor-element elementor-element-541f173 elementor-widget elementor-widget-image">
+                        <div className="elementor-widget-container">
+                          <img loading="lazy" decoding="async" width={300} height={104} src="/images/ref-h4d.jpg" className="attachment-medium size-medium" alt="H4D" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="elementor-swiper-button elementor-swiper-button-prev" role="button" tabIndex={0} aria-label="Précédent">
+              <svg aria-hidden="true" className="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z" /></svg>
+            </div>
+            <div className="elementor-swiper-button elementor-swiper-button-next" role="button" tabIndex={0} aria-label="Suivant">
+              <svg aria-hidden="true" className="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z" /></svg>
+            </div>
+            <div className="swiper-pagination"></div>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }

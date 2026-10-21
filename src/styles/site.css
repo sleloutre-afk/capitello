@@ -142,3 +142,13 @@
 .elementor-265 .elementor-element.elementor-element-1ee6fb1 img {
   width: 171px;
 }
+
+/*
+ * « Nos références » : le bloc Teledok suit celui de Doxamed. La marge basse
+ * de Doxamed (200 px, prévue avant le pied de page) passe à 100 px pour
+ * garder entre les deux le même écart qu'entre les autres blocs ; Teledok
+ * reprend la marge basse de 200 px.
+ */
+.elementor-265 .elementor-element.elementor-element-7869e91:not(.refs-teledok) {
+  --margin-bottom: 100px;
+}
