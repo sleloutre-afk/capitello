@@ -188,7 +188,7 @@ export function HomeContent({ t, l }: SectionProps) {
         <div className="elementor-element elementor-element-0a6638d e-con-full elementor-hidden-mobile e-flex e-con e-child">
           <div className="elementor-element elementor-element-b29db25 elementor-widget elementor-widget-image">
             <div className="elementor-widget-container">
-              <img loading="lazy" decoding="async" width={1024} height={503} src="/wp-content/uploads/2026/01/Image_Home_TeleDok-1024x503.png" className="attachment-large size-large wp-image-1503" alt="" srcSet="/wp-content/uploads/2026/01/Image_Home_TeleDok-1024x503.png 1024w, /wp-content/uploads/2026/01/Image_Home_TeleDok-300x147.png 300w, /wp-content/uploads/2026/01/Image_Home_TeleDok-768x377.png 768w, /wp-content/uploads/2026/01/Image_Home_TeleDok.png 1320w" sizes="(max-width: 1024px) 100vw, 1024px" />
+              <img loading="lazy" decoding="async" width={1024} height={404} src="/images/arbo-capitello-1024x404.png" className="attachment-large size-large wp-image-1503" alt="Organisation de Capitello Group : Capitello Consulting, Capitello Media, Capitello Move, Doxamed et Teledok" srcSet="/images/arbo-capitello-1024x404.png 1024w, /images/arbo-capitello-300x118.png 300w, /images/arbo-capitello-768x303.png 768w, /images/arbo-capitello.png 1320w" sizes="(max-width: 1024px) 100vw, 1024px" />
             </div>
           </div>
         </div>
