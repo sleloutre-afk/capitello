@@ -174,14 +174,6 @@ export function AboutContent({ t }: SectionProps) {
           <div className="elementor-element elementor-element-8cc6f2a elementor-widget elementor-widget-text-editor">
             <div className="elementor-widget-container" dangerouslySetInnerHTML={{ __html: t.e8cc6f2a }} />
           </div>
-          <div className="elementor-element elementor-element-c352cf2 elementor-widget elementor-widget-image">
-            <div className="elementor-widget-container">
-              <img loading="lazy" decoding="async" width={121} height={133} src="/wp-content/uploads/2025/02/LOGO-PTC-1-ligne-2.png" className="attachment-large size-large wp-image-476" alt="" />
-            </div>
-          </div>
-          <div className="elementor-element elementor-element-b1879bd elementor-widget elementor-widget-text-editor">
-            <div className="elementor-widget-container" dangerouslySetInnerHTML={{ __html: t.eb1879bd }} />
-          </div>
           <div className="elementor-element elementor-element-1f9512b e-con-full elementor-hidden-desktop e-flex e-con e-child">
             <div className="elementor-element elementor-element-eb8baea e-con-full e-flex e-con e-child">
               <div className="elementor-element elementor-element-713ef90 e-con-full e-flex e-con e-child">

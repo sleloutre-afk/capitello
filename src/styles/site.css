@@ -123,3 +123,14 @@
   max-width: 100%;
   max-height: 100%;
 }
+
+/*
+ * Qui sommes-nous, bloc Capitello Media : la légende du prix est plus longue
+ * que l'ancien « +30 Chaines TV… ». Le conteneur d'origine (50 % de la
+ * colonne) la faisait tenir sur 7 lignes en bureau ; il prend toute la colonne.
+ */
+@media (min-width: 1025px) {
+  .elementor-265 .elementor-element.elementor-element-b8d87c2 {
+    --width: 100%;
+  }
+}
