@@ -123,11 +123,11 @@ export function HomeContent({ t, l }: SectionProps) {
           </div>
         </div>
         <div className="elementor-element elementor-element-6bbbd73 e-con-full elementor-hidden-desktop elementor-hidden-tablet e-flex e-con e-child">
-          <div className="elementor-element elementor-element-07e4ea9 elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-n-carousel" data-settings={"{\"carousel_items\":[{\"slide_title\":\"Diapositive N\\u00b01\",\"_id\":\"20c1f7d\"},{\"slide_title\":\"Diapositive N\\u00b02\",\"_id\":\"7dc2e23\"},{\"slide_title\":\"Diapositive N\\u00b03\",\"_id\":\"449b9c3\"},{\"_id\":\"219e91d\",\"slide_title\":\"Diapositive N\\u00b04\"}],\"autoplay_speed\":3000,\"slides_to_show_tablet\":\"2\",\"slides_to_show_mobile\":\"1\",\"autoplay\":\"yes\",\"pause_on_hover\":\"yes\",\"pause_on_interaction\":\"yes\",\"infinite\":\"yes\",\"speed\":500,\"offset_sides\":\"none\",\"pagination\":\"bullets\",\"image_spacing_custom\":{\"unit\":\"px\",\"size\":10,\"sizes\":[]},\"image_spacing_custom_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"image_spacing_custom_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"}>
+          <div className="elementor-element elementor-element-07e4ea9 elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-n-carousel" data-settings={"{\"carousel_items\":[{\"slide_title\":\"Diapositive N\\u00b01\",\"_id\":\"20c1f7d\"},{\"slide_title\":\"Diapositive N\\u00b02\",\"_id\":\"7dc2e23\"},{\"slide_title\":\"Diapositive N\\u00b03\",\"_id\":\"449b9c3\"},{\"_id\":\"219e91d\",\"slide_title\":\"Diapositive N\\u00b04\"},{\"_id\":\"7d0c005\",\"slide_title\":\"Diapositive N\\u00b05\"}],\"autoplay_speed\":3000,\"slides_to_show_tablet\":\"2\",\"slides_to_show_mobile\":\"1\",\"autoplay\":\"yes\",\"pause_on_hover\":\"yes\",\"pause_on_interaction\":\"yes\",\"infinite\":\"yes\",\"speed\":500,\"offset_sides\":\"none\",\"pagination\":\"bullets\",\"image_spacing_custom\":{\"unit\":\"px\",\"size\":10,\"sizes\":[]},\"image_spacing_custom_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"image_spacing_custom_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"}>
             <div className="elementor-widget-container">
               <div className="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel Capitello group" dir="ltr">
                 <div className="swiper-wrapper" aria-live="off">
-                  <div className="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 sur 4">
+                  <div className="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 sur 5">
                     <div className="elementor-element elementor-element-8212c8d e-flex e-con-boxed e-con e-child">
                       <div className="e-con-inner">
                         <div className="elementor-element elementor-element-282c6b9 e-con-full e-flex e-con e-child">
@@ -140,20 +140,20 @@ export function HomeContent({ t, l }: SectionProps) {
                       </div>
                     </div>
                   </div>
-                  <div className="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 sur 4">
+                  <div className="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 sur 5">
                     <div className="elementor-element elementor-element-8d60501 e-flex e-con-boxed e-con e-child">
                       <div className="e-con-inner">
                         <div className="elementor-element elementor-element-a87d463 e-con-full e-flex e-con e-child">
                           <div className="elementor-element elementor-element-e772223 elementor-widget elementor-widget-image">
                             <div className="elementor-widget-container">
-                              <img loading="lazy" decoding="async" width={199} height={143} src="/wp-content/uploads/2025/02/Capitello_media_paris_TV_Center.png" className="attachment-large size-large wp-image-923" alt="" />
+                              <img loading="lazy" decoding="async" width={199} height={62} src="/wp-content/uploads/2025/02/Capitello_media.png" className="attachment-large size-large wp-image-923" alt="Capitello Media" />
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div className="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 sur 4">
+                  <div className="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 sur 5">
                     <div className="elementor-element elementor-element-41042e9 e-flex e-con-boxed e-con e-child">
                       <div className="e-con-inner">
                         <div className="elementor-element elementor-element-4d8e24a e-con-full e-flex e-con e-child">
@@ -166,13 +166,26 @@ export function HomeContent({ t, l }: SectionProps) {
                       </div>
                     </div>
                   </div>
-                  <div className="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 sur 4">
+                  <div className="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 sur 5">
                     <div className="elementor-element elementor-element-56e5b6b e-flex e-con-boxed e-con e-child">
                       <div className="e-con-inner">
                         <div className="elementor-element elementor-element-b0b9638 e-con-full e-flex e-con e-child">
                           <div className="elementor-element elementor-element-5936495 elementor-widget elementor-widget-image">
                             <div className="elementor-widget-container">
                               <img loading="lazy" decoding="async" width={171} height={122} src="/wp-content/uploads/2025/02/DOXAMED_Logo.png" className="attachment-large size-large wp-image-277" alt="" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="swiper-slide" data-slide="5" role="group" aria-roledescription="slide" aria-label="5 sur 5">
+                    <div className="elementor-element elementor-element-56e5b6b e-flex e-con-boxed e-con e-child">
+                      <div className="e-con-inner">
+                        <div className="elementor-element elementor-element-b0b9638 e-con-full e-flex e-con e-child">
+                          <div className="elementor-element elementor-element-5936495 elementor-widget elementor-widget-image">
+                            <div className="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width={171} height={47} src="/images/logo-teledok.png" className="attachment-large size-large" alt="Teledok" srcSet="/images/logo-teledok.png 2x, /images/logo-teledok@3x.png 3x" />
                             </div>
                           </div>
                         </div>
