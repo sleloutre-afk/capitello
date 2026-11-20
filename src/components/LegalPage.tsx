@@ -56,7 +56,16 @@ function Block({ block, l }: { block: LegalBlock; l: (path: string) => string })
  * presse » / « Dans les médias » (équerre + titre), puis le texte en une
  * colonne. Contenu dans src/content/legal.ts, styles dans src/styles/site.css.
  */
-export function LegalPage({ document, l }: { document: LegalDocument; l: (path: string) => string }) {
+export function LegalPage({
+  document,
+  l,
+  intro,
+}: {
+  document: LegalDocument
+  l: (path: string) => string
+  /** Placé entre le titre et le texte (ex. bouton « Modifier mes choix de cookies »). */
+  intro?: ReactNode
+}) {
   return (
     // Le texte est en français quelle que soit la langue du site.
     <main className="legal-page" lang="fr">
@@ -64,6 +73,7 @@ export function LegalPage({ document, l }: { document: LegalDocument; l: (path: 
         <h1 className="page-custom-title">
           <img decoding="async" src="/wp-content/uploads/2025/02/border.svg" alt="" /> {document.title}
         </h1>
+        {intro}
         <div className="legal-page__body">
           {document.blocks.map((block, i) => (
             <Block key={i} block={block} l={l} />

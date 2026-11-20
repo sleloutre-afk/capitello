@@ -90,3 +90,49 @@ export const UI: Record<
     video: '视频',
   },
 }
+
+/** Bandeau de consentement aux cookies (src/components/CookieBanner.tsx). */
+export type CookieTexts = {
+  title: string
+  text: string
+  learnMore: string
+  refuse: string
+  accept: string
+  /** Bouton de la page « Gestion des cookies » qui rouvre le bandeau. */
+  settings: string
+}
+
+export const COOKIE_TEXTS: Record<Locale, CookieTexts> = {
+  fr: {
+    title: 'Un petit cookie ?',
+    text: 'Dans un souci d’amélioration continue du site, et avec votre accord, nous mesurons son audience avec Google Analytics.',
+    learnMore: 'En savoir plus',
+    refuse: 'Refuser',
+    accept: 'Accepter',
+    settings: 'Modifier mes choix de cookies',
+  },
+  en: {
+    title: 'Fancy a cookie?',
+    text: 'To keep improving this website, and with your consent, we measure its audience with Google Analytics.',
+    learnMore: 'Learn more',
+    refuse: 'Decline',
+    accept: 'Accept',
+    settings: 'Change my cookie settings',
+  },
+  es: {
+    title: '¿Le apetece una cookie?',
+    text: 'Para seguir mejorando el sitio, y con su consentimiento, medimos su audiencia con Google Analytics.',
+    learnMore: 'Más información',
+    refuse: 'Rechazar',
+    accept: 'Aceptar',
+    settings: 'Modificar mis preferencias de cookies',
+  },
+  zh: {
+    title: '来块饼干吗？',
+    text: '为持续改进本网站，经您同意，我们使用 Google Analytics 统计网站的访问量。',
+    learnMore: '了解更多',
+    refuse: '拒绝',
+    accept: '接受',
+    settings: '修改我的 Cookie 设置',
+  },
+}
