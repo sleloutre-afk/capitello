@@ -10,7 +10,10 @@ export default async function robots(): Promise<MetadataRoute.Robots> {
   if (host !== new URL(SITE_URL).host) return { rules: [{ userAgent: '*', disallow: '/' }] }
 
   return {
-    rules: [{ userAgent: '*', disallow: ['/BO', '/api'] }],
+    // Les fichiers envoyés depuis le BO (PDF des communiqués, visuels, logos des médias) sont servis
+    // sous /api/media/file/ : ils doivent rester indexables, comme les anciens /wp-content/uploads.
+    // Le reste de /api et le BO restent interdits ; Google applique la règle la plus précise.
+    rules: [{ userAgent: '*', allow: '/api/media/file/', disallow: ['/BO', '/api'] }],
     sitemap: `${SITE_URL}/sitemap.xml`,
   }
 }
